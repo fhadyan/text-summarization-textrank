@@ -1,1 +1,2 @@
-stanford-ner/
+stanford-ner/*
+.idea/*

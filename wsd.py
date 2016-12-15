@@ -51,10 +51,21 @@ def preprocess(fpath):
 def cwi(sentences ,words):
     word_freqs = [[[x[0], x[1],x[2], zipf_frequency(x[0], 'en')] for x in y] for y in words]
     word_freqs_sorted = [sorted(y, key=lambda x: x[3], reverse=False) for y in word_freqs]
-    word_freq = word_freqs_sorted[1][0] #####
-    sentence = word_freqs_sorted[1]#####
-    for x in word_freqs:
-        subtitute = lesk(word_freqs_sorted[1],word_freqs_sorted[1][0])
+    #word_freq = word_freqs_sorted[1][0] #####
+    #sentence = word_freqs_sorted[1]#####
+    for i,wf_sort in enumerate(word_freqs_sorted):
+        #subtitute = lesk(word_freqs_sorted[i],word_freqs_sorted[i][0]) ######
+        subtitute = lesk(wf_sort,wf_sort[0])
+        if not subtitute[0][0]>0:
+            continue
+        synset = subtitute[0][1].name().split('.')[1:3]
+        subWord = [x[1] for x in subtitute]
+        subWord = [x.name().split('.') for x in subWord]
+        subWord = [x[0] for x in subWord if x[1:3] == synset]
+        subWord = [[zipf_frequency(x, 'en'),x] for x in subWord]
+        subWord = sorted(subWord, reverse=True)
+        sentences[i] = re.sub(wf_sort[0][0], subWord[0][1], sentences[i])
+    return sentences
         
 def synProp(synset, param):
     #synset=s #####
@@ -67,6 +78,8 @@ def synsetSignature(amb_word,word_freq):
     syn = wordnet.synsets(amb_word)
     synSignature = {}
     for s in syn:
+        #if(s.pos()!=word_freq[1]):
+        #    continue
         #s=syn[0] #####
         sig = []
         sigDef = synProp(s, 'definition')
@@ -113,10 +126,12 @@ def rankedSynset(lemmatizeSentence, synSign):
     for s in synSign:
         overlap = set(synSign[s]).intersection(lemmatizeWord)
         overlaps.append([len(overlap),s])
-    rank = sorted(overlaps,reverse=True)    
-    total = float(sum(x[0] for x in rank))
+    total = float(sum(x[0] for x in overlaps))
     if total==0:
         total=1
+        rank = overlaps
+    else:
+        rank = sorted(overlaps,reverse=True)        
     rank = [[x[0]/total, x[1]] for x in rank]
     return rank
     
@@ -137,12 +152,26 @@ wordnetlemmatizer = WordNetLemmatizer()
 stemmer = PorterStemmer()
 
 path='data/sys-summary/'
+outPath='data/sys-summary-wsd/'
+if os.path.exists(outPath):
+    shutil.rmtree(outPath)
+    os.makedirs(outPath)
+else:
+    os.makedirs(outPath)
 dirpaths = os.listdir(path)
 for dirpath in dirpaths:
-    dirpath = dirpaths[10] #####
+    #dirpath = dirpaths[10] #####
+    if not os.path.exists(outPath+dirpath):
+            os.makedirs(outPath+dirpath)
     filenames = os.listdir(path+dirpath)
     for filename in filenames:
-        filename = filenames[2] #####
+        #filename = filenames[2] #####
         sentences,words = preprocess(path+dirpath+"/"+filename)
-        
+        text=cwi(sentences,words)
+        f = open(outPath+dirpath+"/"+filename, "w", encoding="utf-8")
+        output=''
+        for x in text:
+            output+=x+'.'
+        f.write(x)
+        f.close()
         
