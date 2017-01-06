@@ -15,6 +15,8 @@ from nltk.corpus import stopwords
 from pywsd.lesk import simple_lesk, original_lesk
 from pywsd.similarity import max_similarity
 from pywsd.utils import lemmatize, lemmatize_sentence
+from wordfreq import word_frequency
+from wordfreq import zipf_frequency
 
 """
 This is a module for all-words full text WSD 
@@ -28,7 +30,7 @@ stopwords = stopwords.words('english') + list(punctuation)
 
 def disambiguate(sentence, algorithm=simple_lesk, 
                  context_is_lemmatized=False, similarity_option='path',
-                 keepLemmas=False, prefersNone=True):
+                 keepLemmas=False, prefersNone=True, zipf=5):
     tagged_sentence = []
     # Pre-lemmatize the sentnece before WSD
     if not context_is_lemmatized:
@@ -38,16 +40,19 @@ def disambiguate(sentence, algorithm=simple_lesk,
         lemma_sentence = sentence # TODO: Miss out on POS specification, how to resolve?
     for word, lemma, pos in zip(surface_words, lemmas, morphy_poss):
         if lemma not in stopwords: # Checks if it is a content word 
-            try:
-                wn.synsets(lemma)[0]
-                if algorithm == original_lesk: # Note: Original doesn't care about lemmas
-                    synset = algorithm(lemma_sentence, lemma)
-                elif algorithm == max_similarity:                    
-                    synset = algorithm(lemma_sentence, lemma, pos=pos, option=similarity_option)
-                else:
-                    synset = algorithm(lemma_sentence, lemma, pos=pos, context_is_lemmatized=True)
-            except: # In case the content word is not in WordNet
-                synset = '#NOT_IN_WN#'
+            if zipf_frequency(lemma, 'en')<zipf:
+                try:
+                    wn.synsets(lemma)[0]
+                    if algorithm == original_lesk: # Note: Original doesn't care about lemmas
+                        synset = algorithm(lemma_sentence, lemma)
+                    elif algorithm == max_similarity:                    
+                        synset = algorithm(lemma_sentence, lemma, pos=pos, option=similarity_option)
+                    else:
+                        synset = algorithm(lemma_sentence, lemma, pos=pos, context_is_lemmatized=True)
+                except: # In case the content word is not in WordNet
+                    synset = '#NOT_IN_WN#'
+            else:
+                synset = '#under_zipf#'
         else:
             synset = '#STOPWORD/PUNCTUATION#'
         if keepLemmas:

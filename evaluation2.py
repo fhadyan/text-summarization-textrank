@@ -42,9 +42,11 @@ def evaluate(sysdir, evalname,refdir,evaldir):
         ev.append([x,r,p,f])
     for i in range(0,len(ev)):
         try:
-            ev[i].append(int(ev[i][0][:-4]))
+            #ev[i].append(int(ev[i][0][:-4]))
+            ev[i].append(ev[i][0][:-4])
         except:
-            ev[i].append(int(ev[i][0][:-5]))
+            #ev[i].append(int(ev[i][0][:-5]))
+            ev[i].append(ev[i][0][:-5])
     ev.sort(key=lambda x: x[4])
     range_rouge=['1','2','L','W-1.2'] 
     for i in range(0,len(ev[0][1])):
@@ -61,8 +63,8 @@ def evaluate(sysdir, evalname,refdir,evaldir):
       
 
 if __name__ == "__main__": 
-    sysdir = 'data/data1-sys-summary-baseline-compression-300/'
+    sysdir = 'data/data1-sys-summary-sen_avg-compression-10-wsd2/'
     refdir = 'data/summary/'
-    evalname = 'data1-sys-summary-baseline-compression-3000-eval2.csv'
+    evalname = 'data1-sys-summary-sen_avg-compression-10-wsd2-eval2.csv'
     evaldir = 'data/eval/'
     evaluate(sysdir,evalname,refdir,evaldir)
