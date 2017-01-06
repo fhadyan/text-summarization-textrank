@@ -1,0 +1,1 @@
+ MDL stipulates that the best probability model for given data is that model which requires the least code length for encoding of the model itself, as well as the given data relative to it. 

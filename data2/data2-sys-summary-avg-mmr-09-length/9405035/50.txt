@@ -1,0 +1,1 @@
+ This approach is learnable.  However, the accuracy is low.  (2) it is adaptive.  These make the network more psychologically plausible.  The domain of our work was the Conference Registration Telephony Conversations.  Little human effort on knowledge engineering is required. 

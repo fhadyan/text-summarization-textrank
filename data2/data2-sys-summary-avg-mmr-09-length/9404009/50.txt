@@ -1,0 +1,1 @@
+ For readability, we will often uncurry as .  This generality is in part achieved by using grammatical functions rather than functor-argument relations to represent syntactic predicate-argument relationships.  In the following we will notate Q R S meaning more perspicuously as Q(z,Rz,Sz  

@@ -1,0 +1,1 @@
+ The autopilot follows the course put into the flight management system by the pilots  Either the flight was commandeered by a group with at least one professionally trained pilot among them or one of the pilots in control programmed the new off-route flight plan into the flight management system 

@@ -1,0 +1,1 @@
+ Since online text becomes available in ever increasing volumes and an ever increasing number of languages, there is a growing need for robust processing techniques that can analyze text without expensive and time-consuming adaptation to new domains and genres.  This is clearly undesirable.  0.72  

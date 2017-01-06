@@ -1,0 +1,1 @@
+ Head Driven Phrase Structure Grammar (HPSG) and Tree Adjoining Grammar (TAG) are two frameworks which so far have been largely pursued in parallel, taking little or no account of each other.  In contrast, filler-gap relations are considered non-local. 

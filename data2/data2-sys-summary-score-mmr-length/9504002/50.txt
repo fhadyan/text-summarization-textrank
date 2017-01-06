@@ -1,0 +1,1 @@
+ N Number: singular, plural.  A Simplify noun and adverb classes.  P Simplify pronoun classes.  V Use the same class for have, do and be as for other verbs.  The results appear in table .  The results are quite widely spread. 

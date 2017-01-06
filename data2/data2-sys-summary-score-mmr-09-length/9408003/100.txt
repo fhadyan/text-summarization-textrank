@@ -1,0 +1,1 @@
+ [ Definition F is a feature structure iff [ F is a quadruple , Q is a finite subset of , , is a finite partial function from the Cartesian product of Q and to Q, is a total function from Q to , and for each , [ for some , runs to q' in F, ] ] where runs to q' in F iff [ , , and for some , [ q=q0, for each i[n, [ is defined, and , and ] qn=q  

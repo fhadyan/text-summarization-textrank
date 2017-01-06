@@ -1,0 +1,1 @@
+ (1993   (1993   Due to the recent development of a faster and more powerful version of the LFG (Lexical-Functional-Grammar) based Grammar Writer's Workbench (Kaplan and Maxwell 1993) at Xerox, the implementation of a linguistically adequate, broad coverage grammar appears viable. 

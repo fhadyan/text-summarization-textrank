@@ -1,0 +1,1 @@
+ The reduce rule that takes account of the interaction of a generic rule with a context-free grammar is The interaction with the generic rule is expressed in the term . 

@@ -1,0 +1,1 @@
+ For this paper, we conducted two sets of experiments: one using a minimally cleaned set of data, making our results comparable to previous results; the other using the ATIS data prepared by Bod, which contained much more significant revisions.. 

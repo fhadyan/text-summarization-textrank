@@ -1,0 +1,1 @@
+ Determining the referential property of noun phrases is essential not only to understanding a text, but also to decide how to generate it in English.  This paper proposes a heuristic algorithm to determine the referential properties of noun phrases in a Japanese text. 

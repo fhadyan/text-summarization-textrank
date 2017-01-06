@@ -1,0 +1,1 @@
+ Conversation between two people has a number of characteristics that have yet to be modeled adequately in human-computer dialogue.  Conversation is BIDIRECTIONAL; there is a two way flow of information between participants.  Information is exchanged by MIXED-INITIATIVE.  We analysed both financial and support ADs. 

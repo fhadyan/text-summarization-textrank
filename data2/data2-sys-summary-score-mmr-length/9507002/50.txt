@@ -1,0 +1,1 @@
+ Among them we will cite efficient dictionary access libraries, conversion tools between source and object formats (this includes regexp rule interpretation, multiple inheritance management, etc and morphological analyser and generator.  Further extensive description can be found in . 

@@ -1,0 +1,1 @@
+ Here the pre-compiled unify_type[t,t is invoked..  The stack S is empty..  The head is preceded by ` ' rather than by a comma..  See for the formal details..  (DFS .  Refer to for more details..  See for the details.. 

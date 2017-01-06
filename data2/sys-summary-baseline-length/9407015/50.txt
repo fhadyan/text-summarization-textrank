@@ -1,0 +1,1 @@
+ One source of unnaturalness in the output of many text-to-speech systems stems from the involvement of algorithmically generated default intonation contours, applied under minimal control from syntax and semantics.  In example , capitals indicate stress and brackets informally indicate the intonational phrasing.  Steedman [   Example . 

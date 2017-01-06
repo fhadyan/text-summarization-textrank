@@ -1,0 +1,1 @@
+ b When performing the collective evaluation of all Si anaphors, every inconsistent Rij is suppressed..  For example, we saw that a solution to processing cataphors could be to reconsider the order in which the conceptual structures (elementary events beforehand) are searched.. 

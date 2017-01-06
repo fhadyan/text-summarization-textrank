@@ -1,0 +1,1 @@
+ The bigram model assigns a log perplexity of 2.78, the merged model with 113 states assigns a log perplexity of 2.41 (see table  

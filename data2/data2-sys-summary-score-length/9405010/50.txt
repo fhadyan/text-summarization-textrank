@@ -1,0 +1,1 @@
+ With Prst utilizing a mixed representation (called syntactic/semantic structures) and Asher utilizing Discourse Representation Theory constructs, each defines mechanisms for determining relations such as parallelism and contrast, and gives constraints on resolving VP-ellipsis and related forms within their more general frameworks.. 

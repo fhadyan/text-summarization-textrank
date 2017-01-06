@@ -1,0 +1,85 @@
+  In the past years, multiple inheritance has been increasingly used for the description of natural languages.
+ Some examples are the work in Head-driven Phrase Structure Grammar ( HPSG) on the structure of the lexicon , , semantic sorts for selectional restrictions , derivational morphology , , and the syntax of English relative clauses .
+ As an example of this type of analysis, figure shows a recent HPSG description of English clauses.
+   In the example, relative clauses are cross-classified according to two ``dimensions''; on the one hand according to the Phrase-Type (Headed or Non-Headed), and on the other hand according to the Clause-Type (Interrogative, Declarative, or Relative).
+ The choices within one dimension are mutually exclusive: no structure can be described as both Headed and Non-Headed, or as more than one of {Int, Decl, Rel}.
+ However, a structure can be assigned types from different dimensions, without the need for a subtype that inherits from both dimensions.
+   In section , we present a concept of typing, which provides direct support for multi-dimensional inheritance, and compare it to the type hierarchies in Carpenter's typed feature logic.
+ Section shows that unification in multi-dimensional inheritance hierarchies can be implemented efficiently as unification of a Prolog term representation of the types.
+ Section applies multi-dimensional inheritance to the problem of systemic classification.
+   We follow the Carpenter's formalisation of typed feature logic, but modify the conception of the type hierarchy.
+ In Carpenter's logic , the type hierarchy is required to be a bounded complete partial order ( BCPO), which means that any two types which do have a common subtype must have a unique most general common subtype.
+ A type hierarchy as in figure fails this requirement because the types Headed-Ph and Rel have two common subtypes, but none of them is more general than the other.
+ In order to make the type hierarchy a BCPO, additional types must be introduced, resulting in a hierarchy like the one in figure .
+ In Carpenter's system, every feature structure has only one unique most general type, so that it is not possible to assign a feature structure two types neither of which subsumes the other unless they have a common subtype.
+   Carpenter describes a conjunctive type construction by which a type hierarchy like the one in figure can be converted into a bounded complete partial order like in figure .
+ Once this is done, efficient algorithms for the calculation of greatest lower bounds can be used .
+ We argue that such a conjunctive type construction is neither necessary for theoretical reasons nor for reasons of efficient implementation.
+   In our system, a feature structure can have different types as long as they are chosen from different dimensions.
+ Our syntax for subtype declarations, given in ( ), combines information about subtyping and disjointness.
+ All the Yi are subtypes of X, and all Yi are disjoint.
+     Multi-dimensional inheritance arises in the case where there is more than one declaration with the same supertype on the left-hand side, as in ( ).
+   X &gt; [Y_{1.1},...,Y_{1.n}].
+ \\\\ \\vdots \\vdots \\vdots \ onumber \\\\ X &gt; [Y_{m.1},\\ldots,Y_{m.k}].
+ \ onumber \\end{eqnarray} --&gt;   Instead of writing a separate subtype declaration for each dimension, multiple dimensions are conventionally connected with the product operator *, as in declaration ( ), which is equivalent to the declarations in ( ).
+     Multiple inheritance is the case where some Y type occurs in the right-hand side of more than one type declaration.
+ In this case, the type has several supertypes, which must be chosen from different dimensions in order to be consistent with each other.
+   We now turn to the semantics of type declarations.
+ The denotation of each type is a subset of the domain.
+ The semantics of the type declaration in ( ) is given by the axioms ( ), which states that the denotation of any of the Yi is a subset of the denotation of X, and ( ), which states that all the Yiare disjoint.
+ No additional axioms are needed in case of multi-dimensional inheritance.
+   \\forall Y_i ([ \\hspace{-.5mm} [Y_i ] \\hspace{-.5mm} ] \\subseteq [ \\hspace{-.5mm} [X ] \\hspace{-.5mm} ])\\\\ \\forall Y_i \\forall Y_j (Y_i \ eq Y_j \\Rightarrow [ \\hspace{-.5mm} [Y_i ] \\hspace{-.5mm} ] \\cap [ \\hspace{-.5mm} [Y_j ] \\hspace{-.5mm} ] = \\emptyset) \\end{eqnarray} --&gt;   Our system has an open-world semantics for type hierarchies.
+ A feature structure can be described by two types from different hierarchies, but there need not be a common subtype of these two types.
+ This is in contrast with a system like ALE with a closed-world semantics where the conjunction of two types is inconsistent unless one subsumes the other or they have a common subtype.
+   Our notion of feature typing and appropriateness is based on Carpenter's feature logic.
+ Every feature is introduced for a unique most general type, and is appropriate for all subtypes of that type.
+ In case of multiple inheritance, a type can inherit different features from its supertypes in different dimensions.
+ A difference arises with type restrictions for feature values.
+ In Carpenter's system, the value of a feature has one type as the type restriction, whereas in our system, the type restriction can be a conjunction of types from different dimensions.
+   In our system, the type hierarchy from figure can be expressed directly with the declarations given in figure .
+   Our notion of typing is similar to the one adopted in the Comprehensive Unification Formalism ( CUF ), in that it adopts an open-world semantics, and two types are considered as consistent unless they are explicitly declared to be disjoint.
+ However, CUF allows to state more general type axioms using the full power of propositional logic.
+ In our system, the type axioms are restricted to subtyping (which corresponds to implication) and disjointness.
+ This restriction allows the efficient compilation of multi-dimensional inheritance hierarchies to Prolog terms, which will be described in the next section.
+   Multi-dimensional type hierarchies have the favourable property that the types can be compiled to a Prolog term representation.
+ With this representation, Prolog's built-in term unification is all that is required to compute the conjunction of two types.
+ The Prolog term representation given here builds on and extends the representation introduced by Mellish , and used in the Core Langauge Engine and the ALEP grammar development system , .
+   We start out by describing how the translation of type hierarchies into Prolog terms works, and then give an example.
+ The translation to terms must be able to handle different dimensions of typing, mutually exclusive choices in a dimension, subtyping, multiple inheritance, features, and equality.
+   Different dimensions: Each dimension occupies a different argument position in the resulting term representation, so that information from different dimensions can be combined by unification.
+   Mutually exclusive types: Mutually exclusive types in the same dimension have different functors at the same argument position, so that their unification fails.
+   Subtype: The term which corresponds to the subtype is a further instantiation of the term corresponding to its supertype.
+   Multiple inheritance: The term which corresponds to the subtype is a further instantiation of the unification of the terms which correspond to its supertypes.
+   Feature: The term representation has an argument position for each feature introduced for a type.
+ If a feature is introduced for a subtype, then an argument position is provided in that argument which further instantiates the supertype.
+ Equality: In order to be able to distinguish structures that are identical from those which just happen to have the same value (i.e.
+ their term representation is instantiated to the same ground term), an extra variable is introduced in the term representation (preventing instantiation to a ground term), which is only equal for two structures if they have been made identical by unification.
+   Given this kind of representation, two typed feature structures can be unified simply by unification of the corresponding Prolog terms.
+ In figure , we provide an encoding of the types in the hierarchy from figure by Prolog terms.
+ For simplicity, we leave out the argument position used to establish the equality of feature structures, and any argument positions used to encode features.
+ Note that the type Su-Wh-Rel makes a choice in both dimensions.
+   If the type Su-Wh-Rel has any subtypes, a choice must be made which of the two occurences of su_wh_rel in the Prolog terms should get argument positions for carrying this information.
+ We always choose the leftmost occurence in a term for representing subtypes (and features).
+ Further occurences then only serve to make a choice in a particular dimension of the hierarchy, and for that purpose, an atom which is distinct from other terms that can occur as alternatives in the same dimension is sufficient.
+   In this section, we apply the conception of multi-dimensional inheritance to systemic classification networks, which have been discussed in .
+   Systemic classification networks are an interesting formalism for such an encoding because they offer considerable expressive power.
+ Figure shows a systemic classification network for English pronouns taken from .
+   Figure shows the connectives, and the translation of the first three in our system.
+ The final connective (disjunctive entry condition) has no simple translation.
+ This is not surprising, given the complexity analysis by Brew who shows systemic classification to be NP-hard by giving an encoding of the 3SAT-problem in a systemic network with disjunctive entry conditions.
+   We treat disjunctive entry conditions by introduction of new types into the hierarchy.
+ For each type X at the right-hand side of a disjunctive entry condition, we introduce two new types, X' for the original type, and for its negation.
+ These pairs of new types are introduced in different dimensions at the top of the choice system containing the disjunctive entry conditions.
+ All types Y which have subtypes that are on the left-hand side of the disjuntive entry condition for X become subtypes of X', and all other types become subtypes of .
+ In effect, this is an expansion of the disjunctive entry conditions to disjunctive normal form.
+   In the worst case, this method can lead to translations which are exponentially larger than the original classification network, as for the 3SAT problem.
+ We show by an example that this need not be the case in practice by converting the classification of pronouns given in figure into our system (figure ).
+   In this case, our translation is more efficient than the ``brute-force translation'' described in for networks with disjunctive entry conditions.
+ In Winograd's systemic network, there are 54 possibilities (6 for interrogative pronouns, 36 for personal pronouns, and 4 for demonstrative pronouns), resulting in a brute-force translation with 55 arguments.
+   In contrast, in our type system, the Prolog term translation has at most 8 nodes in the worst case, as in the following term which encodes the subjective case masculine (third person singular) personal pronoun.
+     We have presented a concept of inheritance which provides direct support for current linguistic descriptions making use of ``cross-classification'', and can be compiled into an efficient Prolog term representation.
+   Given the need for multiple dimensions in lingistic descriptions, we believe that multi-dimensional type hierarchies will remain important even when their compilation into Prolog terms is not needed any longer because unification of typed feature terms will be built-in in future logic programming languages.
+   For the time being, however, the combination of multi-dimensional inheritance and compilation into Prolog terms appears to give both the efficiency and the expressive power needed to develop larger-scale grammars and lexicons, and use existing Prolog-based technology (DCG parsers, left-corner, head-corner, or chart parsers, semantic-head driven or tabular generators) to build NLP systems.
+ Such an approach can benefit from all the advantages of modern Prolog compilers (indexing, coroutining facilities, module systems etc.) that would need considerable effort to duplicate in a dedicated grammar formalism.
+   The multi-dimensional inheritance described in this paper is implemented in the system ProFIT , which translates programs containing typed feature terms to ordinary Prolog programs.
+ 

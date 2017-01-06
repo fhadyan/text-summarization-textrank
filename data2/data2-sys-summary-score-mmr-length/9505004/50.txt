@@ -1,0 +1,1 @@
+ Now, let be an interpretation and a theory.  unification failure   of type   Nodes are denoted by N and atoms by a.  Descriptors are denoted by d.  Paths are denoted by P.  This, in turn, inherits globally from the path . 

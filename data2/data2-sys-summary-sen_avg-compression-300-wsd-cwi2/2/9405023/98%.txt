@@ -1,0 +1,1 @@
+ Thus, although somewhat overly harsh, the heuristic is quite effective in identifying bad parses95 - 1 A list of common appearing substitutions was constructed from the development set95 and 1 Our goal was three-fold The first run was with skipping disabled.

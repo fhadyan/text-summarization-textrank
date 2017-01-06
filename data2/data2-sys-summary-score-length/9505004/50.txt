@@ -1,0 +1,1 @@
+ Finally, the definition of in the theory of figure illustrates a use of the `evaluable path' construct: This states that the value of at is inherited globally from the path , where the dots represent the result of evaluating the global path (i.e.. 

@@ -1,0 +1,1 @@
+ The resulting stems are assigned 1 (Rules 3-4 in Listing 8  Rules 5-8 (Listing 8) handle this 50 rules  The two-level grammar (Listing 1) assumes three lexical tapes To generate a surface form, one calls TWO-LEVEL-ANALYSIS Surf, +Lex, -Partition, -Parse  This requires duplicating rules when stating lexical constraints.

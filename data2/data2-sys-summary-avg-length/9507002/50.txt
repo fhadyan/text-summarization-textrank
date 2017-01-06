@@ -1,0 +1,1 @@
+ This example has only one production..  The special tokens and @ refer to the EN and to the ES respectively..  But this framework would be useless if it were computationally intractable..  The sections that can appear in the Source Lexical Base are reviewed below.. 

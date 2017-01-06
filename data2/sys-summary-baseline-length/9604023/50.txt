@@ -1,0 +1,1 @@
+ Generative grammar and formal language theory share a common origin in a procedural notion of grammars: the grammar formalism provides a general mechanism for recognizing or generating languages while the grammar itself specializes that mechanism for a specific language.  are all members of P. 

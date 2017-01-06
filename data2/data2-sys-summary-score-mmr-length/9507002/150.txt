@@ -1,0 +1,1 @@
+ Deleting a branch is done by specifying an incomplete copy: in the right hand side of an equation, after a subtree specification, a sequence of paths to eliminate is written into parenthesis, preceding each one with a minus sign. 

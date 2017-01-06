@@ -1,0 +1,1 @@
+ We present an argument for a particular model for natural language, namely construction grammars (cf.  and , for a comprehensive introduction, and , , , , , for computational models   Both will be presented in Section 3.  Thus grammars are always formal. 

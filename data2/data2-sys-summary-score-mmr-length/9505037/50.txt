@@ -1,0 +1,1 @@
+ This assumption is reasonable for parallel texts.  Most of the proposed algorithms first conduct an alignment of sentences, i.  those pairs of sentences are located that are translations of each other.  best discriminating characteristic. 

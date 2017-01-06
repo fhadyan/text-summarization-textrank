@@ -1,0 +1,1 @@
+ Arguments for stacked X-bar structures (such as immediately dominating with the same head) are arguments against dependency grammar as normally understood.  Dependency grammar (DG) describes syntactic structure in terms of links between individual words rather than constituency trees. 

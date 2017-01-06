@@ -1,0 +1,1 @@
+ We define a new grammar formalism, called D-Tree Grammars (DTG which arises from work on Tree-Adjoining Grammars (TAG) .  A salient feature of TAG is the extended domain of locality it provides.  In purely CFG-based approaches, these relations are only implicit. 

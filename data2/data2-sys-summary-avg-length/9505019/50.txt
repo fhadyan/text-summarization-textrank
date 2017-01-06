@@ -1,0 +1,1 @@
+ the question is implicit..  But what about seemingly more complex constructions such as quantifiers..  Acknowledgments..  I'd like to thank D..  Savitch for comments on an earlier draft..  Let be the mapping from , where and , if X=Y, and no otherwise.. 

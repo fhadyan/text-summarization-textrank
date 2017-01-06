@@ -1,0 +1,1 @@
+ I will start with defining default values.  Two examples will further illustrate this.  Consequently, is used whenever but .  If or no is w-applicable then t=s else 2.  Choose a such that d is w-applicable to s.  Let and go to 1. 

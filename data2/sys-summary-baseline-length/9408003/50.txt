@@ -1,0 +1,1 @@
+ Describing objects is one of several purposes for which linguists use feature structures.  A description is an entity that can be interpreted as true or false of an object.  I then use this interpretation to define the notion of a satisfiable feature structure. 

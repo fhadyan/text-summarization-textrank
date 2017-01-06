@@ -1,0 +1,1 @@
+ We can verify this by case: 1.  Consider the TNCBs in figure .  O(n[2   Precedence Monotonicity.  Dominance Monotonicity.  This is the test phase.  If not, we enter the rewrite phase.  Let us see why this is so. 

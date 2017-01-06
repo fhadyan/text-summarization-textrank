@@ -1,0 +1,1 @@
+ Arguments for stacked X-bar structures (such as immediately dominating with the same head) are arguments against dependency grammar as normally understood.

@@ -1,0 +1,1 @@
+ 3 is an overview of PLANDoc's architecture..  It raises issues such as deciding when and how to coordinate..  In Fig..  Attribute class and action (Fig..  The list of sorted messages is traversed..  There are other interesting problems in aggregations.. 

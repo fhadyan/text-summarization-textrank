@@ -1,0 +1,1 @@
+ The facts, i.e passive edges/items, in figure resulted from semi-naive bottom-up evaluation which constitutes a dynamic bottom-up evaluation, where repeated derivation of facts from the same earlier derived facts (as in naive evaluation; Bancilhon, 1985) is blocked. 

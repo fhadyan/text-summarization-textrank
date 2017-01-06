@@ -1,0 +1,1 @@
+ First, an agent must communicate that she has not understood a plan. 

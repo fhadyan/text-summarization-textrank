@@ -1,0 +1,1 @@
+ However, an agent will be considered uncooperative if he modifies a proposed shared plan without the collaborating agent's consent; thus, the four specializations share a common precondition that the discrepancies in beliefs must be squared away before any modification can take place.. 

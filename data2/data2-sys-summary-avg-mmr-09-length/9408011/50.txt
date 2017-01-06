@@ -1,0 +1,1 @@
+ Unsurprisingly, the training set relative entropy decreases monotonically.  Instead, the only information about the objects is the statistics of their joint appearance.  At this point we need to specify the clustering model in more detail.  Our clustering procedure is thus as follows. 

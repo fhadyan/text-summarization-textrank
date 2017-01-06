@@ -1,0 +1,4 @@
+
+In this paper we present a formalization of the centering
+approach to modeling attentional structure in discourse and use it as
+the basis for an algorithm to track discourse context and bind pronouns. As described in 

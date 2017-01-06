@@ -1,0 +1,1 @@
+ Although top-down and bottom-up presentation activities are of a conceptually different nature, the corresponding communication knowledge is uniformly encoded as presentation operators in a planning framework, similar to the plan operators in other generation systems , , , . 

@@ -1,0 +1,1 @@
+ The semantic information in a lexical entry, which we will call the semantic contribution of the entry, is a linear-logic formula that constrains the association between semantic structures projected from the f-structures mentioned in the lexical entry , and their semantic interpretations. 

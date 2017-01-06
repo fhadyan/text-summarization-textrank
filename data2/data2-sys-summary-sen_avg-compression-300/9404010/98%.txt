@@ -1,0 +1,1 @@
+ In principle, the meaning language can be any suitable logic The f-structure for the sentence Every man left is: f: The meaning constructors for every man and left are: The meaning constructor for left is as before The meaning S will be instantiated to 

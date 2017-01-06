@@ -1,0 +1,1 @@
+ In this paper we are concerned with the syntactic analysis phase of a natural language understanding system.  Ordinarily, the input of such a system is a sequence of words.  FSA of course generalizes such word lattices.  sentences with unknown parts of unknown lengths . 

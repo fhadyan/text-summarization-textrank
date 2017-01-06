@@ -1,0 +1,1 @@
+ This work is part of an effort to develop a robust, domain-independent syntactic parser capable of yielding the one correct analysis for unrestricted naturally-occurring input.  Unification failure results in the associated derivation being assigned a probability of zero.  Church, 1988   +pda, dash  

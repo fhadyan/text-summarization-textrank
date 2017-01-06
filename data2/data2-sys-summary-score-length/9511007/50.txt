@@ -1,0 +1,1 @@
+ Thus doctor can refer to either a Ph nD..  Notice that although similarity is computed by considering all upper bounds for the two concepts, the information measure has the effect of identifying minimal upper bounds, since no class is less informative than its superordinates.. 

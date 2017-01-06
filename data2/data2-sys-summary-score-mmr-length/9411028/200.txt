@@ -1,0 +1,1 @@
+ Thirdly, combining functions collect instances of linguistic objects such as: N-grams in the underlying word string; the syntax rules used to create the QLF; and triples of the form (H1,R,H2 where H1 and H2 are the head predicates of QLF substructures representing words or phrases in the sentence and R indicates the relationship (e.g. 

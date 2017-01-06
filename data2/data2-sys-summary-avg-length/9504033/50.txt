@@ -1,0 +1,1 @@
+ In the experiments below the accuracy of such a system is measured..  Each of a range of training schemes are employed..  A range of windowed training schemes are employed below..  This renders their experiment inconclusive..  Note that windowed counts are asymmetric.. 

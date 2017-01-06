@@ -1,0 +1,1 @@
+ The notion of robustness in natural language processing is a rather broad one and lacks a precise definition.  exposed to a non-native language or new terminology, highly varying speech rates and resource limitations due to the parallel execution of several mental activities.  from subcategorization information. 

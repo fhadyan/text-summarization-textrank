@@ -1,0 +1,1 @@
+ This alternate definition is useful for applications where the simplification of nonmonotonic sorts by each unification is expected to be more expensive than the extra work needed to explain a sort whose nonmonotonic part is not simplified. 

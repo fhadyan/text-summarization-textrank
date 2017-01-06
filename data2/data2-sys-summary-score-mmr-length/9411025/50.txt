@@ -1,0 +1,1 @@
+ Given the need for multiple dimensions in lingistic descriptions, we believe that multi-dimensional type hierarchies will remain important even when their compilation into Prolog terms is not needed any longer because unification of typed feature terms will be built-in in future logic programming languages. 

@@ -1,0 +1,1 @@
+ The boundary between morphology and syntax is fuzzy..  Thus, infinite loops when concatenating are avoided..  This is certainly linguistically appealing..  Surprisingly, they have not been widely applied in this domain up to now..  Morphs have a functor-argument structure along the lines of .. 

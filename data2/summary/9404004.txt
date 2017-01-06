@@ -1,0 +1,4 @@
+
+Dependency grammar is usually interpreted as equivalent to a strict form
+of X-bar theory that forbids the stacking of nodes of the same bar
+level (e.g., 

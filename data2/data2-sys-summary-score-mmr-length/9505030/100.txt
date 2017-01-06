@@ -1,0 +1,1 @@
+ The principal unit of (syntactic) information associated with an LTAG entry is a tree structure in which the tree nodes are labeled with syntactic categories and feature information and there is at least one leaf node labeled with a lexical category (such lexical leaf nodes are known as anchors  

@@ -1,0 +1,1 @@
+ Current researchers often assume that the Poisson distribution is close to the actual empirical distribution describing a given set of term frequencies and, despite the fact that term frequency data is not exactly Poisson distributed, the Poisson distribution of term frequencies is a useful approximation. 

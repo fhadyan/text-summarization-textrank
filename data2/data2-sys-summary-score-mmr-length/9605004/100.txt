@@ -1,0 +1,1 @@
+ More specifically, given (part of) an utterance U with semantic representation Sem and foci , we require that the following equation, the FSV equation, be solved: On the basis of the Gd value, we then define the FSV, written , as follows: This yields a focus semantic value which is in essence Kratzer's presupposition skeleton. 

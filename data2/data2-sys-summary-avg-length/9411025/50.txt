@@ -1,0 +1,1 @@
+ All the Yi are subtypes of X, and all Yi are disjoint..  X &gt; [Y 1.1 Y 1.n .  The denotation of each type is a subset of the domain..  A difference arises with type restrictions for feature values.. 

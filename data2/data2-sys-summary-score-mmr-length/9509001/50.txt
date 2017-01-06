@@ -1,0 +1,1 @@
+ This approach can be approximated by a probabilistic analyser.  V is still binary.  I will therefore assume that million.  Thus, L = |B   That is, .  That is, such that for some small c.  Let and .  Weischedel et al. 

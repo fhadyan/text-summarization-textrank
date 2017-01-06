@@ -1,0 +1,1 @@
+ The addition of extra operations also means that, for any given reading of a sentence there will generally be many different possible derivations (so-called `spurious' ambiguity making simple parsing strategies such as shift-reduce highly inefficient..  1990 .  Mary thinks John coming here was a mistake.. 

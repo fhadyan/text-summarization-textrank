@@ -1,0 +1,1 @@
+ A typical query (content verbs in infinitive or primary auxiliaries in past tense) to a specific corpus (here: UPenn) looks like this: Query] vtype=con vform=inf) | (vtype=prim tense=past  

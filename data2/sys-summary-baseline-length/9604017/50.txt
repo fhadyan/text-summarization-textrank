@@ -1,0 +1,1 @@
+ By the very nature of its construction, a general grammar allows a great many theoretically valid analyses of almost any non-trivial sentence.  However, in the context of a specific domain, most of these will be extremely implausible, and can in practice be ignored. 

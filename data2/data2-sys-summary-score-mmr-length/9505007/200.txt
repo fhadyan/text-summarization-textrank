@@ -1,0 +1,1 @@
+ It is important to note that in GPSG the linear precedence rules stated for a pair of sibling constituents should be valid for the whole set of grammar rules in which these constituents occur, and not just for some specific rule (this "global" empirical constraint on WO is called the Exhaustive Constant Partial Ordering (ECPO) property  

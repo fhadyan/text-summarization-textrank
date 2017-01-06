@@ -1,0 +1,1 @@
+ The parser then selects the parse ranked best (i.e.  the parse of lowest overall score   The number of substituted words 3.  The fragmentation of the parse analysis 4.  Our goal was three-fold.  The first run was with skipping disabled. 

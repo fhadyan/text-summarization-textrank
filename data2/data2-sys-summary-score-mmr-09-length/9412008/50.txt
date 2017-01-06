@@ -1,0 +1,1 @@
+ We should take semantic heads into consideration.  The reasons are as follows: In Japanese, kanzi character sequences longer than three are usually compound nouns, This tendency is confirmed by comparing the occurrence frequencies of kanzi character words in texts and those headwords in dictionaries. 

@@ -1,0 +1,1 @@
+ The sole element that is common between two differing languages would be the `object' and since there are differences in how the `object' is viewed and understood between languages, everything beyond `recognition' will differ depending on the language in question. 

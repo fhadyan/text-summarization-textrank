@@ -1,0 +1,1 @@
+ Typed feature structures (TFSs) serve as a means for the specification of linguistic information in current linguistic formalisms such as HPSG ( , ) or Categorial Grammar (   Indeed, most of the above mentioned languages were used for specifying HPSG grammars.  (DFS  

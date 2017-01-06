@@ -1,0 +1,1 @@
+ We call this meaning comprehension.  The authors wish to thank Masahiro Miyazaki, Kentaro Ogura and other members of the research group on machine translation for their valuable contribution to discussions; and especial thanks to Francis Bond for revising this paper before archiving it. 

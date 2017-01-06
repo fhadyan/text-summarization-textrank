@@ -2,12 +2,321 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="addff30c-e625-4105-b90b-9ac4253d116c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/text-summarization.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data-explore/ref.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data-explore/sys.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary-wsd/000c835555db62e319854d9f8912061cdca1893e/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary-wsd/000c835555db62e319854d9f8912061cdca1893e/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary-wsd/000c835555db62e319854d9f8912061cdca1893e/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary-wsd/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/000c835555db62e319854d9f8912061cdca1893e/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/000c835555db62e319854d9f8912061cdca1893e/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/000c835555db62e319854d9f8912061cdca1893e/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/000cd1ee0098c4d510a03ddc97d11764448ebac2/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/000cd1ee0098c4d510a03ddc97d11764448ebac2/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/000cd1ee0098c4d510a03ddc97d11764448ebac2/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/000e009f6b1d954d827c9a550f3f24a5474ee82b/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/000e009f6b1d954d827c9a550f3f24a5474ee82b/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/000e009f6b1d954d827c9a550f3f24a5474ee82b/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a2aef1e18d125960da51e167a3d22ed8416c09/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a2aef1e18d125960da51e167a3d22ed8416c09/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a2aef1e18d125960da51e167a3d22ed8416c09/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a308681faf9c82a0e62a89b21fcdefb84b88fa/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a308681faf9c82a0e62a89b21fcdefb84b88fa/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a308681faf9c82a0e62a89b21fcdefb84b88fa/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a340f3a884fcbdad7c0399782d9ca9d2d68ef7/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a340f3a884fcbdad7c0399782d9ca9d2d68ef7/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a340f3a884fcbdad7c0399782d9ca9d2d68ef7/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a39c134080b6f215a81c15d46c3ac7cc7bdcf3/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a39c134080b6f215a81c15d46c3ac7cc7bdcf3/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a39c134080b6f215a81c15d46c3ac7cc7bdcf3/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a51966da4726dc1a3fc7b8c148866a9a23581a/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a51966da4726dc1a3fc7b8c148866a9a23581a/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a51966da4726dc1a3fc7b8c148866a9a23581a/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a51d5454f2ef7dbf4c53471223a27fb9c20681/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a51d5454f2ef7dbf4c53471223a27fb9c20681/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a51d5454f2ef7dbf4c53471223a27fb9c20681/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a570272e671a8fad94ffe0927a04c1bfc4110e/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a570272e671a8fad94ffe0927a04c1bfc4110e/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a570272e671a8fad94ffe0927a04c1bfc4110e/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a57bef588a7e7efd0438fba62f07356c59b036/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a57bef588a7e7efd0438fba62f07356c59b036/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a57bef588a7e7efd0438fba62f07356c59b036/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a6c0823ba92e5a055d90133e8b66fa9028c2d7/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a6c0823ba92e5a055d90133e8b66fa9028c2d7/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a6c0823ba92e5a055d90133e8b66fa9028c2d7/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a7132b9c9a646852ac4a606acb71e3a6acb8c6/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a7132b9c9a646852ac4a606acb71e3a6acb8c6/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a7132b9c9a646852ac4a606acb71e3a6acb8c6/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a79ca59be700e845bf9e90bf08c5106b4a72bb/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a79ca59be700e845bf9e90bf08c5106b4a72bb/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a79ca59be700e845bf9e90bf08c5106b4a72bb/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a7e6767322697aa9236e2135aecc9785c6b410/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a7e6767322697aa9236e2135aecc9785c6b410/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a7e6767322697aa9236e2135aecc9785c6b410/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a9a975bde07882d77b6fc4382589791b92ef00/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a9a975bde07882d77b6fc4382589791b92ef00/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00a9a975bde07882d77b6fc4382589791b92ef00/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00aa8e3ba59f5fe71a096a5549f80faece10aa83/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00aa8e3ba59f5fe71a096a5549f80faece10aa83/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00aa8e3ba59f5fe71a096a5549f80faece10aa83/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00aafe70cc9129b3215b62c161d5692164a07494/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00aafe70cc9129b3215b62c161d5692164a07494/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00aafe70cc9129b3215b62c161d5692164a07494/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ac6fa0167e99167565ab9a12c1c96bf48ac414/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ac6fa0167e99167565ab9a12c1c96bf48ac414/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ac6fa0167e99167565ab9a12c1c96bf48ac414/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ac882e1a7f4862fa9f1e863b738966625f554d/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ac882e1a7f4862fa9f1e863b738966625f554d/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ac882e1a7f4862fa9f1e863b738966625f554d/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ac91a5794537f1f37a8962a41fea6dbea2779b/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ac91a5794537f1f37a8962a41fea6dbea2779b/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ac91a5794537f1f37a8962a41fea6dbea2779b/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ae31ff5ede1de6cd39eccf36bae935c882527b/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ae31ff5ede1de6cd39eccf36bae935c882527b/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ae31ff5ede1de6cd39eccf36bae935c882527b/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00aee24828cbceb3857579c59c9a85f381e358a5/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00aee24828cbceb3857579c59c9a85f381e358a5/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00aee24828cbceb3857579c59c9a85f381e358a5/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00aef73f30847c2ae2326e26811065f0308157df/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00aef73f30847c2ae2326e26811065f0308157df/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00aef73f30847c2ae2326e26811065f0308157df/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00af3b469010e46f154734cfba77bb001791517f/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00af3b469010e46f154734cfba77bb001791517f/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00af3b469010e46f154734cfba77bb001791517f/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00afa094e59946ddc8129b36146e416c02109030/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00afa094e59946ddc8129b36146e416c02109030/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00afa094e59946ddc8129b36146e416c02109030/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00afa371dfbfc7832433f22da65ca96fe9997560/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00afa371dfbfc7832433f22da65ca96fe9997560/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00afa371dfbfc7832433f22da65ca96fe9997560/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b0ebf0c27ebcc181e6c60070a9031f41b7d1d8/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b0ebf0c27ebcc181e6c60070a9031f41b7d1d8/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b0ebf0c27ebcc181e6c60070a9031f41b7d1d8/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b164fcf3e920125153d4e4bb59f4ceb5ddb1f7/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b164fcf3e920125153d4e4bb59f4ceb5ddb1f7/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b164fcf3e920125153d4e4bb59f4ceb5ddb1f7/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b287c19561791776e970936f96273b9ececc15/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b287c19561791776e970936f96273b9ececc15/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b287c19561791776e970936f96273b9ececc15/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b2c695b7e98960539f962e7e99c20616382314/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b2c695b7e98960539f962e7e99c20616382314/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b2c695b7e98960539f962e7e99c20616382314/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b3cebdfa5caccbddb4c701689e2dfddd89a3d4/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b3cebdfa5caccbddb4c701689e2dfddd89a3d4/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b3cebdfa5caccbddb4c701689e2dfddd89a3d4/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b4620df3af0867c75d25f09ded465961d0606d/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b4620df3af0867c75d25f09ded465961d0606d/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b4620df3af0867c75d25f09ded465961d0606d/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b4cdefd9bc4dcdd55a6162f0d61e16d1b8ae8d/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b4cdefd9bc4dcdd55a6162f0d61e16d1b8ae8d/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b4cdefd9bc4dcdd55a6162f0d61e16d1b8ae8d/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b5faa0f7261d78ef02a9f23262b5a1eb82a6d0/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b5faa0f7261d78ef02a9f23262b5a1eb82a6d0/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b5faa0f7261d78ef02a9f23262b5a1eb82a6d0/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b8ba6068767f8072d47b4b01847195a35d00f1/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b8ba6068767f8072d47b4b01847195a35d00f1/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b8ba6068767f8072d47b4b01847195a35d00f1/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b98ede70285565df7b273b04b8ac92de6bae71/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b98ede70285565df7b273b04b8ac92de6bae71/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b98ede70285565df7b273b04b8ac92de6bae71/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b9bf421e847b9b77436076ccc7297bc9c9ed0d/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b9bf421e847b9b77436076ccc7297bc9c9ed0d/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b9bf421e847b9b77436076ccc7297bc9c9ed0d/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b9fd732f0e48dc658acc01e4651cc7f5f04f2c/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b9fd732f0e48dc658acc01e4651cc7f5f04f2c/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00b9fd732f0e48dc658acc01e4651cc7f5f04f2c/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ba4ffac8d6adb056293063ada921a22bfa3f33/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ba4ffac8d6adb056293063ada921a22bfa3f33/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ba4ffac8d6adb056293063ada921a22bfa3f33/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ba519cf87a2d49dfb48fadf2af0112dc0e4947/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ba519cf87a2d49dfb48fadf2af0112dc0e4947/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ba519cf87a2d49dfb48fadf2af0112dc0e4947/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bad06b94b77274e6f7e33e2a84e473f938cdac/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bad06b94b77274e6f7e33e2a84e473f938cdac/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bad06b94b77274e6f7e33e2a84e473f938cdac/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bb48094f8aed9b117bea36ef649b95b2bd823f/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bb48094f8aed9b117bea36ef649b95b2bd823f/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bb48094f8aed9b117bea36ef649b95b2bd823f/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bc05e4268dac71709ec667b4f91e5b11f8c264/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bc05e4268dac71709ec667b4f91e5b11f8c264/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bc05e4268dac71709ec667b4f91e5b11f8c264/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bc0995c4cae067d6791a8854b12ce7688564b3/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bc0995c4cae067d6791a8854b12ce7688564b3/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bc0995c4cae067d6791a8854b12ce7688564b3/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bc0db28043d0d0fdedce94a6a1bc41835a9326/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bc0db28043d0d0fdedce94a6a1bc41835a9326/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bc0db28043d0d0fdedce94a6a1bc41835a9326/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bcc69870cdffe5e108a7be95754c3476bf9082/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bcc69870cdffe5e108a7be95754c3476bf9082/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00bcc69870cdffe5e108a7be95754c3476bf9082/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00be40289d0aea65afd2da6431db8a9fc8efc9c0/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00be40289d0aea65afd2da6431db8a9fc8efc9c0/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00be40289d0aea65afd2da6431db8a9fc8efc9c0/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00becc1bada9c481a7bfc7d4f972ce62db322e26/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00becc1bada9c481a7bfc7d4f972ce62db322e26/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00becc1bada9c481a7bfc7d4f972ce62db322e26/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c0b04d497ec89d3a3fcce4d708cbe6b551a6e3/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c0b04d497ec89d3a3fcce4d708cbe6b551a6e3/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c0b04d497ec89d3a3fcce4d708cbe6b551a6e3/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c2a214ffb5790f4c2c7915ebaa973b38e854e7/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c2a214ffb5790f4c2c7915ebaa973b38e854e7/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c2a214ffb5790f4c2c7915ebaa973b38e854e7/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c39e8fc9a109be765e67361199c9e10a34dc34/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c39e8fc9a109be765e67361199c9e10a34dc34/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c39e8fc9a109be765e67361199c9e10a34dc34/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c45eb98a06f9218170edf5767617cc20991840/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c45eb98a06f9218170edf5767617cc20991840/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c45eb98a06f9218170edf5767617cc20991840/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c478df3d3395655a87de8b5f638a69924c4158/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c478df3d3395655a87de8b5f638a69924c4158/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c478df3d3395655a87de8b5f638a69924c4158/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c483f15bec92e9da8f69c653f0855dd964caa6/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c483f15bec92e9da8f69c653f0855dd964caa6/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c483f15bec92e9da8f69c653f0855dd964caa6/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c4ea03538bce1605e48ba2b9bfeb0063328434/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c4ea03538bce1605e48ba2b9bfeb0063328434/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c4ea03538bce1605e48ba2b9bfeb0063328434/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c5289a96ac169303bb05c3b76cbe2c0cf94ba2/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c5289a96ac169303bb05c3b76cbe2c0cf94ba2/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c5289a96ac169303bb05c3b76cbe2c0cf94ba2/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c59c2992fecbda9a3b172b46bff6ccb03f935c/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c59c2992fecbda9a3b172b46bff6ccb03f935c/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c59c2992fecbda9a3b172b46bff6ccb03f935c/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c67840a853c432c2eae369b58a2119d960ada5/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c67840a853c432c2eae369b58a2119d960ada5/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c67840a853c432c2eae369b58a2119d960ada5/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c782536b21482ace8a627e2965e0060ffc1dbb/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c782536b21482ace8a627e2965e0060ffc1dbb/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c782536b21482ace8a627e2965e0060ffc1dbb/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c8b8b4e75ad7cb540e6bf7034942452c043d53/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c8b8b4e75ad7cb540e6bf7034942452c043d53/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00c8b8b4e75ad7cb540e6bf7034942452c043d53/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ca161ba34c2a37c4dbe0bf1fa85d6dece7d77f/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ca161ba34c2a37c4dbe0bf1fa85d6dece7d77f/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ca161ba34c2a37c4dbe0bf1fa85d6dece7d77f/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00cb03ed4ee4f0b4fb5467e5cbbab6eb28c773b8/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00cb03ed4ee4f0b4fb5467e5cbbab6eb28c773b8/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00cb03ed4ee4f0b4fb5467e5cbbab6eb28c773b8/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00cb16eb70b0124bb61e45b4df696a2d3598213f/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00cb16eb70b0124bb61e45b4df696a2d3598213f/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00cb16eb70b0124bb61e45b4df696a2d3598213f/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00cbf6c491d54dfbbe06c18d8ec2a728b82c3e16/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00cbf6c491d54dfbbe06c18d8ec2a728b82c3e16/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00cbf6c491d54dfbbe06c18d8ec2a728b82c3e16/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00cdede32ff010099a4e8c8288d1f494458cb941/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00cdede32ff010099a4e8c8288d1f494458cb941/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00cdede32ff010099a4e8c8288d1f494458cb941/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ce20a94d52dcdfc7f18f90cbea677857c90434/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ce20a94d52dcdfc7f18f90cbea677857c90434/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ce20a94d52dcdfc7f18f90cbea677857c90434/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ce61a751fa38e7e09d3496fb737dff33da3e58/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ce61a751fa38e7e09d3496fb737dff33da3e58/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ce61a751fa38e7e09d3496fb737dff33da3e58/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ce620aadad194da337e972749dba7d602da206/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ce620aadad194da337e972749dba7d602da206/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ce620aadad194da337e972749dba7d602da206/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00cecccb0ec47f45c40c80e530b2bc03f819ffc7/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00cecccb0ec47f45c40c80e530b2bc03f819ffc7/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00cecccb0ec47f45c40c80e530b2bc03f819ffc7/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d09a220e0c94981fd4b908f61b3fa7bbfbf7b6/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d09a220e0c94981fd4b908f61b3fa7bbfbf7b6/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d09a220e0c94981fd4b908f61b3fa7bbfbf7b6/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d0cef3aa2f1e6204896380413263a32a2407a9/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d0cef3aa2f1e6204896380413263a32a2407a9/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d0cef3aa2f1e6204896380413263a32a2407a9/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d10c9be83b619a4b8f9127d86ad7a4d15b3b09/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d10c9be83b619a4b8f9127d86ad7a4d15b3b09/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d10c9be83b619a4b8f9127d86ad7a4d15b3b09/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d3bd3f71f18dc7ccddf0b655550dfeff898961/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d3bd3f71f18dc7ccddf0b655550dfeff898961/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d3bd3f71f18dc7ccddf0b655550dfeff898961/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d48bf5089a093edf12ef5f3836780e97be6be0/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d48bf5089a093edf12ef5f3836780e97be6be0/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d48bf5089a093edf12ef5f3836780e97be6be0/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d4b35f860ceb2b8b9af2202841da09e8b8f058/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d4b35f860ceb2b8b9af2202841da09e8b8f058/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d4b35f860ceb2b8b9af2202841da09e8b8f058/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d6c23d8d98f405514749f06899587cc821fb1c/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d6c23d8d98f405514749f06899587cc821fb1c/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d6c23d8d98f405514749f06899587cc821fb1c/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d6d510d38442787f99a722e750d65a66607284/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d6d510d38442787f99a722e750d65a66607284/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d6d510d38442787f99a722e750d65a66607284/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d74e3677bd255c5ab794753f4bbffcfae19aef/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d74e3677bd255c5ab794753f4bbffcfae19aef/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d74e3677bd255c5ab794753f4bbffcfae19aef/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d84c304738744d8339c586c4f07f65009b3424/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d84c304738744d8339c586c4f07f65009b3424/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d84c304738744d8339c586c4f07f65009b3424/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d8a762a619f1ce4031932adc067328691eb729/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d8a762a619f1ce4031932adc067328691eb729/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d8a762a619f1ce4031932adc067328691eb729/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d95d676d70a8f6b4a4619f021465a01c2b404f/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d95d676d70a8f6b4a4619f021465a01c2b404f/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d95d676d70a8f6b4a4619f021465a01c2b404f/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d9f218a16079131179488b98c3b801ddf94fa1/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d9f218a16079131179488b98c3b801ddf94fa1/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00d9f218a16079131179488b98c3b801ddf94fa1/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00dad0b2f84e7aa5c935a65130f90d64de8a65a6/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00dad0b2f84e7aa5c935a65130f90d64de8a65a6/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00dad0b2f84e7aa5c935a65130f90d64de8a65a6/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00dad5d893f836f53080de50e9b983ad2f9bcd22/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00dad5d893f836f53080de50e9b983ad2f9bcd22/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00dad5d893f836f53080de50e9b983ad2f9bcd22/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00db4c8603de157b4da42886b946378ff2275712/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00db4c8603de157b4da42886b946378ff2275712/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00db4c8603de157b4da42886b946378ff2275712/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00dc77ce6c1d10bf1160829109b4f7d2a450823b/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00dc77ce6c1d10bf1160829109b4f7d2a450823b/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00dc77ce6c1d10bf1160829109b4f7d2a450823b/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ddb03229403b968878387f0025db684f0b9682/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ddb03229403b968878387f0025db684f0b9682/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00ddb03229403b968878387f0025db684f0b9682/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00dddbedf41ec993a8b976f3cce2dd8ca2c7efed/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00dddbedf41ec993a8b976f3cce2dd8ca2c7efed/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00dddbedf41ec993a8b976f3cce2dd8ca2c7efed/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00de294185f9dbece4a827347c4f44f3c9770ed9/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00de294185f9dbece4a827347c4f44f3c9770ed9/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00de294185f9dbece4a827347c4f44f3c9770ed9/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e08179e8271c59babd5eac35797a4b4b835cc4/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e08179e8271c59babd5eac35797a4b4b835cc4/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e08179e8271c59babd5eac35797a4b4b835cc4/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e0938100e0be74e844d2f0a9fce75444b8ebb7/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e0938100e0be74e844d2f0a9fce75444b8ebb7/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e0938100e0be74e844d2f0a9fce75444b8ebb7/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e0afc8576abbd4c3971d1a796f8e8fbcdf7f3c/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e0afc8576abbd4c3971d1a796f8e8fbcdf7f3c/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e0afc8576abbd4c3971d1a796f8e8fbcdf7f3c/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e0e7f15a58849ead95c1afd11d9cebf047a848/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e0e7f15a58849ead95c1afd11d9cebf047a848/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e0e7f15a58849ead95c1afd11d9cebf047a848/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e17a1d97c45423c4139c4cea15180cc2c8b3b9/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e17a1d97c45423c4139c4cea15180cc2c8b3b9/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e17a1d97c45423c4139c4cea15180cc2c8b3b9/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e25cd73a0992fca39f7477d0d906b43d7525f6/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e25cd73a0992fca39f7477d0d906b43d7525f6/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e25cd73a0992fca39f7477d0d906b43d7525f6/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e2741c0cd0c660fcc241e79a2aedc0af5469e0/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e2741c0cd0c660fcc241e79a2aedc0af5469e0/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e2741c0cd0c660fcc241e79a2aedc0af5469e0/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e2a99fac3d40621d262d9314b50ad94ded0536/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e2a99fac3d40621d262d9314b50ad94ded0536/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e2a99fac3d40621d262d9314b50ad94ded0536/50.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e2f25d74e2b6c2db4ddf978f8e1170fd765d82/20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e2f25d74e2b6c2db4ddf978f8e1170fd765d82/30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sys-summary/00e2f25d74e2b6c2db4ddf978f8e1170fd765d82/50.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PythonROUGE.py" afterPath="$PROJECT_DIR$/PythonROUGE.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/eval/sys1.csv" afterPath="$PROJECT_DIR$/data/eval/sys1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluation.py" afterPath="$PROJECT_DIR$/evaluation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/explore.py" afterPath="$PROJECT_DIR$/explore.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preprocessing.py" afterPath="$PROJECT_DIR$/preprocessing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/summarizing.py" afterPath="$PROJECT_DIR$/summarizing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textrank.py" afterPath="$PROJECT_DIR$/textrank.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsd.py" afterPath="$PROJECT_DIR$/wsd.py" />
     </list>
     <ignored path="text-summarization-textrank.iws" />
@@ -21,6 +330,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/text-summarization$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1483373496093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/text-summarization$wsd2.coverage" NAME="wsd2 Coverage Results" MODIFIED="1483690793611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/text-summarization$baseline.coverage" NAME="baseline Coverage Results" MODIFIED="1483207431822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/text-summarization$evaluation2.coverage" NAME="evaluation2 Coverage Results" MODIFIED="1483689491051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/text-summarization$main.coverage" NAME="main Coverage Results" MODIFIED="1483688766250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/text-summarization$baseline_compression.coverage" NAME="baseline-compression Coverage Results" MODIFIED="1483648455500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/text-summarization$wsd.coverage" NAME="wsd Coverage Results" MODIFIED="1483411862720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -30,21 +348,89 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="wsd.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wsd.py">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="evaluation2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/evaluation2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="63" column="46" selection-start-line="63" selection-start-column="46" selection-end-line="63" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data2-sys-summary-sen_avg-compression-300.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data2/eval/data2-sys-summary-sen_avg-compression-300.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="evaluation.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/evaluation.py">
+      <file leaf-file-name="wsd2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wsd2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6315789">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="70%.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000c835555db62e319854d9f8912061cdca1893e/70%.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="665" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="summarizing2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/summarizing2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mmr.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mmr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data1-sys-summary-sen_avg-compression-300-mmr-9.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-mmr-9.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -52,14 +438,36 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/PythonROUGE.py" />
+        <option value="$PROJECT_DIR$/ROUGE_result.txt" />
+        <option value="$PROJECT_DIR$/data2/eval/sys-compression-eval2.csv" />
+        <option value="$PROJECT_DIR$/data2/eval/sys-baseline-eval2.csv" />
+        <option value="$PROJECT_DIR$/data-explore/ref.txt" />
+        <option value="$PROJECT_DIR$/baseline.py" />
+        <option value="$PROJECT_DIR$/preprocessing.py" />
         <option value="$PROJECT_DIR$/evaluation.py" />
         <option value="$PROJECT_DIR$/wsd.py" />
+        <option value="$PROJECT_DIR$/summarizing.py" />
+        <option value="$PROJECT_DIR$/mmr.py" />
+        <option value="$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-eval2.csv" />
+        <option value="$PROJECT_DIR$/data/sys-summary-baseline-compression-300/000c835555db62e319854d9f8912061cdca1893e/70.txt" />
+        <option value="$PROJECT_DIR$/baseline-compression.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/evaluation2.py" />
+        <option value="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a57bef588a7e7efd0438fba62f07356c59b036/90%.txt" />
       </list>
     </option>
   </component>
@@ -69,9 +477,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1358" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1296" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -117,21 +525,111 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-summarization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-summarization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-summarization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-summarization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-summarization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-summarization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data1-sys-summary-sen_avg-compression-10-wsd2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="00a57bef588a7e7efd0438fba62f07356c59b036" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-summarization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-summarization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data1-sys-summary-sen_avg-compression-10-wsd2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-summarization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-summarization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data1-sys-summary-sen_avg-compression-10-wsd2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="000c835555db62e319854d9f8912061cdca1893e" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../nlp/toolkit/stanford-corenlp-python-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.evaluation">
-    <configuration default="false" name="evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.wsd2">
+    <configuration default="false" name="wsd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -142,9 +640,81 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-summarization-textrank" />
+      <module name="text-summarization" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wsd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="evaluation2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-summarization" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-summarization" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="baseline-compression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-summarization" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baseline-compression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="wsd2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-summarization" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wsd2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -342,12 +912,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Python.evaluation" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.wsd" />
+      <item index="1" class="java.lang.String" itemvalue="Python.evaluation2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main" />
+      <item index="3" class="java.lang.String" itemvalue="Python.baseline-compression" />
+      <item index="4" class="java.lang.String" itemvalue="Python.wsd2" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.evaluation" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.wsd2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.evaluation2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main" />
+        <item index="3" class="java.lang.String" itemvalue="Python.baseline-compression" />
+        <item index="4" class="java.lang.String" itemvalue="Python.wsd" />
       </list>
     </recent_temporary>
   </component>
@@ -365,45 +943,45 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="false" />
+    <frame x="1358" y="-8" width="1296" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2647504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33252427" sideWeight="0.4942717" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24549918" sideWeight="0.5057283" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32724252" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3420622" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28971255" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
@@ -424,7 +1002,101 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wsd.py">
+    <entry file="file://$PROJECT_DIR$/data/summary/000c835555db62e319854d9f8912061cdca1893e.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-baseline-length-eval2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31989247">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-avg-length-eval2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/body/00a340f3a884fcbdad7c0399782d9ca9d2d68ef7.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data1-sys-summary-06-avg-length/00a340f3a884fcbdad7c0399782d9ca9d2d68ef7/100.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-avg-length-eval1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3313783">
+          <caret line="72" column="41" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-avg-length-eval2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45698926">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41129032">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-log-length-eval2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82258064">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-length-eval2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-score-length-eval2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textrank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-length-eval1.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -435,7 +1107,79 @@
     <entry file="file://$PROJECT_DIR$/evaluation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="60" selection-start-line="54" selection-start-column="60" selection-end-line="54" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-length-400-eval2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/data2-sys-summary-sen_avg-compression-300-wsd-cwi2/4/9404003/95%.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="69" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="1626" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/data2-sys-summary-sen_avg-compression-300/9404003/95%.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-baseline-length-eval1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1202" column="41" selection-start-line="1202" selection-start-column="41" selection-end-line="1202" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/eval/data2-sys-summary-sen_avg-compression-300-wsd-cwi2-4.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/eval/data2-sys-summary-sen_avg-compression-300-wsd-cwi2-2-eval2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/eval/data2-sys-summary-sen_avg-compression-300-wsd-cwi2-2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39719626">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/eval/data2-sys-summary-sen_avg-compression-300-wsd-cwi2-1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43691587">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-avg-compression-eval2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.317757">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -443,73 +1187,46 @@
     <entry file="file://$PROJECT_DIR$/wsd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="198" column="19" selection-start-line="198" selection-start-column="19" selection-end-line="198" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-wsd-cwi2-1-eval2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/evaluation.py">
+    <entry file="file://$PROJECT_DIR$/summarizing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="151" column="23" selection-start-line="151" selection-start-column="23" selection-end-line="151" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wsd.py">
+    <entry file="file://$PROJECT_DIR$/mmr.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/evaluation.py">
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-wsd-cwi2-4-eval2.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wsd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/evaluation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonROUGE.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ROUGE_result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonROUGE.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03074141">
-          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wsd.py">
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-mmr-8.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -517,10 +1234,186 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/evaluation.py">
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-mmr-7.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6315789">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-eval2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11915888">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-mmr-3.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11915888">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baseline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sys-summary-baseline-compression-300/000c835555db62e319854d9f8912061cdca1893e/70.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="58" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="1665" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sys-summary-baseline-compression-300/000c835555db62e319854d9f8912061cdca1893e/85.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="2038" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sys-summary-baseline-compression-300/000c835555db62e319854d9f8912061cdca1893e/95.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="64" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="2271" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summarizing2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baseline-compression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-baseline-compression-300-eval2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5916473">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-mmr-9.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluation2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="46" selection-start-line="63" selection-start-column="46" selection-end-line="63" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-score-mmr-09-length-eval2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23665893">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/eval/data2-sys-summary-sen_avg-compression-300.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10/00a57bef588a7e7efd0438fba62f07356c59b036/70%.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10/00a57bef588a7e7efd0438fba62f07356c59b036/90%.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10/00a57bef588a7e7efd0438fba62f07356c59b036/95%.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a57bef588a7e7efd0438fba62f07356c59b036/90%.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.039443154">
+          <caret line="1" column="131" selection-start-line="1" selection-start-column="131" selection-end-line="1" selection-end-column="131" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a57bef588a7e7efd0438fba62f07356c59b036/95%.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wsd2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000c835555db62e319854d9f8912061cdca1893e/70%.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="665" />
           <folding />
         </state>
       </provider>

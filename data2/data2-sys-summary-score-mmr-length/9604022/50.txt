@@ -1,0 +1,1 @@
+ There were two types of data in use at this stage.  The other tagger was the rule-based tagger of Brill .  A statistical-based suffix learner is presented in .  We obtained quite stable results in these experiments.  the lexicon.  This is done by the operator . 

@@ -1,0 +1,1 @@
+ Categorial Grammar (CG) and in particular Lambek Categorial Grammar (LCG) have their well-known benefits for the formal treatment of natural language syntax and semantics.  Figure illustrates this proof-logical behaviour.  Otherwise there would be a simpler proof without this abstraction.  Example. 

@@ -1,0 +1,1 @@
+ These tagset size may be excesive, specially for a probabilistic tagger, but results obtained with our corpus show similar accuracy, with the value-added benefit for the tagged corpus of having the whole variety of morphosyntactic categories and subcategories reflected in it. 

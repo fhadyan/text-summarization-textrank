@@ -1,0 +1,1 @@
+ We omit the proof for reasons of space..  We denote this language by L(G .  Example..  Our claim now is that a given 3-Partition problem is solvable if and only if is in ..  We consider each direction in turn..  Suppose ..  for w3m . 

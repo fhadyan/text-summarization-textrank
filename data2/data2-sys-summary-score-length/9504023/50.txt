@@ -1,0 +1,1 @@
+ The performance of the two-phase learning for tagging is determined how well the error-corrector can compensate the deficiencies of the statistical tagging, and in that sense, our TAKTAG is much successful since it increased the overall tagging results more than 10 . 

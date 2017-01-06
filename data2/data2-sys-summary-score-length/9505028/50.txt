@@ -1,0 +1,1 @@
+ While this might provide a satisfactory treatment of modification at the derivation level, there are now three types of operations (two adjunctions and substitution) for two types of dependencies (arguments and modifiers and the directionality problem for embedded clauses remains unsolved.. 

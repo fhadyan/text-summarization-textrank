@@ -1,0 +1,1 @@
+ There are some problems left unsolved..  This approach considers presupposition as anaphora..  This solution is essentially linguistic..  (For standard definitions, see Fitting .  I notate a branch as ..  This agrees with the intuitive behaviour that had to be modelled.. 

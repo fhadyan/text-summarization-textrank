@@ -1,0 +1,1 @@
+ This is the GPSG and F-TAG approach.  For each rule there are rules , for all .  Furthermore for each transition we have a rule .  As an example, assume that .  figure .  Assume again that .  Clearly this PCP does not have a solution. 

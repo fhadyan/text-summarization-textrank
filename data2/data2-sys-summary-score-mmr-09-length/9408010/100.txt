@@ -1,0 +1,1 @@
+ For example, in the sentence fragment She eats x the verb eat imposes a constraint on the direct object x x should be something that is usually being eaten.  n 0,T i = left begin{array ll} n 0,T} mbox{if $N T g x,i g y,i gt;1$ n 0, T} - 1 mbox{if $N T g x,i g y,i 1$ end{array} right. 

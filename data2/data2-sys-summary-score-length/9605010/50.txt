@@ -1,0 +1,1 @@
+ In the near future, the system will be used within an NL-based information kiosk, where information about environmental data must be provided in both German and French language, including tabular presentations if measurements of several substances are involved..  on Wednesday, February 7, 1996 . 

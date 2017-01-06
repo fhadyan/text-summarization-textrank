@@ -1,0 +1,1 @@
+ Word n in the English matrix is then the translation of word n in the German matrix Thereby, different sizes of the two matrices could be allowed for

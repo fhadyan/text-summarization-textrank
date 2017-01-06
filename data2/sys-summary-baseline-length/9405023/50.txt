@@ -1,0 +1,1 @@
+ The Generalized LR Parser, developed by Tomita [ extended the original LR parsing algorithm to the case of non-LR languages, where the parsing tables contain entries with multiple parsing actions.  The GLR parser is the syntactic engine of the Universal Parser Architecture developed at CMU [  

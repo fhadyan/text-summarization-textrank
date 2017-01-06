@@ -1,0 +1,1 @@
+ This has two important advantages..  When utterances had more than one correct reading, a preference heuristic was used to select the most plausible one..  Note that only the non-phrasal rules are used as input to the chunks from which the specialized grammar rules are constructed.. 

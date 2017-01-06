@@ -1,0 +1,1 @@
+ Table shows the final tagging results.  nominal:noun:proper-noun:person-name:no-final-consonant) is assigned as a POS tag.  This tag-set will be used in our experiment in section .  Moreover, it does not see the lexical form itself in disambiguation. 

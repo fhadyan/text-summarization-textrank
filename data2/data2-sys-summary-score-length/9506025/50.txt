@@ -1,0 +1,1 @@
+ The 3-tuple (direction, morpheme type, process type) indicates direction (left, right, unspecified morpheme type (free, bound and the type of morphological or syntactic attachment (e.g affixation, syntactic concatenation, reduplication, clitic .  PHON represents the phonological string.. 

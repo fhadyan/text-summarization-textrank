@@ -1,0 +1,1 @@
+ The proposed method should be improved in two directions.  sign(X) phrasal_sign(X   Below, we give some examples of possible indexing schemes.  Other indexing schemes can be used if they are needed.  non-directional basic categorial grammars   nth_member(X,0,1 X  

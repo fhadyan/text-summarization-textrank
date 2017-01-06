@@ -1,0 +1,1 @@
+ The objective was to emphasise more than it has been done until now, the fact that PP attachment and anaphora resolution could interact in the same system in order to produce a complete conceptual analysis, instead of slowing down each other. 

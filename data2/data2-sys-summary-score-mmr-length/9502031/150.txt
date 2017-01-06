@@ -1,0 +1,1 @@
+ Preliminary tests used generated errors, from a program that produces random Damerau slips according to an observed distribution (Pollock, 1983 using confusion matrices where appropriate (Kernighan, 1990  

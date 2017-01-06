@@ -1,0 +1,1 @@
+ Parsing a natural language sentence can be viewed as making a sequence of disambiguation decisions: determining the part-of-speech of the words, choosing between possible constituent structures, and selecting labels for the constituents.  These probabilities are estimated using statistical decision tree models. 

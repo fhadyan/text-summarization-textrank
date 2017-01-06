@@ -1,0 +1,1 @@
+ This is basically the entropy used in .  If then goto else ; 3.  Note that they not correspond to any training example.  Hand-coded tree-cutting criteria.  Calculate the entropy of each or-node.  Each such arc leads to an or-node.  i 0; 2. 

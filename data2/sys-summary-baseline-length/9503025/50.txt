@@ -1,0 +1,1 @@
+ Word vectors reflecting word meanings are expected to enable numerical approaches to semantics.  Some early attempts at vector representation in psycholinguistics were the semantic differential approach and the associative distribution approach .  However, they were derived manually through psychological experiments.  using co-occurrence statistics. 

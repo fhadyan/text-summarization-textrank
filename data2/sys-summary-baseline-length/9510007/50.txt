@@ -1,0 +1,1 @@
+ There are a number of ways of measuring properties of text, and from there proceeding to make stylistic judgments; they can be found in style guides, and include calculating readability indices, counting the number of passive constructions, and so on. 

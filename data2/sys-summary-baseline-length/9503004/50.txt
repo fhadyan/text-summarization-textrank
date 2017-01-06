@@ -1,0 +1,1 @@
+ We earlier described two taggers for French: the statistical one having an accuracy of 95-97 % and the constraint-based one 97-99 % (see ,   Our lexicon is based on a finite-state transducer lexicon .  Related work on French can be found in .  la poste. 

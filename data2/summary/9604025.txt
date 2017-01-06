@@ -1,0 +1,2 @@
+
+One of the problems in part-of-speech tagging of real-word texts is  that of unknown to the lexicon words. In 

@@ -1,0 +1,1 @@
+ Figure shows the results.  From the resulting diphone sequences, the necessary phoneme lattice has to be constructed.  The central part of the morphological analysis lies in the dictionary construction.  For single morpheme, the left and the right POS tags are always same. 

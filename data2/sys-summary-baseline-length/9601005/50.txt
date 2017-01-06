@@ -1,0 +1,1 @@
+ A text is not just a sequence of words, but it has coherent structure.  The meaning of each word can not be determined until it is placed in the structure of the text.  One of the constituents of the text structure is a text segment. 

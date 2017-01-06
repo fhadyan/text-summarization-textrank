@@ -1,0 +1,1 @@
+ Modification of the English syntax rules to capture the basic requirements so far is quite simple..  Thus for example generation of Quels vols en partance de Dallas y a-t-il? is blocked, but the preferable Quels vols y a-t-il en partance de Dallas? is permitted.. 

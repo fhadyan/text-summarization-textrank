@@ -1,0 +1,1 @@
+ In recent years there has been a common agreement in the NLP research community on the importance of having an extensive coverage of selectional restrictions (SRs) tuned to the domain to work with.  Resnik developed a method for automatically extracting class-based SRs from on-line corpora. 

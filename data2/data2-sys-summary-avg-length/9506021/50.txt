@@ -1,0 +1,1 @@
+ the above inequality is strictly less-than or greater-than .  This section gives results which justify this..  The development set with no morphological processing was used for these tests..  The cut-off frequencies must then be chosen..  All strings `NAME-NAME' were then replaced by `NAME . 

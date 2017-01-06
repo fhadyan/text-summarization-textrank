@@ -1,0 +1,1 @@
+ Andrews ( ) points out that the same thing happens with verbs.  Recall that in a dependency grammar, constituency is a defined concept.  If there are none, create the node anyway.  The fundamental relation in DG is between head and dependent. 

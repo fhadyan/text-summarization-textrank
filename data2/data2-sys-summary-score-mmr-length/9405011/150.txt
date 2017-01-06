@@ -1,0 +1,1 @@
+ For example, a consultant in a collaborative interaction must help the executing agent find the best strategy for constructing the domain plan, may initiate additions to the domain plan, and must negotiate with the executing agent when the latter's suggestions are not accepted (rather than merely agreeing to what the executing agent wants to do  

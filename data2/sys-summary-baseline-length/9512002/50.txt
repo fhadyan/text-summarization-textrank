@@ -1,0 +1,1 @@
+ Internally, a sentence is a sequence of discrete elements drawn from a finite vocabulary.  Spoken, it becomes a continuous signal- a series of rapid pressure changes in the local atmosphere with few obvious divisions.  Finally, ( ) concludes.  It is also small. 

@@ -1,0 +1,1 @@
+ Then we compute the intersection of the skeleton with the input FSA This results in a parse forest grammar Finally, we add the corresponding constraints from the DCG to the grammar rules of the parse forest grammar Such a grammar might be called the parse-forest grammar The predicate side_effect is used to construct the parse forest grammar figure 

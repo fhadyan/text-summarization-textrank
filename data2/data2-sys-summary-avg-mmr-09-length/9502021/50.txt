@@ -1,0 +1,1 @@
+ However, this is not the end of the story.  We denote trees with first order terms.  This condition also rules out the Turing Machine simulation.  Slightly more generally, pltg can generate the language for any and context-free language L.  Consider Figure . 

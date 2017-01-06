@@ -1,0 +1,1 @@
+ In natural language processing filtering is used to weed out those search paths that are redundant, i.e are not going to be used in the proof tree corresponding to the natural language expression to be generated or parsed.  I discuss two filter optimizations.  (1992  

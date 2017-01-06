@@ -1,0 +1,1 @@
+ There are different types of text We discuss how well this method categorizes a set text, given a set of categories, and given a set of parameters.

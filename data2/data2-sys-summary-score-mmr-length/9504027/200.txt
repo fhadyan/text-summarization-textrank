@@ -1,0 +1,1 @@
+ If we were continuing in the spirit of the original Shake-and-Bake generation process, we would now form some arbitrary mutation of the TNCB and retest, repeating this test-rewrite cycle until we either found a well-formed TNCB or failed. 

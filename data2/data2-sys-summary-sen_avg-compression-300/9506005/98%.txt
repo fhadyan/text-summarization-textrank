@@ -1,0 +1,1 @@
+ Mapping tags of an existing, flat-labeled tagset or source annotation scheme to tags of a specification language (target annotation scheme) is an instance of the retagging problem nondisjunctiveness of classes: A target annotation class has several source annotation correspondences

@@ -1,0 +1,1 @@
+ Only components of will have been marked as substitutable in .  This prevents sister-adjunction at these nodes.  We now discuss a possible derivation.  The derived tree is shown in Figure .  This last operation is shown in Figure .  Let be the SAtrees for , respectively. 

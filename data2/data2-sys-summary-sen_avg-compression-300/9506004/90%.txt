@@ -1,0 +1,1 @@
+ The techniques used here should allow similar advantages for a variety of such theories The final CCG rule to be considered is the coordination rule that specifies that only like categories can coordinate: (6) X conj X X This is actually a schema for a family of rules, collectively called generalized coordination since the semantic rule is different for each case

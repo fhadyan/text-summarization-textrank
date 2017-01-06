@@ -1,0 +1,5 @@
+
+Natural Language Generation (NLG) systems generate texts in English
+(or other human
+languages, such as French) from computer-accessible data. NLG systems are
+(currently) most often used to help human authors write routine documents, including business letters 

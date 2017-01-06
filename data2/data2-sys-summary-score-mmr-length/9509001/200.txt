@@ -1,0 +1,1 @@
+ Let An obvious question is why systems such as Lauer (1994) and Resnik and Hearst (1993) work at all given that far less than one instance is expected for each slot. 

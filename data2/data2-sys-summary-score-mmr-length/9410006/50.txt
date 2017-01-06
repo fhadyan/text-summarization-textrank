@@ -1,0 +1,1 @@
+ Since the main purpose of evaluation must be to improve the theory that we are evaluating, the most interesting cases are the ones on which the algorithms' performance varies and those that neither algorithm gets correct.  HE had already breakfasted, alone.  subject. 

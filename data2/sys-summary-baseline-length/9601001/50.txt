@@ -1,0 +1,1 @@
+ The following paper presents an approach for automatic acquisition of linguistic knowledge from observations within a given domain; it thus addresses a topic from the field of machine learning (cf.  Powers and Reeker (1991   The principal motivation for our approach is theoretical. 

@@ -1,0 +1,1 @@
+ Parallel and distributed computation is expected to be the main stream of information processing.  However, this kind of formalization obviously contradicts the partial / distributed processing that would be required in parallel architecture in future.  In the following section, we introduce the extended lambda-calculus. 

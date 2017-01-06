@@ -1,0 +1,1 @@
+ Unfortunately, input information can be insufficient in two respects: If the input structure for generation is provided by another AI-system, global problems in producing sufficient input information for the generator may occur, e.g because of translation mismatches in machine translation (Kameyama, 1991  

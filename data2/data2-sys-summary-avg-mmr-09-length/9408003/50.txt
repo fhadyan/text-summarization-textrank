@@ -1,0 +1,1 @@
+ ] ] ] [ By induction on the length of .  ] ] [ From propositions and .  ] [ Suppose that and is a bijection from ordinal to .  ] ] [ From propositions and .  The Troll unifier is closed on these representations. 

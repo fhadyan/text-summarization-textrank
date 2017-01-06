@@ -1,0 +1,1 @@
+ It abstracts away from specific syntactic realisations.  Coding the base-collocate relation in the lexicon.  We have provided straightforward solutions to these problems.  In this case only the semantics is given.  This entry is where the variable $strong points to. 

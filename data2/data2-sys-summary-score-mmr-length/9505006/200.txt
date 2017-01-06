@@ -1,0 +1,1 @@
+ In Datalog grammars, a given CF grammar is automatically translated into an assertional representation, first proposed by Robert Kowalski, which is largely equivalent to the list-based one but which ensures, under appropriate evaluation mechanisms such as OLDT resolution, that the termination and complexity properties of the original CF-grammar are preserved. 

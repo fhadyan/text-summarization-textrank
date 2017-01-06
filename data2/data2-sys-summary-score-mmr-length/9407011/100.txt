@@ -1,0 +1,1 @@
+ Only intended speech acts that are part of the same argumentation acts as those which are uttered will be kept as intentions - others will revert back to whatever caused the intention to be formed, although subsequent deliberation might cause the intentions to be re-adopted. 

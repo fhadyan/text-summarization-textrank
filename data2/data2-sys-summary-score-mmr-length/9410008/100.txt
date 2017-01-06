@@ -1,0 +1,1 @@
+ We start by using features similar to those first investigated by Biber, but we concentrate on those that are easy to compute assuming we have a part of speech tagger (Cutting et al, 1992; Church, 1988 such as such as third person pronoun occurrence rate as opposed to 'general hedges' (Biber, 1989  

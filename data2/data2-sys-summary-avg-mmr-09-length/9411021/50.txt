@@ -1,0 +1,1 @@
+ In order to avoid this, we assume the unification cost.  The last DAG in Fig.  The DAG in Fig.  Now, the process becomes as in Fig.  All through the process in Fig.  The process is depicted in fig. 

@@ -1,0 +1,1 @@
+ A lexical functional grammar consists of three main components: a set of context free rules annotated with schemata, a set of well formedness conditions on feature structures, and a lexicon..  The key idea underlying our approach is to think about LFG model theoretically.. 

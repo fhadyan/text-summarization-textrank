@@ -1,0 +1,1 @@
+ The overview of the system is shown in figure .  is the cost of a mutation-error for a terminal symbol.  Figure shows the processing of extended-COMPLETER.  is the cost of a mutation-error for a nonterminal symbol.  For example, a. 

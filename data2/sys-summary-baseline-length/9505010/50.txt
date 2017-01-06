@@ -1,0 +1,1 @@
+ Statistical part-of-speech disambiguation can be efficiently done with n-gram models , .  These models are equivalent to Hidden Markov Models (HMMs) of order n-1.  The transition and output probabilities of the HMM are derived from smoothed frequency counts in a text corpus.  the wise Cliff  

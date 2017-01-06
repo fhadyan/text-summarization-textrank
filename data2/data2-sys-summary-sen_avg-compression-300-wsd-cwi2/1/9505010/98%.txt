@@ -1,0 +1,1 @@
+ the corpus tagset and the original tagset Maximize the tagging accuracy for a training corpus Compute tagging accuracy for the clustering part with the original tagset Output the resulting tagset Three parts are taken from the corpus.

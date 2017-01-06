@@ -1,0 +1,1 @@
+ using co-occurrence statistics..  (There is a variety of neighborhood definitions such as 100 surrounding words and within a distance of no more than 3 words ignoring function words The logarithm with is defined to be 0 for an argument less than 1..  Co-occurrence Vector.. 

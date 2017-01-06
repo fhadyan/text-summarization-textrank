@@ -1,0 +1,1 @@
+ Summarizing, the most important innovations implemented in the system are the close coupling of semantic hierarchies with the set of linguistic categories; the use of context in representing linguistic knowledge, esp..  We have validated this model by building prototypes of natural language interfaces.. 

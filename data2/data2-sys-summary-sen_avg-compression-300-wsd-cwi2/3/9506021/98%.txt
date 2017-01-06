@@ -1,0 +1,1 @@
+ The decision was made as follows: If nounn choose noun attachment, else choose verb attachment The training and test data were both noun unprocessed, original data sets A quadruple may appear in test data which has never been seen in training data Results of 77 Else (default is noun attachment  The decision is nounn: If choose noun attachment.

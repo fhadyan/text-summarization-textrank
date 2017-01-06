@@ -1,0 +1,1 @@
+ Presently we are working on the extension of the anaphora module particularly to deal also with the anaphoric definite noun phrases.  Concerning the PPs, unattached prepositions involve empty or unfilled roles in the Conceptual Structures (CSs expressed in a frame-based language (Zarri, 1992  

@@ -1,0 +1,1 @@
+ The set of variables occurring in a tree t is denoted by ..  Sequences of variables are written as , or ..  Constraints are atomic constraints closed under conjunction..  Its interpretation is defined by ..  For example, we allow as an instance of even if .. 

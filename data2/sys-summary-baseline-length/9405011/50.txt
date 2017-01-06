@@ -1,0 +1,1 @@
+ In collaborative expert-consultation dialogues, two participants (executing agent and consultant) work together to construct a plan for achieving the executing agent's domain goal.  Thus a collaborator is more than a cooperative respondent.  Thus, we capture collaboration in a Propose-Evaluate-Modify cycle. 

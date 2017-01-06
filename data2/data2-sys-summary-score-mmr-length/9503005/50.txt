@@ -1,0 +1,1 @@
+ Now for some examples.  We specify this as follows.  The point is this.  We work with the following objects.  We now define each of these components.  Firstly we define .  Now for the satisfaction definition.  It can be glossed as follows. 

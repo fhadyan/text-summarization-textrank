@@ -1,0 +1,1 @@
+ Work is in progress on compiling an English grammar developed at CSLI..  Our translation process yields a lexicalized feature-based TAG in which feature structures are associated with nodes in the frontier of trees and two feature structures (top and bottom) with nodes in the interior.. 

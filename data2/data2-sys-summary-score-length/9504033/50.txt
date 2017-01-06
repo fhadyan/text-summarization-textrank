@@ -1,0 +1,1 @@
+ Given the high frequency of occurrence of noun compounds in many texts, this suggests that the use of these techniques in probabilistic parsers will result in higher performance in broad coverage natural language processing..  While substantial work on noun compounds exists in both linguistics (e.g.. 

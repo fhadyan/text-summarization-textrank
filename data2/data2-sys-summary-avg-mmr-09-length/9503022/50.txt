@@ -1,0 +1,1 @@
+ The outermost bracket is the root-node.  Begin Function , where Step 0.  \t\t 4.  S contains no formula , and 2.  ProofFrom , Proposition 5.4   First, S derives in a steps.  Hence 1) and 2) follow from fact . 

@@ -1,0 +1,1 @@
+ Okay..  First, an agent must communicate that she has not understood a plan..  The mental actions in the plan will encode only useful descriptions..  The agent constructs an initial referring expression plan in almost the same way as in Heeman and Hirst's system.. 

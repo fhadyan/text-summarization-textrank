@@ -1,0 +1,1 @@
+ Memoization and reuse of partial results Incremental processing by addition of new items Hypothetical reasoning by keeping track of dependencies between items Best-first search by means of an agenda Like Earley's algorithm, all of these approaches operate top-down (backward chaining .  non-directional basic categorial grammars . 

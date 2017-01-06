@@ -1,0 +1,1 @@
+ Tagsets used in existing corpora have usually been designed to satisfy the needs of specific projects.  The tool described in this paper performs tagset mapping with manually written rules to introduce a standardised morphosyntactic tagset.  The EAGLES expert group (cf.  in fig.  section  

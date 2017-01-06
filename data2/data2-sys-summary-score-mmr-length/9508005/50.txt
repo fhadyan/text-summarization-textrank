@@ -1,0 +1,1 @@
+ are regarded as fws.  But this is rarely true for Greek   But this is not enough.  The DP-algorithm is just the framework for the utilisation of these parameters.  But sentence segmentation is not a straightforward matter.  Sentences can, however, be quite long. 

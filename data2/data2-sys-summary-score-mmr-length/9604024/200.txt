@@ -1,0 +1,1 @@
+ The following definition specifies how outer domains are used: Definition 4 A lexical sign Lex' is in the outer domain of Sign' iff there is a triple (Sign,Lex,Binds) in outer domains such that Sign and Lex unify with Sign' and Lex' respectively, and there is at least one pair [PathS,PathL] Binds such that Sign PathS unifies with Lex PathL. 

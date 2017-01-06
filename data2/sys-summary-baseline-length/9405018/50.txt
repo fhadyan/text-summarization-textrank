@@ -1,0 +1,1 @@
+ Current lexical research in language technology is eminently knowledge-based in this respect.  Different tasks require different lexical information.  Unfortunately, successful solutions are limited and few.  We try to automatically learn the language processing task on the basis of examples.  Consistency Heuristic.  Identification. 

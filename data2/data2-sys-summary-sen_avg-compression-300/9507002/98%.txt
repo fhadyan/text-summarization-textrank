@@ -1,0 +1,1 @@
+ We use the term EN (Entry Name) for the label and ES (Entry Structure) for the attached feature structure Most entries in the Source Lexical Base are lemmas grouping related word forms These always happen as the value for a particular feature, and the value returned by the rule is assigned to such feature Rule application is a pattern-matching process

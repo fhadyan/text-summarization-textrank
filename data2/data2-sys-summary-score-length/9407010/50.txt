@@ -1,0 +1,1 @@
+ The general CLE grammar was specialized to the domain using the Explanation-Based Learning (EBL) algorithm and the resulting grammar parsed using an LR parser , giving a decrease in analysis time, compared to the normal CLE left-corner parser, of about an order of magnitude.. 

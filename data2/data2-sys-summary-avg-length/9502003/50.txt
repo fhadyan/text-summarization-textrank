@@ -1,0 +1,1 @@
+ verb(sleeps,3sg .  np I 1sg .  np(you, 2@agr .  hfp( synsem!local!cat!head!X dtrs!head_dtr!synsem!local!cat!head!X .  semantics(synsem!local!cont!Sem) Sem.. 

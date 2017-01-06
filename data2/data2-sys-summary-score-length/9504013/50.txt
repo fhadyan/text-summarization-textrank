@@ -1,0 +1,1 @@
+ In this paper, I will use the term automatic text generation (ATG) to refer to any computer program that automatically produces texts from some input data, regardless of whether NLG or template technology is used internally..  The house is on Sullivan Street.. 

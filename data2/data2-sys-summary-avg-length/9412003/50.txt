@@ -1,0 +1,1 @@
+ Unfortunately, because the algorithm is quadratic in C, this may be very costly..  When such a clustering algorithm is applied to a large training corpus, e.g..  Do corpora currently used for language modeling, e.g..  Moreover, infrequent words (e.g.. 

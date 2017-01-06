@@ -1,0 +1,1 @@
+ Our algorithm consistently outperformed the Inside-Outside algorithm in these experiments..  To achieve this goal, we employ several approximations..  These choices were necessary to make the search tractable..  Similar research includes work by Cook et al..  (1976) and Stolcke and Omohundro (1994 . 

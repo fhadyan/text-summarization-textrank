@@ -1,0 +1,1 @@
+ Collocations present specific problems in translation, both in human and automatic contexts.  It seems then that adjectives which are not literal translations of one another may share meaning properties specifically in the collocational context.  Collocations have been studied by computational linguists in different contexts. 

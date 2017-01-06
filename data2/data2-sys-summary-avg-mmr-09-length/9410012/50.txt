@@ -1,0 +1,1 @@
+ The algorithm is again described by Cutting et al.  (1990   In the above example, 8 iterations were sufficient.  The results of the Xerox experiment appear very encouraging.  We will discuss this work below.  Other estimation formulae have been used in the past. 

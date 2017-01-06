@@ -1,0 +1,1 @@
+ Finally, while we have used our similarity model only for missing bigrams in a back-off scheme, used linear interpolation for all bigrams to combine the cooccurrence smoothing model with MLE models of bigrams and unigrams.  Their similarity-based model avoids clustering altogether. 

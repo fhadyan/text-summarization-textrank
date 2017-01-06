@@ -1,0 +1,1 @@
+ The advent of such large grammars gives rise to questions of efficient representation, and the fully lexicalized character of the LTAG formalism suggests that recent research into lexical representation might be a place to look for answers (see for example Briscoe et al..  ; Daelemans . 

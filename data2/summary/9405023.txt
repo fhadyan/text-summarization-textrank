@@ -1,0 +1,3 @@
+
+GLR* is a recently developed robust version of the Generalized LR Parser
+[

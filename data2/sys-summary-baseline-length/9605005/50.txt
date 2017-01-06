@@ -1,0 +1,1 @@
+ In this paper, we argue that Higher-Order Unification (HOU) provides a linguistically adequate tool for modeling the semantics of focus.  Focus is a much debated notion.  We take the identification of prosodically prominent elements as given.  the main issues of focus theory. 

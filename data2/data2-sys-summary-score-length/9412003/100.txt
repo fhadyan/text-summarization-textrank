@@ -1,0 +1,1 @@
+ words of the vocabulary .  First pG,Ti(wi|wi-1) is rewritten as usual (see equation p G,T i w|v) = p G,T i G(w G(v p G, T i w|G(w = frac{p G,T i g 1 g 2 p G,T i g 1 * frac{p G,T i g 2 w p G,T i g 2 end{eqnarray} gt; where g1=G(v) and g2=G(w . 

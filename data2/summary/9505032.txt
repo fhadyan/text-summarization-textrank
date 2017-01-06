@@ -1,0 +1,12 @@
+
+We present a model of NLP in which ontology and context are
+directly included in a grammar. The model is based on the
+concept of construction, consisting of a set of
+features of form, a set of semantic and pragmatic
+conditions describing its application context,
+and a description of its meaning.
+In this model ontology is embedded into the grammar;
+e.g. the hierarchy of
+np constructions is based on the corresponding ontology.
+Ontology is also used in defining contextual parameters;
+e.g. 

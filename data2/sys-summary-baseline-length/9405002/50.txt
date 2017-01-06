@@ -1,0 +1,1 @@
+ Tense interpretation has received much attention in linguistics , , , inter alia] and natural language processing , , , inter alia   The Temporal Centering framework integrates aspects of both approaches, but patterns with the first in treating tense as anaphoric.  Max slipped. 

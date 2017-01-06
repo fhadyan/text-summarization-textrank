@@ -1,0 +1,1 @@
+ The Foundations for Intelligent Graphics Project (FIG) considered various ways in which natural language input could be used within computer aided design systems (the particular application studied was computer aided kitchen design, where users would not necessarily be professional designers .  There are several possibilities.. 

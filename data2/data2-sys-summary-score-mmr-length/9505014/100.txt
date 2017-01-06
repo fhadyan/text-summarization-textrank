@@ -1,0 +1,1 @@
+ Two issues need to be dealt with: 1) how the presuppositions of a branch are ascertained from the presuppositions of the atomic propositions in it, and 2) how the presuppositions of branches of the same tableau interact. 

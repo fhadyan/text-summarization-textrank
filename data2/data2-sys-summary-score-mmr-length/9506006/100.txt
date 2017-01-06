@@ -1,0 +1,1 @@
+ The EAGLES recommendations include a call to corpus tagging projects to provide their manuals or tagset-definitions along with the final tagged corpus, but we have found that, to date, tagging project teams have deemed these `case-law handbooks as `training in progress statements not worth publishing - with the notable exception of . 

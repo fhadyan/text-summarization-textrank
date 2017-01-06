@@ -1,0 +1,1 @@
+ Collocations present an area that is important both for lexicography to improve their coverage in modern dictionaries as well as for lexical acquisition in computational linguistics, where the goal is to build either large reusable lexical databases (LDBs) or specific lexica for specialized NLP-applications.  1983  

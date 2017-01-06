@@ -1,0 +1,1 @@
+ This suggests that hand tuning is a useful method for understanding how to best code the data, while machine learning provides an effective (and automatic) way to produce an algorithm given a good feature representation. 

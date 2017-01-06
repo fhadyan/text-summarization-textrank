@@ -1,0 +1,1 @@
+ Analyzing compound nouns is one of the crucial issues for natural language processing systems, in particular for those systems that aim at a wide coverage of domains.  Therefore, a mechanism to analyze the structure of a compound noun from the individual nouns is necessary. 

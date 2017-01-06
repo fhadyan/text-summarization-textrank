@@ -1,0 +1,1 @@
+ ] ] ] ] A morph structure approximates a morph iff the Moshier abstraction of the morph structure abstractly subsumes (see [ the morph ] ] ] ] Each resolved morph structure is a well-typed (see [ morph structure with output alphabet  In fact, Troll represents each morph structure as a disjunction of the resolvants of the morph structure.

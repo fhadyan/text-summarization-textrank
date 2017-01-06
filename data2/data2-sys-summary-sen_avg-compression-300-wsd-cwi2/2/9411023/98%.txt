@@ -1,0 +1,1 @@
+ Abstract generation based on rhetorical structure extraction has four meritse the compound of rhetorical relations between sentences in text (2) Rhetorical relation extraction detects rhetorical relations and constructs the sequence of sentence identifiers and relations (3) Segmentation detects rhetorical expressions between distant sentences which define rhetorical structure.

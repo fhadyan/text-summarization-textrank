@@ -1,0 +1,1 @@
+ Given an unaccepted belief bel) and the beliefs proposed to support it, Select-Focus-Modification will annotate _bel with 1) its focus of modification bel.focus which contains a set of beliefs bel and/or its descendents) which, if disbelieved by the user, are predicted to cause him to disbelieve _bel, and 2) the system's evidence against _bel itself bel.s-attack  

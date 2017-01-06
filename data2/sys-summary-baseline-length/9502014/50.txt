@@ -1,0 +1,1 @@
+ Dalrymple, Shieber and Pereira DalShiPer:eahu (henceforth, DSP) give an equational treatment of ellipsis via higher-order unification which, amongst other things, provides an insightful analysis of the interactions between ellipsis and quantification.  The paper is organised as follows. 

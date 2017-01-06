@@ -1,0 +1,1 @@
+ Most computational models of discourse are based primarily on an analysis of the intentions of the speakers (e.g , ,   An agent has certain goals, and communication results from a planning process to achieve these goals.  The intentional story account of this goes as follows. 

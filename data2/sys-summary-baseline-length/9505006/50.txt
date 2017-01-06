@@ -1,0 +1,1 @@
+ In their most common implementations, logic grammars resort to list representations of the strings being analyzed or synthesized.  This list-based implementation results in several deficiencies in logic grammars, while other deficiencies are inherited from Prolog.  Early work on coordination proposed meta-grammatical treatments (e.g. 

@@ -1,0 +1,1 @@
+ the ambiguities of the previous sentences have already been considered (resolved or not   Our actual work addresses more the problems inside each module.  Presently we are working on the extension of the anaphora module particularly to deal also with the anaphoric definite noun phrases. 

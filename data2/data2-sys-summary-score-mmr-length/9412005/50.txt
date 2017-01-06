@@ -1,0 +1,1 @@
+ However, comparing the average performances of simulations is also useful.  To use the MDL principle, as introduced above, we search for the smallest-sized hypothesis.  From this representation, we can derive a formula describing its length in bits.  74-75  

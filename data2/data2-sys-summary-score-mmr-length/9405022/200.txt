@@ -1,0 +1,1 @@
+ In the running example, using the weighted sum of the phrase entropies as the node entropy, if any threshold value less than 1.08 is chosen, this will yield any desired coverage, since the single test example of Figure is then covered. 

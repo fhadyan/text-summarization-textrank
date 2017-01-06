@@ -1,0 +1,1 @@
+ We thank Slava Katz for discussions on the topic of this paper, Doug McIlroy for detailed comments, Doug Paul for help with his baseline back-off model, and Andre Ljolje and Michael Riley for providing the word lattices for our experiments. 

@@ -1,0 +1,1 @@
+ Briefly, the standard view within formal semantics, which DSP inherit, identifies semantic interpretation with composition: interpretation is the process of taking the meanings of various constituents and composing them together to form the meaning of the whole.  quantifiers) are not fully specified. 

@@ -1,0 +1,1 @@
+ In first-order unification, it is simulated as shown in Figure 2

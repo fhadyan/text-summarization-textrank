@@ -1,0 +1,1 @@
+ The error rules capture the correspondence between the error surface and the correct surface, given the surrounding partition into surface and lexical contexts Subsection presents error checking The lexical level maintains three lexical tapes , : pattern tape, root tape and vocalism tape; each tape scans a lexical tree prefixes and suffixes

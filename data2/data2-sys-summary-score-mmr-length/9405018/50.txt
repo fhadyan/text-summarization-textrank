@@ -1,0 +1,1 @@
+ Identification.  Segmentation.  There are also some limitations to the method.  The most important of these is the sparse data problem.  Consistency Heuristic.  The most straightforward way is to measure accuracy.  Those features that reduce entropy most are most informative. 

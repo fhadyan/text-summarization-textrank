@@ -1,0 +1,1 @@
+ Only when no top-down presentation operator is applicable, will a bottom-up presentation operator be chosen A bottom-up presentation is chosen only when no top-down presentation operator applies.

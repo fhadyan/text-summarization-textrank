@@ -1,0 +1,1 @@
+ Note in all the results of DIST-FREE that using distributional information alone favors recall over accuracy; in fact, the segmentation hypotheses produced by DIST-FREE have most words broken into single phoneme units with only a handful of words remaining intact.  74-75  

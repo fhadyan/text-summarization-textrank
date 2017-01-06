@@ -1,0 +1,1 @@
+ Not only will this hopefully save a certain amount of drudgery, it should also help to minimize errors and maintain consistency..  \t\t .  Therefore, when tuned to any particular language corpus the resulting grammar will be effectively finite-state..  27 were parsed correctly, ie.. 

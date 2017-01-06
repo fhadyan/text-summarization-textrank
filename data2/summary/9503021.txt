@@ -1,0 +1,6 @@
+
+The recognition problem for attribute-value grammars(AVGs) was shown
+to be undecidable by Johnson in 1988. Therefore, the general
+form of AVGs is of no practical use. In this paper we study
+a very restricted form of AVG, for which the recognition problem
+is decidable (though still 

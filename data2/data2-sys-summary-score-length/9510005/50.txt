@@ -1,0 +1,1 @@
+ Harrison et al 1991 .  Schabes et al..  However, the massively increased coverage obtained here by relaxing subcategorisation constraints underlines the need to acquire accurate and complete subcategorisation frames in a corpus-driven fashion, before such constraints can be exploited robustly and effectively with free text.. 

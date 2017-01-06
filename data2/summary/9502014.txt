@@ -1,0 +1,2 @@
+
+The paper describes a substitutional approach to ellipsis resolution giving comparable results to 

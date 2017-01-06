@@ -1,0 +1,1 @@
+ The goal of grammar induction is taken to be finding the grammar with the largest a posteriori probability given the training data, that is, finding the grammar G' where and where we denote the training data as O, for observations. 

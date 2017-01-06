@@ -1,0 +1,1 @@
+ A practical variation can be conceived as follows.  FSA of course generalizes such word lattices.  A yes-no problem is undecidable (cf.  Furthermore, let and .  For an illustration, cf.  Furthermore let and .  Furthermore, there is a rule 3. 

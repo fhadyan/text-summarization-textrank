@@ -1,0 +1,1 @@
+ For instance: (1) How useful is the new concept of meaning? What about compositional semantics? Notice that the appeal of compositionality at least partly lies in reducing the complexity of the meaning automaton at a price of high "what-is complexity (i.e.. 

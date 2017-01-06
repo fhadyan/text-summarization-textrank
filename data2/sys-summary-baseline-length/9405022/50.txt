@@ -1,0 +1,1 @@
+ Previous work by Manny Rayner and the author, see attempts to tailor an existing natural-language system to a specific application domain by extracting a specialized grammar from the original one using a large set of training examples.  Figure shows five examples of implicit parse trees. 

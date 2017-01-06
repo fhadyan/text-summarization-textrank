@@ -1,0 +1,1 @@
+ DATR was introduced by Evans and Gazdar as a simple, declarative language for representing lexical knowledge in terms of path/value equations.  DATR has been applied to problems in inflectional and derivational morphology , , , lexical semantics , morphonology , prosody and speech .  unification failure  

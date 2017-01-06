@@ -1,0 +1,1 @@
+ Since many aspects of language (for instance, agreement and question-formation in French) appear to be regular and readily describable by rules, it seems more logical to use a mixture of rules and statistics; it is in this sense that we have a hybrid transfer model (cf. 

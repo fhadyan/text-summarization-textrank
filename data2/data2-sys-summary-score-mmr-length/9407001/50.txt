@@ -1,0 +1,1 @@
+ In order to achieve tight integration, we adopt a relational view of X2MORF and encode the relation between surface string and lexical string directly without using finite state automata (for arguments supporting this approach cf.  MORPHMSTRING) is also triggered here.  is obtained.  below  

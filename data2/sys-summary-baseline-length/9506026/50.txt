@@ -1,0 +1,1 @@
+ In recent years, it has become common in the linguistics and philosophy literature to assume that events and processes are ontologically distinct entities, on a par with objects and substances.  Further details on both the model-theoretic semantics and the implementation can be found in . 

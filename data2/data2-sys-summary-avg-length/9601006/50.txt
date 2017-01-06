@@ -1,0 +1,1 @@
+ The rules that can fill the determiner slot are too numerous to be enumerated here..  The distribution of the above three groups is summarized in Table ..  First, ALT-J/E splits the Japanese text into morphemes..  The proposed algorithm is outlined in Figure .. 

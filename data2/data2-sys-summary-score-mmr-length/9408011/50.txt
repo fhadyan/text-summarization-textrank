@@ -1,0 +1,1 @@
+ Our approach avoids both problems.  The problem we study is how to use the pn to classify the .  We will take ( ) as our basic clustering model.  The dissimilarity plays here the role of distortion.  Our clustering procedure is thus as follows. 

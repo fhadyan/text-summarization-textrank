@@ -1,0 +1,1 @@
+ The behaviour of presuppositions of sentences of this form has traditionally been studied as part of the projection problem for presuppositions, which is concerned with describing the presuppositions of a sentence in terms of the presuppositions of its subordinate clauses.  I notate a branch as . 

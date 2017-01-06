@@ -1,0 +1,1 @@
+ Infants must learn to recognize certain sound sequences as being words; this is a difficult problem because normal speech contains no obvious acoustic divisions between words.  While evidence exists that infants are sensitive to these information sources, we know of no measurements of their usefulness. 

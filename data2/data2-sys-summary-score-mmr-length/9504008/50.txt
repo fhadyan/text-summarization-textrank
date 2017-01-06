@@ -1,0 +1,1 @@
+ Figure shows the results.  The SKOPE's various modules were programmed by our students: the phoneme recognition module by Kyunghee Kim Kyubong Baac, the morphological analysis module by EunChul Lee Wonil Lee, and finally the syntax analysis module by Wonil Lee. 

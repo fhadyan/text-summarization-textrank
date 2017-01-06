@@ -1,0 +1,1 @@
+ From a computational point of view it is of course most desirable to restrict oneself to a formalism that on the one hand gives enough expressibility to describe a large fragment of the (natural) language, and on the other hand is restrictive enough to preserve feasibility. 

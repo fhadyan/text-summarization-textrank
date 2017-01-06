@@ -1,0 +1,1 @@
+ Let MX and MYbe the maximal number of clusters for X and Y, let |X| and |Y| be the number of possible values for X and Y, let M=max(MX, MY W=max X |Y and let I be the number of iterations. 

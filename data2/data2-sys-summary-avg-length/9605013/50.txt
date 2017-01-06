@@ -1,0 +1,1 @@
+ P(arg2=1,prep=1) ] 0.25 ..  P(prep1=1,prep2=1) ] 0.25..  Labs..  We thank Mr nR.Isotani of NEC Information Technology Res..  Labs..  for his comments..  Note that when we do not have enough data (i.e.. 

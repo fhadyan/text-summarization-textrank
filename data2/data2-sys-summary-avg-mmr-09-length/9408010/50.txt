@@ -1,0 +1,1 @@
+ It is possible, that more accurate data (e.g.  The circles correspond to states and the arcs to transitions.  In this paper, we report on our work in progress on this topic.  Moreover, we do not consider infrequent words (e.g. 

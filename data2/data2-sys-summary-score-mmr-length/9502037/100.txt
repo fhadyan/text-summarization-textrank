@@ -1,0 +1,1 @@
+ Therefore, when tuned to any particular language corpus the resulting grammar will be effectively finite-state. 

@@ -1,0 +1,1 @@
+ This completes the proof This inflexibility of Lambek Calculus is one of the reasons why many researchers study richer systems today The semidirectional Lambek calculus (henceforth SDL) is a variant of J Lambek's original calculus of syntactic types Figure shows Lambek's original calculus LMBK grammar to a categorial grammar G  Example Suppose .

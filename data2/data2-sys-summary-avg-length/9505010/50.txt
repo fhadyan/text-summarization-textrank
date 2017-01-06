@@ -1,0 +1,1 @@
+ There are two contradicting requirements..  The categories are combined to {JJR,JJT .  Output the resulting tagset..  All parts are mutually disjunct..  Clustering was applied in the next steps..  The improvement in the tagging result is too small to be significant.. 

@@ -1,0 +1,1 @@
+ However, although the technique still seems far from practical application to NLP tasks, it may be most useful for providing experimental insight to lexicographers. 

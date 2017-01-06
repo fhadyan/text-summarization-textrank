@@ -1,0 +1,1 @@
+ A variety of approaches have been proposed for solving it..  The x-axis indicates the number of example words for each or pair..  The example and test words are shown in Tables and , respectively..  Here we show some supplementary data that support these parameter settings.. 

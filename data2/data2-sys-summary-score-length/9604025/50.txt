@@ -1,0 +1,1 @@
+ The simplicity of the proposed shallow morphology, however, ensures fully automatic acquisition of such rules and the empirical evaluation presented in section confirmed that they are just right for the task: precision and recall of such rules were measured in the range of 96-99 . 

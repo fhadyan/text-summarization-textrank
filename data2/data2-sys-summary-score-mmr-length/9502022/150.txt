@@ -1,0 +1,1 @@
+ But this might introduce unpleasant dependencies of the probabilities of feature structures on the order in which the stochastic procedure chooses to expand nodes, because the normalisation is carried out before we have full knowledge of the equivalence classes with which the current node might become associated. 

@@ -1,0 +1,1 @@
+ If they are well-formed, the system halts indicating success..  If not, another permutation is tried and the process repeated..  We give an informal argument for this..  O(n[2 .  Undetermined TNCBs are commutative, e.g..  Let us introduce some terminology.. 

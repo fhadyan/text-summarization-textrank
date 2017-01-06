@@ -1,0 +1,1 @@
+ Part-of-speech ( POS) taggers are programs which assign a single POS -tag to a word-token, provided that it is known what parts-of-speech this word can take on in principle.  word leading and trailing characters to figure out its possible POS categories. 

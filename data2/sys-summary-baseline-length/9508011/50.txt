@@ -1,0 +1,1 @@
+ For an agent to be able to perform an action, it must satisfy both the physical and knowledge preconditions of that action , .  In this paper, we provide an axiomatization of knowledge preconditions for the SharedPlan model of collaborative activity , , .  Grice  

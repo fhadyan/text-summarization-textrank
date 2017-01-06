@@ -1,0 +1,1 @@
+ Multi-word terms and compounds play an increasing role in language analysis for the following reasons : their interpretation is rarely transparent, they generally denote a specific class of mental or real-world objects and the words composing them are strongly related.  Insertion.  Permutation. 

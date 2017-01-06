@@ -1,0 +1,1 @@
+ I will assume in this paper that a discourse is a sequence of utterances produced (spoken or written) by one or more discourse participants.  Utterance interpretation depends on the context, and utterance meaning updates the context.  The same thing goes with scope ambiguities. 

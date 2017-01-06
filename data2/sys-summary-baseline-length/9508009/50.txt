@@ -1,0 +1,1 @@
+ A current trend in logic is to attempt to incorporate semantic information into the domain of deduction, , .  An area for which this strategy is particularly useful is the problem of categorial grammar parsing.  The basic structure of the paper is as follows. 

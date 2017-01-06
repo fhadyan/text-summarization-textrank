@@ -1,0 +1,1 @@
+ A default description has the following form: The set of default preconditions defines tests that are applied to the given situation in order to find out whether the corresponding default body can be activated. 

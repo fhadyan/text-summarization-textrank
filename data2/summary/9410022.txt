@@ -1,0 +1,8 @@
+
+In this paper I report on an investigation into the problem of assigning
+tones to pitch contours. The proposed model is intended to serve as a
+tool for phonologists working on instrumentally obtained pitch
+data from tone languages. Motivation and exemplification for the model
+is provided by data taken from my fieldwork on Bamileke Dschang (Cameroon).
+Following recent work by Liberman and others, I provide a parametrised
+F0 prediction function 

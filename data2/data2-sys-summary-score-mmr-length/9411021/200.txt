@@ -1,0 +1,1 @@
+ Introducing free-ordered typed lambda-calculus, together with the notion of unification costs in types, we have shown the structuring of natural language syntax, by distributively represented types in random orders. 

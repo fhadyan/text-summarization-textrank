@@ -1,0 +1,1 @@
+ Parentheses may be used to resolve ambiguities.  The chief modifications to the standard Prolog `grammar rule' format are of two types: one or more right-hand side (RHS) items may be marked as `heads and one or more RHS items may be marked as `ignorable  

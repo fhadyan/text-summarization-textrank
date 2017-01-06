@@ -1,0 +1,1 @@
+ We would like to thank Eric Brill for making his system widely available, and Ted Briscoe and David Yarowsky for helpful comments, including the suggestion to test the system's performance without lexical rule templates..  As shown in Fig.. 

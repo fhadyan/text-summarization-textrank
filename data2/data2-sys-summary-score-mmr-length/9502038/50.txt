@@ -1,0 +1,1 @@
+ finite present tense forms.  erhalten, gehrt and this is a further source of errors.  a tokenizer that recognizes words in free text.  Detailed guidelines on the use of the individual tags are available in .  The resulting HMM had an error rate of . 

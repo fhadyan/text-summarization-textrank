@@ -1,0 +1,1 @@
+ For readability, we will often uncurry as .  We omit the type subscript when it can be determined from context.  We can now explain the semantic contributions in .  We will not discuss construction-specific interpretation rules in this paper.  Thus, the formula linearlyentails B. 

@@ -1,0 +1,1 @@
+ Except for the test how results could differ for larger corpora described in section , where the MK1 was combined with the BZK, the investigation was based on the MK1 on its own, for technical reasons and also because the pure newspaper corpus BZK documents a less varied language use (verbs occur more often on average in the smaller MK1 than in the slightly bigger BZK; cf. 

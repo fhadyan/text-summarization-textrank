@@ -1,0 +1,1 @@
+ nondisjunctiveness of classes: A target annotation class has several source annotation correspondences..  section .  Information input are tagging guidelines, if the source annotation scheme comes with a comprehensive description of the intended class semantics, or corpus queries otherwise, which is more time consuming.. 

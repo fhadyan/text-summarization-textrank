@@ -1,0 +1,1 @@
+ The order the chart is searched for active edges is right to left: from (i,i) to (0,i .  Part of the work described herein was done while the first author was visiting the Seminar fr Sprachwiessenschaft in Tbingen, Germany.. 

@@ -1,0 +1,1 @@
+ Unlike most linguistic theories, LFG (see Kaplan and Bresnan (1982 treats grammatical relations as first class citizens.  As has been amply demonstrated over the last fifteen years, this view permits perspicuous analyses of a wide variety of linguistic data.  Firstly we define . 

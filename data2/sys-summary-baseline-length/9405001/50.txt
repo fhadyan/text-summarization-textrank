@@ -1,0 +1,1 @@
+ Data sparseness is an inherent problem in statistical methods for natural language processing.  Such methods use statistics on the relative frequencies of configurations of elements in a training corpus to evaluate alternative analyses or interpretations of new samples of text or speech. 

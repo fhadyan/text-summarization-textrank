@@ -1,0 +1,1 @@
+ The structure of this paper is as follows: Section explains the knowledge for structure analysis of compound nouns and the procedures to acquire it from a corpus, Section describes the analysis algorithm, and Section describes the experiments that are conducted to evaluate the performance of our method, and Section summarizes the paper and discusses future research directions. 

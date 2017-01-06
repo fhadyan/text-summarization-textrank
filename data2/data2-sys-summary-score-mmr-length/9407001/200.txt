@@ -1,0 +1,1 @@
+ Head-driven Phrase Structure Grammar (HPSG, PS1, PS2) can be viewed as a mono-level but multi-stratal theory of grammar, where different strata relate to different aspects of linguistic information, but are represented uniformly in feature logics. 

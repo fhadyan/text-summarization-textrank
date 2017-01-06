@@ -1,0 +1,1 @@
+ Tagging by means of a Hidden Markov Model (HMM) is widely recognised as an effective technique for assigning parts of speech to a corpus in a robust and efficient manner.  The design of an appropriate tagset is subject to both external and internal criteria. 

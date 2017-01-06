@@ -1,0 +1,1 @@
+ The third step follows from equation ( .  The main difficulty with the function G is the appearance of ..  A program to compute this to a high degree of accuracy has been implemented..  The assumption that bin probabilities are uniform is problematic.. 

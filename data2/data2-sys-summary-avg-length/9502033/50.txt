@@ -1,0 +1,1 @@
+ 2) Apply the PP attachment procedure..  The attachment of both PPs is then skipped..  The attachment module has been implemented at 99 .  Presently we are working on the extension of the anaphora module particularly to deal also with the anaphoric definite noun phrases.. 

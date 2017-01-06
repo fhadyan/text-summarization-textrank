@@ -1,0 +1,1 @@
+ Each of these evaluation efforts provided a corpus of news articles about a domain, a specification of the relevant information that was to be extracted from each article, the output representation of that information, and a set of key templates representing the information extracted from each article by human readers. 

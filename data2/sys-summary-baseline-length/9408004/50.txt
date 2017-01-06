@@ -1,0 +1,1 @@
+ Both principle-based parsing and probabilistic methods for the analysis of natural language have become popular in the last decade.  This paper falls directly between these approaches, using statistical information derived from corpora analysis to weight syntactic analyses produced by a `principles and parameters' parser. 

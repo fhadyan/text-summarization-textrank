@@ -1,0 +1,1 @@
+ In recent years there has been a resurgence of interest in statistical approaches to natural language processing.  This success was directly measurable in terms of word recognition error rates, prompting language processing researchers to seek corresponding improvements in performance and robustness.  rational debate.  1992   1990  

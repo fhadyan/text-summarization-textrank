@@ -1,0 +1,1 @@
+ the wise Cliff   Stolcke and Omohundro start with a first order HMM where every state represents a single occurrence of a word in a corpus, and the goal is to maximize the a posteriori probability of the model.  Output the resulting tagset.  they are unknown. 

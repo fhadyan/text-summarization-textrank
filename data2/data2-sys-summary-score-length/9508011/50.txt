@@ -1,0 +1,1 @@
+ Grice .  All agents have some primitive acts in their repertoire..  Figure 3: Modeling Intentional Structure For each utterance of a discourse, an agent must determine whether the utterance begins a new segment of the discourse, contributes to the current segment, or completes it .. 

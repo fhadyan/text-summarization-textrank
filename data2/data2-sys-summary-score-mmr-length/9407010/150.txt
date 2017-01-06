@@ -1,0 +1,1 @@
+ Coverage problem: The correct hypothesis was not in implemented linguistic coverage, but would probably have been chosen if it had been; alternately, the selected hypothesis was incorrectly classed as being in linguistic coverage, but would probably not have been chosen if it had been correctly classified as ungrammatical. 

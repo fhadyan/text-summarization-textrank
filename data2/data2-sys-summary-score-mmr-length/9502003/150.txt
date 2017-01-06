@@ -1,0 +1,1 @@
+ Since the output of ProFIT compilation are Prolog programs, all the techniques developed for the optimisation of logic programs (partial evaluation, tabulation, indexing, program transformation techniques etc can be applied straightforwardly to improve the performance of sorted feature grammars. 

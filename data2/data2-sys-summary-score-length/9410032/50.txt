@@ -1,0 +1,1 @@
+ The top-down presentation operators are roughly divided into two categories: schemata-based operators encoding complex schemata for the presentation of proofs of a specific pattern (twelve of them are currently integrated in PROVERB general operators embodying general presentation norms, concerning splitting proofs and ordering subgoals.. 

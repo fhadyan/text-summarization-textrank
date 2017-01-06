@@ -1,0 +1,1 @@
+ In order to see what could be gained for a German language model by such a hybrid technology, I used extensions to the Xerox tagger developed at the University of Stuttgart that facilitate initialization of an HMM with values obtained from a pre-tagged corpus (cf.. 

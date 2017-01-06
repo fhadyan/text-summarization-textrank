@@ -1,0 +1,1 @@
+ Evaluate its constraints (if any   We call such a rule c-rule.  informal wordings.  in machine translation   She can freely intermix all kinds of rules.  Figure   Section   the second element of the ARGS list in Figure   Any of these effects are subject to backtracking. 

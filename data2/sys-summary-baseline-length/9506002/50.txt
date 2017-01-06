@@ -1,0 +1,1 @@
+ We give an algorithm which is at the heart of a type diagnosis system for a higher-order concurrent constraint language, viz.  the calculus which is the underlying operational model of the programming language Oz .  The algorithm is given fully in terms of constraint simplification. 

@@ -1,0 +1,10 @@
+
+A natural next step in the evolution of constraint-based grammar
+formalisms from rewriting formalisms is to abstract fully away from the details
+of the grammar mechanism--to express syntactic theories purely in terms of the
+properties of the class of structures they license. By focusing on the
+structural properties of languages rather than on mechanisms for generating or
+checking structures that exhibit those properties, this model-theoretic
+approach can offer simpler and significantly clearer expression of theories and can potentially provide a
+uniform formalization, allowing disparate theories to be compared on
+the basis of those properties. We discuss 

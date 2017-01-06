@@ -1,0 +1,1 @@
+ For example, in generators based on a chart parser, the fundamental rule is applied only when the edges to be combined share no lexical leaves, in contrast to requiring that the two edges have source and target nodes in common..  Then G is connected.. 

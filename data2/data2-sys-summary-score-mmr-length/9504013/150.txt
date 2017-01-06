@@ -1,0 +1,1 @@
+ What principles govern the creation of good examples, and how can a system generate examples that not only communicate the target information, but also are consistent with the user's general world knowledge? Knowledge acquisition: This is not really an `NLG' topic, but it is very important to the success of NLG systems, which usually are knowledge intensive. 

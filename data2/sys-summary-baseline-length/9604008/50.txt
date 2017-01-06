@@ -1,0 +1,1 @@
+ The Data-Oriented Parsing (DOP) model has a short, interesting, and controversial history.  It was introduced by Remko Scha , and was then studied by Rens Bod.  Thus, Bod achieves an extraordinary 8-fold error rate reduction.  This significantly speeds up parsing. 

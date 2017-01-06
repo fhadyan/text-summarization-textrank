@@ -1,0 +1,90 @@
+  As a preliminary to presenting our analysis of intensional verbs, we outline our approach to semantic interpretation in LFG.
+   It is well known that surface constituent structure does not always provide the optimal set of constituents or hierarchical structure to guide semantic interpretation.
+ This has led to efforts to develop more abstract structures for the representation of relevant syntactic information.
+ We follow Kaplan and Bresnan (1982) and in taking the functional structure or f-structure of LFG as the primary input to semantic interpretation.
+ The syntactic structures of LFG, the constituent structure or c-structure and the f-structure, are related by means of a functional correspondence, represented in Figure by solid lines leading from nodes of the c-structure tree to f-structures ( ).
+ In more recent work, and have proposed to extend the theory of correspondences to other structures, called projections.
+ Here, we will appeal to a semantic projection , relating f-structures and their meanings.
+ Notationally, a subscript will indicate the semantic or projection of an f-structure f, so that the semantic projection of f will be written .
+ In Figure , dotted lines represent the relation between f-structures and their semantic projections.
+ Finally, as shown in the figure, the semantic projection of an f-structure f can be put in correspondence with a meaning : Informally, we read this expression as ``the meaning of f is ''.
+ We use expressions of this sort to lexically associate meanings with f-structures, as in the following lexical entry for the word Bill: The first line of this lexical entry: ( PRED) = `BILL' says (roughly) that the word Bill introduces an f-structure whose is `Bill'.
+ The second line: says that the meaning of that f-structure is .
+ When a lexical entry is used, the metavariable ` ' is instantiated with some constant f denoting an f-structure ( , page 183]).
+ In particular, the term is instantiated to the semantic projection of f and the formula is instantiated to , asserting that the meaning of f is .
+   More complicated lexical entries give not only meanings for f-structures, but also instructions for assembling f-structure meanings from the meanings of other f-structures.
+ We distinguish a meaning language, in which we represent the meanings of f-structures, and a composition language or glue language, in which we describe how to assemble the meanings of f-structures from the meanings of their substructures.
+ Each lexical entry will contain a composition language formula, its meaning constructor, specifying how a lexical entry contributes to the meaning of any structure in which it participates.
+   In principle, the meaning language can be any suitable logic.
+ Here, since we are concerned with the semantics of intensional verbs, we will use Montague's higher-order intensional logic IL.
+ The expressions that appear on the right side of the connective in lexical entries like ( ) above are (usually open) terms in the meaning language.
+   Our composition language is a fragment of linear logic with higher-order quantification.
+ While the resource sensitivity of linear logic is crucial to our overall interpretation framework, it does not play a central role in the analysis discussed here, so the linear connectives can be informally read as their classical counterparts.
+ In contrast to standard approaches, which use the -calculus to combine fragments of meaning via ordered applications, we combine fragments of meaning through unordered conjunction and implication.
+ Rather than using -reduction to simplify meanings, we rely on deduction, as advocated by Pereira (Pereira:SemComp,Pereira:HOD).
+   We now turn to a simple example to illustrate the framework.
+ The lexical entries necessary for the example in Figure are:   The symbol ` ' is the linear implication operator of linear logic; for this paper, ` ' can be thought of as analogous to classical implication ` '.
+ The formula     states that the verb left requires a meaning X for its subject, ; when that meaning is provided, the meaning for the sentence will be .
+ When the words Bill and left are used in a sentence, the metavariable will be instantiated to a particular f-structure, and the meaning given in the lexical entry will be used as the meaning of that f-structure.
+   Here we repeat the f-structure in Figure , including labels for ease of reference: f: Annotated phrase structure rules provide instructions for assembling this f-structure by instantiating the metavariables ` ' in the lexical entries above.
+ For instance, the metavariable ` ' in the lexical entry for Bill is instantiated to the f-structure labeled g.
+   From the instantiated lexical entries of Bill and left, we have the following semantic information: where leave and Bill are names for their respective formulas.
+ By modus ponens, we deduce:     The elements of the f-structure provide a set of formulas in the composition logic that introduce semantic elements and describe how they can be combined.
+ For example, lexical items for words that expect arguments, like verbs, typically contribute a formula for combining the meanings of their arguments into a result.
+ Once all the formulas are assembled, deduction in the logic is used to infer the meaning of the entire structure.
+ Throughout this process we maintain a clear distinction between meanings proper and assertions about meaning combinations.
+   We now turn to an overview of our analysis of quantification (Dalrymple, Lamping, Pereira, and Saraswat 1993).
+ As a simple example, consider the sentence Every man left.
+ For conciseness, we will not illustrate the combination of the meaning constructors for every and man; instead, we will work with the derived meaning constructor for the subject every man, showing how it combines with the meaning constructor for left to produce a meaning constructor giving the meaning of the whole sentence.
+   The basic idea of our analysis of quantified NPs can be seen as a logical counterpart at the semantic composition level of the generalized-quantifier type assignment for (quantified) NPs ( ).
+ Under that assignment, a NP meaning Qhas type     --that is, a function from a property, the scope of quantification, to a proposition.
+ At the semantic composition level, we can understand that type as follows.
+ If by assuming that x is the entity referred to by the NP we can derive S x as the meaning of the scope of quantification, where S is a property (a function from entities to propositions), then we can derive Q S as the meaning of the whole clause containing the NP.
+   The f-structure for the sentence Every man left is: f: The meaning constructors for every man and left are:   The meaning constructor for left is as before.
+ The meaning constructor for every man quantifies over semantic projections H which constitute possible quantification scopes; its propositional structure corresponds to the standard type assignment, .
+ It can be paraphrased as:     In the case at hand, the semantic projection will be chosen to provide the scope of quantification.
+ It has exactly the form that the antecedent of every-man expects.
+ The meaning S will be instantiated to .
+ From the premises in ( ), we can deduce the meaning of the scope f-structure f:     The resource sensitivity of linear logic ensures that the scope of quantification is constructed and used exactly once.
+   We follow Montague (Montague:PTQ) in requiring intensional verbs like seek to take an object of NP type.
+ What is interesting is that this is the only step required in our setting to obtain the appropriate ambiguity predictions for intensional verbs.
+ The de re/de dicto ambiguity of a sentence like Bill seeks a unicorn:     is a natural consequence, in our setting, of seek taking an NP-type argument.
+   We assign the following lexical entry to the verb seek:   The significant fact here is that seek differs from an extensional verb such as find below (corresponding to the type ) in its specification of requirements on its object: Note also the use of the operators `` '' and `` '' of IL.
+ Computationally, this implies that our proofs have to be carried out in a logic whose terms are (typed) lambda-expressions that satisfy , and -equality and also the law , for all P.
+   The lexical entry for seek can be paraphrased as follows:     Rather than looking for an entity type meaning for its object, the requirement expressed by the subformula labeled (*)exactly describes the form of quantified NP meanings discussed in the previous section.
+ In this case, a quantified NP in the object position is one that can accept anything that takes a meaning for to a meaning for any s, and convert that into a meaning for the s.
+ In particular, the quantified NP a unicorn will fill the requirement, as we now demonstrate.
+   The f-structure for Bill seeks a unicorn is: f: The semantic information associated with this f-structure is:     These are the premises for the deduction of the meaning of the sentence Bill seeks a unicorn.
+ From the premises Bill and seeks, we can conclude by modus ponens:     Different derivations starting from the premises Bill-seeks and a-unicorn will yield the different readings of Bill seeks a unicorn that we seek.
+   The formula a-unicorn is exactly what is required by the antecedent of Bill-seeks provided that the following substitutions are performed:     We can thus conclude the desired de dicto reading:     To show how the premises also support a de re reading, we take first a short detour through a simpler example.
+   The meaning constructor for seek also allows for nonquantified objects as arguments, without needing a special type-raising rule.
+ Consider the f-structure for the sentence Bill seeks Al:   f:   The lexical entry for Al is analogous to the one for Bill.
+ We begin with the premises Bill-seeks and Al:     For the derivation to proceed, Al must supply the NP meaning constructor that Bill-seeks requires.
+ This is possible because Al can map a proof of the meaning for s from the meaning for h into a meaning for s, simply by supplying to .
+ Formally, from Al we can prove (Figure ): This corresponds to the Montagovian type-raising of a proper name meaning to an NP meaning, and also to the undirected Lambek calculus derivation of the sequent .
+   Formula ( ) with the substitutions     can then be used to satisfy the antecedent of Bill-seeks to yield the desired result:     It is worth contrasting the foregoing derivation with treatments of the same issue in the lambda calculus.
+ The function raises a term like to the quantified NP form , so it is easy to modify to make it suitable for seek.
+ But the conversion must be explicitly applied somewhere, either in a meaning postulate or in an alternate definition for seek, in order to carry out the derivation.
+ This is because a lambda calculus function must specify exactly what is to be done with its arguments and how they will interact.
+ It must presume some functional form of its arguments in order to achieve its own function.
+ Thus, it is impossible to write a function that is indifferent with respect to whether its argument is Al or .
+   In the deductive framework, on the other hand, the exact way in which different propositions can interact is not fixed, although it is constrained by their (logical and quantificational) propositional structure.
+ Thus   The derivation in Figure can be generalized as shown in Figure to produce the general type-raising theorem: This theorem can be used to raise meanings of e type to type, or, dually, to quantify into verb argument positions.
+ For example, with the variable instantiations     we can use transitivity of implication to combine ( ) with Bill-seeks to derive:     This formula can then be combined with arguments of type e to produce a meaning for .
+ For instance, it will take the non-type-raised to yield the same result     as the combination of Bill-seeks with the type-raised version of Al.
+ In fact, corresponds to type , and can thus be used as the scope of a quantifier, which would then quantify into the intensional direct object argument of seek.
+ As we will presently see, that is exactly what is needed to derive de re readings.
+   We have just seen how theorem ( ) provides a general mechanism for quantifying into intensional argument positions.
+ In particular, it allowed the derivation of from Bill-seeks.
+ Now, given the premises     and the variable substitutions     we can apply modus ponens to derive the de re reading of Bill seeks a unicorn:     The analysis presented here has strong similarities to analyses of the same phenomena discussed by and .
+ Following , they add to an appropriate version of the Lambek calculus ( ) the scope connective , subject to the following proof rules:     In terms of the scope connective, a quantified noun phrase is given the category , which semantically corresponds to the type   We have shown that our deductive framework allows us to predict the correct set of readings for intensional verbs with quantified and nonquantified direct objects if we make a single assumption: that intensional verbs require a quantified direct object.
+ This assumption is, of course, the starting point of the standard Montagovian treatment of intensional verbs.
+ But that treatment depends on the additional machinery of quantifying in to generate de re readings of quantified direct objects, and that of explicit type raising to accommodate unquantified direct objects.
+ In our approach those problems are handled directly by the deductive apparatus without further stipulation.
+   These results, as well as our previous work on quantifier scope, suggest the advantages of a generalized form of compositionality in which the semantic contributions of phrases are represented by logical formulas rather than by functional abstractions as in traditional compositionality.
+ The fixed application order and fixed type requirements of lambda terms are just too restrictive when it comes to encoding the freer order of information presentation in natural language.
+ In this observation, our treatment is closely related to systems of syntactic and semantic type assignment based on the Lambek calculus and its variants.
+ However, we differ from those categorial approaches in providing an explicit link between functional structures and semantic derivations that does not depend on linear order and constituency in syntax to keep track of predicate-argument relations.
+ Thus we avoid the need to force both syntax and semantics into an uncomfortably tight categorial embrace.
+   We thank David Israel, Michael Moortgat and Stanley Peters for discussions on the subject of this paper.
+ 

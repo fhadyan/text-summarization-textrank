@@ -1,0 +1,1 @@
+ Other methods for limiting the search space do exist (for example, using full-text retrieval based on content words but are rather lossy, while clustering provides an effective means of locating the best available match in the corpus (in terms of the similarity metric employed . 

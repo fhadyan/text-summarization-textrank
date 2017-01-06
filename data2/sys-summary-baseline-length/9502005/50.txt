@@ -1,0 +1,1 @@
+ Bidirectionality of grammar is a research topic in natural language processing that is enjoying increasing attention .  This is mainly due to the clear theoretical and practical advantages of bidirectional grammar use (see, among others, Appelt, 1987   Minnen et al.  (1990   (1995  

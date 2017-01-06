@@ -1,0 +1,1 @@
+ It is well known that statistical language models often suffer from a lack of training data.  One frequently used approach to alleviate this problem is to construct a clustered language model.  Because it has fewer parameters, it needs less training data.  words of the vocabulary  

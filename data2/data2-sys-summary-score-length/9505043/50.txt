@@ -1,0 +1,1 @@
+ Each of these systems used a set of manually engineered rules to resolve some obvious types of coreference, but they tended to be very conservative, i.e they only considered phrases to be coreferent if there was overwhelming evidence in support of that hypothesis.. 

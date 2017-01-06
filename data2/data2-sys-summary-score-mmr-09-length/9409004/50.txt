@@ -1,0 +1,1 @@
+ However, if the co-occurrences were extracted from a corpus annotated with structural syntactic information (i.e part of speech and skeletal trees the results would have considerably higher degrees of accuracy and representativity.  SRs may help a parser to prefer some parses among several grammatical ones . 

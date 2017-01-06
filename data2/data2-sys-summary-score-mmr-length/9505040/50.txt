@@ -1,0 +1,1 @@
+ (The test set in all cases was 50K words.  As shown in Fig.  In these tests, punctuation marks were tagged in the same way as words.  Various optimizations proved to be crucial to make the tests described feasible. 

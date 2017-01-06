@@ -1,0 +1,1 @@
+ Since the late '80s part-of-speech (POS) disambiguation using Hidden Markov Models (HMM) has been a widespread method for tagging texts.  Despite this fact, little work has been done so far toward employing this technology for the disambiguation of German texts (cf. 

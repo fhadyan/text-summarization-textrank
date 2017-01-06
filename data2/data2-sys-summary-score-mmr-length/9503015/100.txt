@@ -1,0 +1,1 @@
+ Once the full set of possible lexical entries for a sentence is collected, they can, if required, then be converted back into a set of phrase structure rules (which should correspond to a small subset of the rule based formalism equivalent to the whole lexicalised grammar before being parsing with a standard algorithm such as Earley's (Earley 1970  

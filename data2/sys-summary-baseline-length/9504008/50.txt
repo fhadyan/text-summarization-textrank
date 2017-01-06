@@ -1,0 +1,1 @@
+ Spoken language processing challenges for integration of speech recognition into natural language processing, and must deal with multi-level knowledge sources from signal level to symbol level.  The multi-level knowledge integration and handling increase the technical difficulty of both the speech and the natural language processing. 

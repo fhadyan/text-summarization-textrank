@@ -1,0 +1,1 @@
+ Harrison et al 1991 .  An example of each type of rule is given in (4a-c .  1.256[20.1] and 1.239[22.6 .  We then removed all sentence-internal punctuation from this set and re-parsed it..  250 sentences from the new treebank were kept back for testing.. 

@@ -1,0 +1,1 @@
+ I know what the CAT scan is for, but W HICH condition does URIN ALYSIS address? L+H* \t\t LH% \t\t H* \t\t LL$ Proposition: Theme: (s:address urinalysis, x np:x) Rheme: s:address urinalysis, x np:x The content generation module, which has the task of determining the semantics and information structure of the response, relies on several simplifying assumptions. 

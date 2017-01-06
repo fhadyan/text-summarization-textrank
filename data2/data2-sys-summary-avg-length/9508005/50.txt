@@ -1,0 +1,1 @@
+ We are presenting results on two versions..  In the case of 80 clusters the results do not change significantly..  In section 2 a similarity metric is proposed and analysed..  But sentence segmentation is not a straightforward matter..  We only have potential translatable unit markers.. 

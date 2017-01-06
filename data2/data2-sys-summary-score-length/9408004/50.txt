@@ -1,0 +1,1 @@
+ Each proper branch is a binary branching structure, and so all grammatical constraints will need to be encoded locally..  the main verbs were all from the set for which theta role data was obtained the examples were manually parsed by the authors..  was kept constant.. 

@@ -1,0 +1,10 @@
+
+We present an analysis of the semantic interpretation of intensional
+verbs such as seek that allows them to take direct objects of
+either individual or quantifier type, producing both de dicto
+and de re readings in the quantifier case, all without needing
+to stipulate type-raising or quantifying-in rules. This simple
+account follows directly from our use of logical deduction in
+linear logic to express the relationship between syntactic structures
+and meanings. While our analysis resembles current categorial
+approaches in important ways (

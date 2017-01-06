@@ -1,0 +1,1 @@
+ 3.1 Prompts.  Example 2 - Repetition.  3.3 Interruptions.  3.3.1 Vital facts.  We considered two possible types of failure: either the speaker could give a cue and continue or the speaker could give a cue and the listener fail to respond. 

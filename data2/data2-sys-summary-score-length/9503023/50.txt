@@ -1,0 +1,1 @@
+ The highest output marks the winning node..  If both positive and negative data is used, counter examples will reduce the postulated grammar so that it is nearer the real grammar..  In order to do this a number of subsidiary tasks will be addressed.. 

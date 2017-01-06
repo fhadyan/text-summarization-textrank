@@ -1,0 +1,7 @@
+
+We introduce constraints
+necessary for type checking a higher-order concurrent
+constraint language,
+and solve them with an incremental algorithm.
+Our constraint system extends rational unification
+by constraints 

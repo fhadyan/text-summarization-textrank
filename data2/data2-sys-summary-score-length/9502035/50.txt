@@ -1,0 +1,1 @@
+ [S [NP1 John] [VP [V knows] [S2 [NP2the truth] [VP2 hurts Since the description before the processing of the disambiguating word hurts is a subset of the final tree description, the monotonicity requirement is satisfied..  an NP . 

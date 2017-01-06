@@ -1,0 +1,1 @@
+ example kadina is the argument of dn..  RES-OP-ARG is the categorial notation for the element..  PHON represents the phonological string..  PHON also allows efficient lexicon search..  In the domain of phonology, there are categorial accounts of prosody and voice assimilation .. 

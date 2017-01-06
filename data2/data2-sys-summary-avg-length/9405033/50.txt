@@ -1,0 +1,1 @@
+ It therefore seems likely that grammars of the type considered in this paper (i.e..  Earley, 1970; Lang, 1974; Pratt, 1975 .  Dynamic storage minimisation, deferring structure copying e.g..  unification success or parse success, respectively .  Parsing uses fixed-arity term unification.. 

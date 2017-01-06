@@ -1,0 +1,1 @@
+ A common assumption in work on collaborative problem solving is that interaction should be efficient.  When language is the mode of interaction, the measure of efficiency has been, in the main, the number of utterances required to complete the dialogue .  See figure . 

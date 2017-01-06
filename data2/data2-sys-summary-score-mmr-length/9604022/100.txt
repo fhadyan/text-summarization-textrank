@@ -1,0 +1,1 @@
+ For example: [booked (JJ VBD VBN [book (NN VB A[s [ed (NN VB) (JJ VBD VBN [undeveloped (JJ [developed (VBD VBN A[p [un (VBD VBN) (JJ The operator is applied to all possible lexicon-entry pairs and if a rule produced by such an application has already been extracted from another pair, its frequency count (f) is incremented. 

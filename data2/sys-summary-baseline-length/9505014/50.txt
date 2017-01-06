@@ -1,0 +1,1 @@
+ This work is concerned with the problems of adding the concept of presupposition to a logical language.  Although presupposition originates as a natural language phenomenon, for the purposes of the present work sentences will be represented as propositions of a logical language. 

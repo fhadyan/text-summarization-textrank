@@ -1,0 +1,1 @@
+ 1,440 .  Instead of starting with the trivial model, one can start with a smaller, easy-to-produce model, but one has to ensure that its size is still larger than the optimal model..  Model merging stops when a predefined threshold for the corpus probability is reached.. 

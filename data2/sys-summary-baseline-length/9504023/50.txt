@@ -1,0 +1,1 @@
+ Part-of-speech (POS) tagging is a basic step to several natural language processing applications including text-based information retrieval, speech recognition, and text-to-speech synthesis.  The statistical approaches are insufficient for the agglutinative languages (such as Korean) which have usually complex morphological structures. 

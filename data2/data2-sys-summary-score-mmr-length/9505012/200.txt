@@ -1,0 +1,1 @@
+ Is it realistic to suppose that lists of terms exist for technical domains ? The ever-growing mass of electronic documents calls for tools for accessing these data which have to make extensive use of term lists as sources of indexes. 

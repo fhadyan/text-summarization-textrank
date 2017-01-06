@@ -1,0 +1,1 @@
+ Our interpretation of these results is that the technical loss of grammar coverage due to the specialization and pruning processes is more than counterbalanced by two positive effects..  The resulting specialized grammars are forced to be non-recursive, with derivations being a maximum of six levels deep.. 

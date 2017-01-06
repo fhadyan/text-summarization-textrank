@@ -1,0 +1,1 @@
+ An iterative, unsupervised method was then used to decide between noun and verb attachment for each triple..  A maximum likelihood method would use the training data to give the following estimation for the conditional probability: Unfortunately sparse data problems make this estimate useless.. 

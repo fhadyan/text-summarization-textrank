@@ -1,0 +1,1 @@
+ This differs from our approach in a number of ways.  ; Daelemans   Eat: VERB+NP [root] eat.  Spare: VERB+NP+NP [root] spare.  STREE: TREENODE [cat] s.  Our basic approach to each of these is the same. 

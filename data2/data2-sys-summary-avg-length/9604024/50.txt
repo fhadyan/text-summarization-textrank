@@ -1,0 +1,1 @@
+ First, the inner domains of the grammar are calculated..  This work will be reported at a later date..  Take the following bag: Ex..  Then G is connected..  We distinguish variables by uniquely typing them..  Updating the graph involves three steps.. 

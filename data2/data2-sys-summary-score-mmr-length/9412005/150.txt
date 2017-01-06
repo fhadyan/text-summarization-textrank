@@ -1,0 +1,1 @@
+ Since sentence boundaries provide information about word boundaries (the end of a sentence is also the end of a word our input contains sentence boundaries; several studies (Bernstein-Ratner, 1985; Hirsh-Pasek et al 1987; Kemler Nelson, Hirsh-Pasek, Jusczyk Wright Cassidy, 1989; Jusczyk et al 1992) have shown that infants can perceive sentence boundaries using prosodic cues. 

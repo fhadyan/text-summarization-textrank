@@ -1,0 +1,1 @@
+ We have determined three types of context: K-context, the non-linguistic knowledge required for this domain, F-context, the more specific context of the events being narrated, and E-context, the discourse context for this text type..  a car..  (A17) b.. 

@@ -1,0 +1,1 @@
+ , the structure candidates which contain the substructure [3 [EG] 4 [EX] 5] [SR] 6 , which says sentence six is the entailment of sentence four and five only, are penalized. 

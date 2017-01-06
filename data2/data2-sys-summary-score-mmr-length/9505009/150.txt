@@ -1,0 +1,1 @@
+ Ditransitive Verb From this lexical entry, we can derive in the first phase a fully saturated initial tree by applying first the lexical slash-termination rule, and then the head-complement head-subject and filler-head-rule. 

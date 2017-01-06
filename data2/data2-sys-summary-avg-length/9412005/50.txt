@@ -1,0 +1,1 @@
+ Clearly phonotactic constraints are useful, as both recall and accuracy improve..  We imagine hypotheses represented as a string of ones and zeros..  74-75 .  Each simulation was run on each sample, for a total of twelve DIST runs.. 

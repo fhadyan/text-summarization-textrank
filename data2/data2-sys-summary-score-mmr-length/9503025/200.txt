@@ -1,0 +1,1 @@
+ The results using distance vectors are shown by dots ( and using co-occurrence vectors from the 1987 WSJ (20M words) by circles (  

@@ -1,0 +1,1 @@
+ Though Gerdemann (1991) showed how to modify the restriction function to make top-down information available for the bottom-up completion step, Earley generation with top-down prediction still has a problem in that generating the subparts of a construction in the wrong order might lead to massive nondeterminacy or even nontermination. 

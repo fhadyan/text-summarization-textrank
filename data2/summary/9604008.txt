@@ -1,0 +1,2 @@
+
+Excellent results have been reported for Data-Oriented Parsing (DOP) of natural language texts 

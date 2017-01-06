@@ -1,0 +1,1 @@
+ Content determination (deciding what information to communicate in the text) and text-planning (organizing the information into a rhetorically coherent structure) are done simultaneously in most applied NLG systems .  These tasks can be done at many different levels of sophistication.  Black.  Black. 

@@ -1,0 +1,1 @@
+ For confirmation, the list of French unknown words was given to a French grammarian, who predicted that it would be possible to make a good guess at the correct tag from the morphology for around 70% of the words, and could narrow down the possible tags to two or three for about a further 25  

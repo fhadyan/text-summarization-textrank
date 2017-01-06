@@ -1,0 +1,1 @@
+ Because PLANDoc can produce many paraphrases for a single message, aggregation during the syntactic phase of generation would be difficult; semantically similar messages would already have different surface forms. 

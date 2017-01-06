@@ -1,0 +1,1 @@
+ The changes to the tagset are listed below..  D Definiteness: definite, indefinite..  C Case: nominative, genitive..  French The changes other than V were based on inflections..  G Gender: masculine, feminine..  N Number: all singular/plural distinctions removed.. 

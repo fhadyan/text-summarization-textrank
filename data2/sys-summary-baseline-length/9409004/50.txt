@@ -1,0 +1,1 @@
+ These last years there has been a common agreement in the natural language processing research community on the importance of having an extensive coverage of the surface lexical semantics of the domain to work with, (specially, typical contexts of use   not related by hyperonymy. 

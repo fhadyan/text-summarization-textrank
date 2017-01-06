@@ -1,0 +1,1 @@
+ Recently, there has been a growing interest in research on formalizing feature theory.  Some formalisms that appeared lately are the feature algebra of , the modal logic of , the deterministic finite automata of , and the first-order predicate logic of .  \t\t Step 1. 

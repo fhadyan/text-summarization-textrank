@@ -1,0 +1,1 @@
+ Lexicalist approaches to MT, particularly those incorporating the technique of Shake-and-Bake generation , combine the linguistic advantages of transfer , and interlingual , approaches.  Unfortunately, the generation algorithms described to date have been intractable.  The translation process consists of three phases: 1. 

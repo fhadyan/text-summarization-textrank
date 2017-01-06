@@ -1,0 +1,1 @@
+ Dependency grammar can complement other approaches to syntax in much the same way that relational grammar, fifteen years ago, provided an organizing perspective on what had previously been a heterogeneous set of syntactic transformations. 

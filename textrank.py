@@ -33,7 +33,9 @@ def textrank(word):
     # temp = [edges.count(x) for x in edges]
 
     ##### create adjency matrix
-    nodes = [[x, i, 1] for i,x in enumerate(nodes)]
+    # initValue = 1 ### textrank 1
+    initValue = 1/len(word)
+    nodes = [[x, i, initValue] for i,x in enumerate(nodes)]
     nodes = np.array(nodes, dtype=object)
 
     nodes_n = len(nodes)
@@ -47,10 +49,12 @@ def textrank(word):
 
     ##### dangling nodes
     colSum = np.sum(adjMatrix,axis=0)
-    adjMatrix[np.where(colSum==0),:]=1
+    #adjMatrix[np.where(colSum==0),:]=1
+    adjMatrix[:,np.where(colSum==0)]=1
 
     ##### Textrank
     d = 0.85
+    #d = 0.95
     e = 1
     t  = 0.0001
     while e>t:
@@ -69,12 +73,13 @@ def textrank(word):
                 nodes[i,2] = (1-d)
         wVn1 = nodes[:,2]
         er = [abs(float(wVn[j])-float(wVn1[j])) for j,z in enumerate(wVn)]
-        e = min(er)
+        e = max(er)
         
     return nodes
-        
-path = "data/body/"
-filens = os.listdir(path)
-stops = stopwords.words('english')
-sentence, word = preprocess(path+filens[0])
-textrank(word)
+
+if __name__ == "__main__":       
+    path = "data/body/"
+    filens = os.listdir(path)
+    stops = stopwords.words('english')
+    sentence, word = preprocess(path+filens[0])
+    textrank(word)

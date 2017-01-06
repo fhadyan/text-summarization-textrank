@@ -1,0 +1,1 @@
+ Each word is (perhaps ambiguously) assigned a category and LF, and when the syntactical operations assign a new category to a constituent, the corresponding semantic operations produce a new LF for that constituent as well.. 

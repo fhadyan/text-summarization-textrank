@@ -1,0 +1,1 @@
+ This paper describes the adaptation work carried out to retarget the Xerox Tagger to Spanish.  It is also claimed to be language-independent and it is public domain.  Various authors have already developed ports to languages other than English (the language in which development was performed  

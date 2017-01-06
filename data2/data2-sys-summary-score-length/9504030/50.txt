@@ -1,0 +1,1 @@
+ For each parsed sentence in the tree growing corpus, the correct state sequence is traversed..  The SPATTER parser illustrates how large amounts of contextual information can be incorporated into a statistical model for parsing by applying decision-tree learning algorithms to a large annotated corpus.. 

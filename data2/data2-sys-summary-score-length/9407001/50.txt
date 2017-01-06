@@ -1,0 +1,1 @@
+ In order to achieve tight integration, we adopt a relational view of X2MORF and encode the relation between surface string and lexical string directly without using finite state automata (for arguments supporting this approach cf..  X2MORF differs from standard two-level morphology in two important respects.. 

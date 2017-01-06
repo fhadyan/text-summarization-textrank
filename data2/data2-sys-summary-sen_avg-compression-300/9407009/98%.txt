@@ -1,0 +1,1 @@
+218 = 0462 = 10005 level Speech recognition 577 utterances (839 were acceptably recognized6 received a QLF The ratio of error rates is 4 The ratio of error rates is 419, an even larger difference than for the entire set8 passed grammar specialization3 produce a good translation

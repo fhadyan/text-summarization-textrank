@@ -1,0 +1,1 @@
+ In other words, it may be unreasonable to try to construct maximally adequate and efficient referring expressions; or, more to the point, meeting Grice's requirements of saying neither too much nor too little, if taken literally, may be computationally unachievable.. 

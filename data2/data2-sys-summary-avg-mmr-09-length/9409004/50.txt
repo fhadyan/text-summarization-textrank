@@ -1,0 +1,1 @@
+ Precision amounts to 79.2   Recall amounts to 75.7   Nevertheless this situation is rare.  The method can be easily exported to other configurations.  Semantic classes are represented extensionally as sets of nouns.  not related by hyperonymy.  The advantages and drawbacks of both approaches are diverse. 

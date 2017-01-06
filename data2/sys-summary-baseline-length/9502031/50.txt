@@ -1,0 +1,1 @@
+ Unless a keyboard user is particularly proficient, a frustrating amount of time is usually spent backtracking to pick up mis-typed or otherwise mistaken input.  Hence `co-operative' error processing.  One word in this purview is in focus at a time.  p.b.t s. 

@@ -1,0 +1,1 @@
+ If different techniques require different amounts of data to achieve a given accuracy, the architect would like to know what these requirements are in advance in order to make an informed choice..  Figure shows five traces of accuracy as the volume of training data is varied.. 

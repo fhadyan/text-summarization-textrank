@@ -1,0 +1,1 @@
+ to identify reasonable and absurd answers .  In contrast to the lexicalized grammar, in a grammar of constructions we can write a structural rule This rule defines a production saying that a new structure is obtained by adding a digit D to a previously defined structure DS1.. 

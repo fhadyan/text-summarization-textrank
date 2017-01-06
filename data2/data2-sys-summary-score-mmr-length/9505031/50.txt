@@ -1,0 +1,1 @@
+ Remark.  Thus grammars are always formal.  (A recursive definition   However we want to say more than that.  At issue is what is the best encoding.  about data structures.  We now briefly discuss each argument.  Both will be presented in Section 3. 

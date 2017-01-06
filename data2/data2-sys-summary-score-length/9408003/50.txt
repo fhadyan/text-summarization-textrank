@@ -1,0 +1,1 @@
+ [ Definition P is the path interpretation function under I iff [ I is an interpretation , P is a total function from to the set of partial functions from U to U, and for each , [ is the functional composition of .. 

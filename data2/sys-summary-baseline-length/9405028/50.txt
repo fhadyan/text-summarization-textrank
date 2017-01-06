@@ -1,0 +1,1 @@
+ Our aim is to formalize constraints that are needed to develop a parser based on unification grammar (called UG henceforth) so that our parser can deal with variety of types of sentences in Japanese.  However just parsing syntactically is not enough for natural language understanding. 

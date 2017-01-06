@@ -1,0 +1,1 @@
+ ) are specified.  , but has slightly better performance.  Otherwise it is classified as non-boundary.  The value is sentence.final.contour' if or sentence.final.contour' if   Cue-prosody is `complex' if: 1.  before = sentence.final.contour' 2.  pause = `true' 3. 

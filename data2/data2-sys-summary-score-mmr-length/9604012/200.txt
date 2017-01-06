@@ -1,0 +1,1 @@
+ (SemHe makes use of an earlier implementation by In order to minimise accumulator-passing arguments, we assume the following initially-empty stacks: ParseStack accumulates the category structures of the morphemes identified, and FeatureStack maintains the rule features encountered so far. 

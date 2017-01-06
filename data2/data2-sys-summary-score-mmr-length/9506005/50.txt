@@ -1,0 +1,1 @@
+ For more details, see .  , which shows the verb mappings for UPenn.  section   Information input are tagging guidelines, if the source annotation scheme comes with a comprehensive description of the intended class semantics, or corpus queries otherwise, which is more time consuming. 

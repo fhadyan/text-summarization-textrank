@@ -1,0 +1,1 @@
+ As a general principle, it is advantageous to add a word to the grammar when its characters appear more often than can be explained given other knowledge, though the cost of actually representing the word acts as a buffer against words that occur only marginally more often than expected, or that have unlikely (long) descriptions. 

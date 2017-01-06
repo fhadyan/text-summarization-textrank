@@ -1,0 +1,1 @@
+ Other types of conditional cooccurrence probabilities have been used in probabilistic parsing .  Their similarity-based model avoids clustering altogether.  The best parameter values found were k=60, t=2.5, and .  This advantage for the similarity model is statistically significant at the 0.01 level. 

@@ -1,0 +1,1 @@
+ Link Grammar is not the only way to process grammars bidirectionally..  We close with a discussion of related work and our plans for the future..  S2: The condor eats meat..  This classification can be refined as other usages of `snipe' are encountered.. 

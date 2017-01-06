@@ -1,0 +1,1 @@
+ Methods for automatically classifying words according to their contexts of use have both scientific and practical interest.  Hindle proposed dealing with the sparseness problem by estimating the likelihood of unseen events from that of similar events that have been seen.  Our approach avoids both problems. 

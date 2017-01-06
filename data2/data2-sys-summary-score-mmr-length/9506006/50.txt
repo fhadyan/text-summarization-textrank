@@ -1,0 +1,1 @@
+ (This is relevant not only to English   We believe that our methods are scalable to mappings between multilingual tagsets.  Other schemes may leave such words as they are.  Such issues make alignment a non-trivial task.  The position of these items can easily be aligned. 

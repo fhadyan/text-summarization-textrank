@@ -1,0 +1,1 @@
+g pour A, pour E  Moreover, this representation is similarly concise: given appropriate rules of inference, one can also derive Jack poured water into pour A for twenty-five seconds, Jack poured water into pour A for twenty seconds, and so forth This explains why sentences like Jack ran along the river, two hundred yards from the shore, for thirty seconds should be well-formed.

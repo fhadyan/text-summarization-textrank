@@ -1,0 +1,1 @@
+ In the generation of articles and numbers for REFERENTIAL noun phrases some of the errors can simply be solved by the addition of new rules: for example, adding rules which use the meaning of adverbs to determine number or rules using pre-head modifiers to determine definiteness.. 

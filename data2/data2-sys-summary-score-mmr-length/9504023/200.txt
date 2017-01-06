@@ -1,0 +1,1 @@
+ Our POS tags, which are originally designed for morphotactics modeling in CYK-based Korean morphological analysis [ consists of the hierarchically organized 200 symbols that are refined from the seven major grammatical categories of Korean, which are nominal, predicate, modifier, particle, ending, symbol, interjection. 

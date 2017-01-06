@@ -1,0 +1,1 @@
+ The formalism as currently described can be used to simulate arbitrary Turing Machine computations..  Finally, we note that acyclic feature structures without re-entrancy can be viewed as trees with branches labelled by feature names and atomic values only found at leaf nodes (interior nodes being unlabelled . 

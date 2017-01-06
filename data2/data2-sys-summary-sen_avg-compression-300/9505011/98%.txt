@@ -1,0 +1,1 @@
+ The classes produced by a system are later compared to these correct classifications provided by the expert To resolve a conflict, one of the system classes must be re-mapped05 on an average

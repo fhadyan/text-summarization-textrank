@@ -1,0 +1,1 @@
+ ] ] ] ] Suppose that I is an interpretation .  ] ] ] [ Lemma is an interpretation.  ] I write for .  Let [ , , and .  By theorem , Ris satisfiable.  ] ] ] ] [ From theorem and proposition . 

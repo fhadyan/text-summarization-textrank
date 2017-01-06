@@ -1,0 +1,1 @@
+ Integrating the text and the PoS sequence grammars is straightforward and the result remains modular, in that the text grammar is `folded into' the PoS sequence grammar, by treating text and syntactic categories as overlapping and dealing with the properties of each using disjoint sets of features, principles of feature propagation, and so forth. 

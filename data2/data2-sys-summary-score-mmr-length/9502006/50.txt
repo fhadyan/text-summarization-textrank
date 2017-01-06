@@ -1,0 +1,1 @@
+ Development times are at least as important as computation times.  Surface: "chre" Lexical: "cher   This obviates the need for null characters at the surface.  The example in Section below clarifies this point.  Lm v(L,R) R1  

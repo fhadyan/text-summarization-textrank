@@ -1,0 +1,1 @@
+ Statistical approaches to natural language processing are becoming increasingly popular, being applied to a wide variety of tasks.  For example, Weischedel et al.  (1993) explores part-of-speech tagging, parsing and acquisition of lexical frames.  Often multiple indicators are used. 

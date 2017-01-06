@@ -1,0 +1,1 @@
+ Compositionality is defined as the property that the meaning of a whole is a function of the meaning of its parts (cf.  , pp.24-25   (A slightly less general definition, e.g.  , postulates the existence of a homomorphism from syntax to semantics   THEOREM 1. 

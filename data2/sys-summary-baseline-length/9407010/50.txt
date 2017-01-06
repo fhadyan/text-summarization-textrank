@@ -1,0 +1,1 @@
+ During the last few years, the previously separate fields of speech and natural language processing have moved much closer together, and it is now common to see integrated systems containing components for both speech recognition and language processing.  Intuitively, highest-in-coverage seems a promising idea. 

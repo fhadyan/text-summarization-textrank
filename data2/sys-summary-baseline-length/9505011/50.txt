@@ -1,0 +1,1 @@
+ Most natural language processing (NLP) systems are designed to work on certain specific domains and porting them to other domains is often a very time-consuming and human-intensive process.  One such feature is the knowledge of the semantic clusters in a domain. 

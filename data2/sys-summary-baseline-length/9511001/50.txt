@@ -1,0 +1,1 @@
+ Correctly determining number is a difficult problem when translating from Japanese to English.  This is because in Japanese, noun phrases are not normally marked with respect to number.  In addition, there is no grammatical marking of countability.  The results are summarized in Table . 

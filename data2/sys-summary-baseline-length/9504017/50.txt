@@ -1,0 +1,1 @@
+ It is widely acknowledged that a full account of natural language utterances cannot be given in terms of only syntactic or semantic phenomena.  To recognize normal state implicatures one must consider mutual beliefs and plans .  We address this issue in more detail in section . 

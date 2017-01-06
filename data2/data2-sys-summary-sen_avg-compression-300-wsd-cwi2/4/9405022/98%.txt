@@ -1,0 +1,1 @@
+33 and 000 threshold Repeat i i+1; ; N[i] N N 3 Goto ; 6 A threshold value of say 1 Note that they not correspond to any training example The table below summarizes the results for some grammars of different coverage extracted using: 1 Hand-coded tree-cutting criteria10 + 133 = 2 an NP, i Repeat i i+1; N[i] N(N[i-1 3 Until N[i] = N[i-1]4.

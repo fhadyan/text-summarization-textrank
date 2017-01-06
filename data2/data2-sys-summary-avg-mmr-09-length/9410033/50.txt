@@ -1,0 +1,1 @@
+ We provide the system with default descriptions.  For all knowledge sources the question arises how knowledge can be shared.  This problem is the starting-point for the following considerations.  During simultaneous interpretation requests are rather unusual.  Thus, default handling should be triggered immediately. 

@@ -1,0 +1,1 @@
+ The experiment says that our robust parser with heuristics can recover perfectly about 23 sentences out of 100 sentences which are just failed in normal parsing, as the percentage of no-crossing sentences is about 23.28   Heuristics 2: fiducial nonterminal People often make mistakes in writing English. 

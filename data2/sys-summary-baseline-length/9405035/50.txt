@@ -1,0 +1,1 @@
+ Psycholinguistic knowledge would be greatly helpful, as we believe, in constructing an artificial language processing system.  The bilingual dual-coding theory partially answers the above questions.  We have explored an information theoretical neural network that can acquire the verbal associations in the dual-coding theory. 

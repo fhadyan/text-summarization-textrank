@@ -1,0 +1,1 @@
+ The process of solving such equations is traditionally called unification and can be stated as follows: given two terms M and N, find a substitution of terms for free variables that will make M and N equal..  ellipsis with focus phenomena (cf..  section .  section . 

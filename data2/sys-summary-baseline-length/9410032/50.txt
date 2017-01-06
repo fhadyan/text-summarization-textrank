@@ -1,0 +1,1 @@
+ This paper presents a text planner for the verbalization of natural deduction (ND) style proofs .  Several similar attempts can be found in previous work.  Developed before the era of NL generation, the system EXPOUND of D.  Conveying a step of the derivation. 

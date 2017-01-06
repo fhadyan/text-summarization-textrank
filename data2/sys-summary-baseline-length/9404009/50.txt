@@ -1,0 +1,1 @@
+ This paper describes part of our ongoing investigation on the use of formal deduction in linear logic to explicate the relationship between syntactic analyses in Lexical-Functional Grammar (LFG) and semantic interpretations.  For example, the f-structure for sentence is given in . 

@@ -1,0 +1,1 @@
+ Many, diverse tagged and parsed corpora have been developed.  Amongst the applications of annotated corpora are as training sets for the extraction of models used in speech and handwriting recognition.  The tagsets of two languages usually differ in the features they cover. 

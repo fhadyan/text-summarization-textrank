@@ -1,0 +1,1 @@
+ The successful treatment of morphological phenomena in some languages by means of finite state automata appears to have led to the idea that this model is the most efficient and universal way to deal with morphology computationally.  Unification-based morphology uses suppletion (i.e.  (to love  

@@ -1,0 +1,1 @@
+ We employed an experienced annotator of corpora, Tim Willis, to learn the ICE annotation scheme and apply it to the Spoken English Corpus by editing the automatic output of the Nijmegen parser which was designed to annotate ICE-GB material.. 

@@ -1,0 +1,1 @@
+ In general, a sequence of words is a sentence if it is possible to draw links among the words in such a way that the syntactic constraint of every word is satisfied and all the following meta-rules are observed: Planarity: Links drawn above the sentence do not intersect. 

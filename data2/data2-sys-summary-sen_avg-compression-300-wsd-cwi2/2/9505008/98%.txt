@@ -1,0 +1,1 @@
+ Merging Same Attribute: combining adjacent messages that only have one distinct attribute Combining messages according to the highest ranking attribute ensures that minimum text will be generated for these messages In Fig.

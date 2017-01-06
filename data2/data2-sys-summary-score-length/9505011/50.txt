@@ -1,0 +1,1 @@
+ Since semantic classes are often domain-specific, their automatic acquisition is not trivial..  For every pairwise mapping found for the classes in these two clusterings, populate the YES-YES, YES-NO, and NO-YES cells of the contingency table appropriately (see Table 2 . 

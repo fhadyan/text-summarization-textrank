@@ -1,0 +1,1 @@
+ The formalism of synchronous tree-adjoining grammars , a variant of standard tree-adjoining grammars (TAG was intended to allow the use of TAGs for language transduction in addition to language specification.  This paper concerns the formal definitions underlying synchronous tree-adjoining grammars.  DL and DR are isomorphic. 

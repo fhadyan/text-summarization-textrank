@@ -1,0 +1,1 @@
+1) Fig In the second partial parse, the word side is analyzed as a verb 3 and 12 (151st sentence) (33) Fig However, the resulting unified parses were not always correct Since sentences with incomplete parses are usually quite long and contain complicated structures, it is hard to obtain a perfect analysis for those sentences The results are shown in Table 

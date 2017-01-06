@@ -1,0 +1,1 @@
+ Text chunking involves dividing sentences into nonoverlapping segments on the basis of fairly superficial analysis.  Since chunking includes identifying the non-recursive portions of noun phrases, it can also be useful for other purposes including index term generation.  As shown in Fig. 

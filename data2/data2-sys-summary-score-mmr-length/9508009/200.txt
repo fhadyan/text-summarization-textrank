@@ -1,0 +1,1 @@
+ For instance, if we assume that the order in which the types occur is not relevant, then we may allow permutation on the operands, so that x y y x; if we assume that contraction is a structural property of the calculus then the string [S/NP, NP, NP] will also yield an S, since y y y, etc. 

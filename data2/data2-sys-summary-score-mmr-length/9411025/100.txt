@@ -1,0 +1,1 @@
+ In contrast, in our type system, the Prolog term translation has at most 8 nodes in the worst case, as in the following term which encodes the subjective case masculine (third person singular) personal pronoun. 

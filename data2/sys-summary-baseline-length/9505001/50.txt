@@ -1,0 +1,1 @@
+ In collaborative consultation dialogues, the consultant and the executing agent collaborate on developing a plan to achieve the executing agent's domain goal.  Since agents are autonomous and heterogeneous, it is inevitable that conflicts in their beliefs arise during the planning process. 

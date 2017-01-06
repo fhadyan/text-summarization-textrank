@@ -1,0 +1,2 @@
+
+The paper presents a prototype lexicalist Machine Translation system (based on the so-called `Shake-and-Bake' approach of 

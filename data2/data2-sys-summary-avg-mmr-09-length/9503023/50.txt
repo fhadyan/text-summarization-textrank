@@ -1,0 +1,1 @@
+ Then these constituents can be processed further.  Any link that is still disabled is activated and initialised to 0, so that tuples which have not occurred in the training corpus make no contribution to the classification task.  (3.2)   (3.n+1)  

@@ -1,0 +1,1 @@
+ This full tagset is presented in .  Nouns are favoured when they can also be adjectives.  It is also claimed to be language-independent and it is public domain.  Results may be poor in this case.  The Xerox Tagger is based on an HMM. 

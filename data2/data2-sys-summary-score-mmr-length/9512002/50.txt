@@ -1,0 +1,1 @@
+ Appendix A describes how these functions are computed.  It has a variety of other pleasing properties.  There are several reasons for this.  The first is quite interesting.  It is also small.  Secondly, the algorithm is unsupervised.  We adopt this MDL framework. 

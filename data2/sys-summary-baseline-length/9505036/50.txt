@@ -1,0 +1,1 @@
+ This paper concerns how to generate and understand discourse anaphoric noun phrases, or noun phrases (NPs) that evoke a discourse entity already in the discourse model (Webber webber78   Dale dale89 dale92 implements Gricean constraints on informativeness for generating discourse anaphoric NPs.  In Fig. 

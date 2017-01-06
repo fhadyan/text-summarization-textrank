@@ -1,0 +1,1 @@
+ DCGs are represented using the same notation we used for context-free grammars, but now of course the category symbols can be first-order terms of arbitrary complexity (note that without loss of generality we don't take into account DCGs having external actions defined in curly braces  

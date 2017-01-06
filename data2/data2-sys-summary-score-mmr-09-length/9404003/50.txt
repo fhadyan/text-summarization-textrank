@@ -1,0 +1,1 @@
+ The doctor treats Jean's teeth.  Recall that the standard definition of TAG derivation, due to v87, is hierarchically structured in terms of derivation trees, trees that serve to characterize the operations required to construct a particular derived tree, and hence its yield. 

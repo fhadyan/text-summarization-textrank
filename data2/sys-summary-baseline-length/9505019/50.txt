@@ -1,0 +1,1 @@
+ We want to account for the difference between the following kinds of dialogs: Dialog 1: Dialog 2: The first dialog is a task dialog.  (And there is rich literature on that topic e.g.  Of course one can argue (e.g.  Acknowledgments. 

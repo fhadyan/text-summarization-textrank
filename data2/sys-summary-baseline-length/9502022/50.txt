@@ -1,0 +1,1 @@
+ The purpose of our paper is to develop a principled technique for attaching a probabilistic interpretation to feature structures.  Our techniques apply to the feature structures described by Carpenter .  On the basis of the usefulness of probabilistic context-free grammars , ch.  which are generated. 

@@ -1,0 +1,1 @@
+ Many researchers working in the field of automatic spoken language understanding have made the informal observation that utterances hard for one module in an integrated system have a greater than average chance of being hard for other modules; this effect is sometimes referred to as synergy . 

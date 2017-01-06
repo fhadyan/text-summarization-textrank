@@ -1,0 +1,1 @@
+ These ingredient systems are obtained by varying the Lambek calculus along two dimensions: adding the permutation rule (P) and/or dropping the assumption that the type combinator (which forms the sequences the systems talk about) is associative (N for non-associative  

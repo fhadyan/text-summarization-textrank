@@ -1,0 +1,1 @@
+ when the M element of the rule is empty..  This rule works, for instance, for words [developed undeveloped .  The learning is implemented as a two-staged process with feedback..  There are two types of test-data in use at this stage.. 

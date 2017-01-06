@@ -1,0 +1,1 @@
+ This strategy predicts the readings generated for the examples in Section .  This is most obvious in, but is not limited to, sentences involving coordination.  ) is shown in (   We now consider sentence ( where a quantified NP is shared.  Dalrymple et al. 

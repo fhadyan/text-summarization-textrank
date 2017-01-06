@@ -1,0 +1,1 @@
+ Breidt 1993   Distance is defined as the window-size in which bigrams are calculated.  We will refer to these with BI5.  their collocational status.  In the examples below, prepositions are added manually.  significant collocations.  100% `recall' is set to this number. 

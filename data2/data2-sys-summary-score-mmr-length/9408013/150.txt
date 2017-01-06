@@ -1,0 +1,1 @@
+ We vary the values of cj to minimize the sum, over all QLFs for all training sentences, of the squares of the errors in the approximation, Defining the error function as a sum of squares of differences in this way means that the minimum error is attained when the derivative with respect to each ck, , is zero. 

@@ -1,0 +1,1 @@
+ Transfer based approaches to machine translation (MT) involve three main phases: analysis, transfer and generation.  During analysis, the syntactic and semantic structure of a sentence is made explicit through a source language (SL) grammar and semantic processing modules.  above  

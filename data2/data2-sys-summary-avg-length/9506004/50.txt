@@ -1,0 +1,1 @@
+ The CCG rules shown in Figure 1 are implemented in the system described in this paper..  Each of the three operations have both a forward and backward variant..  In first-order unification, it is simulated as shown in Figure 2.. 

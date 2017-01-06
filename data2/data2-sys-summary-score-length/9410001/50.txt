@@ -1,0 +1,1 @@
+ This is consistent with experience (Rayner et al, 1994) that, for the ATIS domain, trigrams model inter-word effects much better than bigrams do, but that extending the N-gram model beyond N=3 is much less beneficial..  (See e.g.. 

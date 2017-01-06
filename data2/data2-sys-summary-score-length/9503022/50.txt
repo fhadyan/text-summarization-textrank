@@ -1,0 +1,1 @@
+ First, S derives in a steps..  Lemma proves that this reduction f is computable in polynomial time..  In general, it seems that the complexity of the combination of two problems is at least as hard as the complexity of these two problems in isolation.. 

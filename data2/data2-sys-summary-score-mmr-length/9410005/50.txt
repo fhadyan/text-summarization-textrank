@@ -1,0 +1,1 @@
+ Definitions of these transition types appear in figure .  See figure .  There is precisely one Cb.  RULES 1.  A discourse segment consists of a sequence of utterances .  There are three basic phases to this algorithm.  Each step is discussed and illustrated in figure . 

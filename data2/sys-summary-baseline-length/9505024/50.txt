@@ -1,0 +1,1 @@
+ There are no current text based natural language analysis or generation systems that make full use of punctuation, and while there are some that make limited use, like the Editor's Assistant [Dale 1990 they tend to be the exception rather than the rule. 

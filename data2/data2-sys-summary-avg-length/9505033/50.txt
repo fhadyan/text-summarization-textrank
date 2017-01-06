@@ -1,0 +1,1 @@
+ I will start with defining default values..  an inconsistent structure, while default logic does not allow this outcome..  One such class of constructions is those that have some degree of nonmonotonic behaviour..  Otherwise the default rule would have no effect and can be removed.. 

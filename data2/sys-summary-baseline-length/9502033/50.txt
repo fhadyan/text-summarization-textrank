@@ -1,0 +1,1 @@
+ However none of these methods has considered the way of dealing both phenomena in the same concrete system.  We propose in this paper an algorithm that deals with both phenomena, in the same analyser.  2) Apply the PP attachment procedure. 

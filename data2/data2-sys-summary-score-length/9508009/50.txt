@@ -1,0 +1,1 @@
+ Problems for further investigation might include: the treatment of polymorphic types (by incorporating rules for dealing with quantification analogous to Smullyan's and rules and complexity issues regarding how the general architecture proposed here would behave under more standard theorem proving methods..  right dislocation, . 

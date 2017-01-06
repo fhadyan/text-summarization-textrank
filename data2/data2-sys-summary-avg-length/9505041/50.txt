@@ -1,0 +1,1 @@
+ The proof is carried out in detail in ..  It will necessarily be somewhat meager both in the details of the definition and in the details of the underlying theory..  Using this, we can define the link relation..  Models for , then, are tuples .. 

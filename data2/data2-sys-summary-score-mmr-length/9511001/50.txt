@@ -1,0 +1,1 @@
+ The results are summarized in Table .  Incorporating this method into the machine translation system ALT-J/E helped to improve the percentage of noun phrases with correctly generated articles and number from 65% to 73   The tests are processed in the order shown. 

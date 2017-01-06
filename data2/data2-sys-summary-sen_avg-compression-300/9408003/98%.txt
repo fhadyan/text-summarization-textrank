@@ -1,0 +1,1 @@
+ ] ] ] ] A feature structure approximates a morph iff the Moshier abstraction of the feature structure abstractly subsumes (see [ the morph ] ] ] ] Each resolved feature structure is a well-typed (see [ feature structure with output alphabet  In fact, Troll represents each feature structure as a disjunction of the resolvants of the feature structure

@@ -1,0 +1,1 @@
+ We have used the integrated grammar to parse the Susanne corpus and the quite distinct Spoken English Corpus (SEC; Taylor Knowles, 1988 a 50K word treebanked corpus of transcribed British radio programmes punctuated by the corpus compilers..  Black et al..  Harrison et al 1991 . 

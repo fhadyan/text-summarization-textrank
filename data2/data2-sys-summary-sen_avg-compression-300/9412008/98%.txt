@@ -1,0 +1,1 @@
+ The results for four kanzi character words are almost equal There are 11 such cases for four kanzi character words, 35 such cases for five kanzi character words, and 29 cases for six kanzi character words They assumed compound nouns consist of only one character words and two character words collect four kanzi character words (section ) 2

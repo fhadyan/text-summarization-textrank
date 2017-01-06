@@ -1,0 +1,1 @@
+ This is a hybrid system.  When parses are postulated for a sentence negative as well as positive examples are likely to occur.  If both positive and negative data is used, counter examples will reduce the postulated grammar so that it is nearer the real grammar. 

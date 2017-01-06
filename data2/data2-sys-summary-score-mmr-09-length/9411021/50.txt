@@ -1,0 +1,1 @@
+ We introduce the heuristic costs , considering the parallelism between syntactic cases and semantic roles, as follows: where represents a unifier of two DAG's: one's syntactic case is x and the other's semantic role is y.  The last DAG in Fig. 

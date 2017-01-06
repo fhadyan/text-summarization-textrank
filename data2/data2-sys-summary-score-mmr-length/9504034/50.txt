@@ -1,0 +1,1 @@
+ Our move set includes the following moves: Move 1: Create a rule of the form Move 2: Create a rule of the form For any context-free grammar, it is possible to express a weakly equivalent grammar using only rules of these forms. 

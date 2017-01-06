@@ -1,0 +1,1 @@
+ We admit that this is a somewhat informal argument..  Of course, this research raises as many questions as it answers..  Similarly, for the right branch there are cl+1possibilities..  We show that it holds for trees of depth n+1.. 

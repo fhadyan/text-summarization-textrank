@@ -1,0 +1,1 @@
+ On the other hand it establishes yet another correspondence between unification problems arising from polymorphic type inference and unification based grammar formalisms: The most prominent one is the equivalence of type checking polymorphic recursion , with semi-unification , both of which are undecidable in general. 

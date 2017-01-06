@@ -1,0 +1,1 @@
+ Ellipsis is pervasive in natural language, and hence has received much attention within both computational and theoretical linguistics.  In the next section, we introduce the facts concerning gapping, VP-ellipsis, and non-elliptical event reference that we seek to explain. 

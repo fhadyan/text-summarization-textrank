@@ -1,0 +1,1 @@
+ The position taken in this paper can be summarised as follows.  Grice's maxims [Grice 1975] are framed as directives to the speaker, and so it is natural to consider how they might impact on the task of natural language generation ( NLG  

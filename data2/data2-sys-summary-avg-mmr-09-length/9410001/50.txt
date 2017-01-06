@@ -1,0 +1,1 @@
+ However, clustering can have two important uses.  Most other work on clustering for language modeling (e.g.  (See e.g.  This heightens the similarities within clusters and the differences between them.  The per-item entropy of the training set (i.e. 

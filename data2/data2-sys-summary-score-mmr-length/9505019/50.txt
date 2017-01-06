@@ -1,0 +1,1 @@
+ the question is implicit.  We will do it now.  yes/no and what-is complexities   parameters of a meeting   What are the contributions of this paper? 1.  (See and for a discussion of compositionality   We now can measure the yes-no-complexity of both T and S. 

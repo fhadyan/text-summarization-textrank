@@ -1,0 +1,1 @@
+ EBMT is based on the idea of performing translation by imitating translation examples of similar sentences [Nagao 84   [Brown 93 [Sadler 90] and [Kaji 92] have tackled the problem of establishing correspondences between words and phrases in bilingual texts. 

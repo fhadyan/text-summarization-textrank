@@ -1,0 +1,1 @@
+ the black cat vs.  0.72   Finally, the method fails if there are no local dependencies that could be used for categorization and only non-local dependencies are informative.  This is clearly undesirable.  A case in point is a vs.  a and will be dropped. 

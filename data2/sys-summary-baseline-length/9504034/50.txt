@@ -1,0 +1,1 @@
+ In applications such as speech recognition, handwriting recognition, and spelling correction, performance is limited by the quality of the language model utilized , , , .  In addition, n-gram models are extremely large, thus making them difficult to implement efficiently in memory-constrained applications. 

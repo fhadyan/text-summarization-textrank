@@ -1,0 +1,1 @@
+ During the last five years, people have started to believe there is a serious possibility of building practically useful spoken language translators for limited domains.  There are now a number of high-profile projects with large budgets, the most well-known being the German Verbmobil effort. 

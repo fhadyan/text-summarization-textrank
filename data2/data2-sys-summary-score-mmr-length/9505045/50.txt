@@ -1,0 +1,1 @@
+ Let us look at some simple examples.  Similar considerations apply to prepositions.  the speech recognition part of the system was not tested here.  Section describes the overall architecture of SLT.  In the paper, we will focus on the last of these. 

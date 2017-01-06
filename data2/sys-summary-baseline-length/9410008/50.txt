@@ -1,0 +1,1 @@
+ There are different types of text.  Texts about the same thing may be in differing genres, of different types, and of varying quality.  Texts vary along several parameters, all relevant for the general information retrieval problem of matching reader needs and texts. 

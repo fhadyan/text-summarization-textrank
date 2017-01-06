@@ -1,0 +1,1 @@
+ This tendency has been experimentally proven by Maruyama ..  There are several researches that are attacking this problem..  We should take semantic heads into consideration..  Fuzisaki et al..  The sample texts include about 220,000 sentences..  We represent a tree with a list notation.. 

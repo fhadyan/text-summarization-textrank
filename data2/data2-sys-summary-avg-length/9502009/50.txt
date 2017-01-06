@@ -1,0 +1,1 @@
+ When no SR has been acquired, the algorithm remains undecided..  Most of the results are very similar (differences are not statistically significative .  Relative entropy, , could do this job..  The NLP tasks where SRs utility could be evaluated are diverse.. 

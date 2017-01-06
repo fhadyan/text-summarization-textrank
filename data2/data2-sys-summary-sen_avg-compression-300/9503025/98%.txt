@@ -1,0 +1,1 @@
+ For learning or meanings from example words, distance vectors gave remarkably higher precision than co-occurrence vectors The network shown in Fig The words in Fig using co-occurrence statistics We used the same set of origin words as for the distance vectors Co-occurrence Vector

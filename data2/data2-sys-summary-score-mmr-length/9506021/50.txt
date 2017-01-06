@@ -1,0 +1,1 @@
+ A maximum likelihood method would use the training data to give the following estimation for the conditional probability: Unfortunately sparse data problems make this estimate useless.  f(v,n1,p,n2 0.  The algorithm is then as follows: 1. 

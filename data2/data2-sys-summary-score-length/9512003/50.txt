@@ -1,0 +1,1 @@
+ Let us consider the first possibility..  Using linear recency as a model of the limited attention constraint would mean that an antecedent for an anaphor is determined by a linear backward search of the text, or of a discourse model representation of the text inter alia.. 

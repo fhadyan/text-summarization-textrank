@@ -1,0 +1,1 @@
+ (1990 .  Three optimizations were especially helpful..  Dynamic, on-line reordering can solve the ordering problem discussed in the previous subsection, but is rather unattractive: interpreting grammar rules at run time creates much overhead, and locally determining the optimal evaluation order is often impossible.. 

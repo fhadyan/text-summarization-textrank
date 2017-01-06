@@ -1,0 +1,1 @@
+ In speech recognition and understanding systems, many kinds of language model may be used to choose between the word and sentence hypotheses for which there is evidence in the acoustic data.  Alshawi and Carter (1994 Rayner et al (1994 Rosenfeld (1994  

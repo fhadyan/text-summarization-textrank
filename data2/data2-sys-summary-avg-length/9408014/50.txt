@@ -1,0 +1,1 @@
+ Instead of feature based syntax trees and first-order logical forms we will adopt a simpler, monostratal representation that is more closely related to those found in dependency grammars (e.g..  rational debate..  Taylor, Grover, and Briscoe 1989 .  We call this approximating referential equivalence.. 

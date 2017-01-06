@@ -1,0 +1,1 @@
+ The Spoken Language Translator (SLT) is a prototype system that translates air travel (ATIS) queries from spoken English to spoken Swedish and to French.  At the highest level of generality, the design of SLT has two guiding themes. 

@@ -1,0 +1,1 @@
+ if a belief is not salient it cannot be used in deliberation or means-end-reasoning..  This is impossible to do with corpus analysis alone..  See figure ..  Clearly the rule does not hold..  In Design-World, salience is modeled by AWM model, adapted from .. 

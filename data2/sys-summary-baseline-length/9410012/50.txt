@@ -1,0 +1,1 @@
+ Part-of-speech tagging is the process of assigning grammatical categories to individual words in a corpus.  One widely used approach makes use of a statistical technique called a Hidden Markov Model (HMM   For an introduction to the algorithms, see Cutting et al.  (1990  

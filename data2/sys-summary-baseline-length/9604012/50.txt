@@ -1,0 +1,1 @@
+ The introduction of two-level morphology and subsequent developments has made implementing computational-morphology models a feasible task.  Yet, two-level formalisms fell short from providing elegant means for the description of non-linear operations such as infixation, circumfixation and root-and-pattern morphology.  SemHe fulfils this requirement.  sing. 

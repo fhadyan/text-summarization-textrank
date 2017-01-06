@@ -1,0 +1,1 @@
+ To manage the possible points of change of language via included segments (see section the language classification procedure uses a recursive algorithm to easily handle changes of context. 

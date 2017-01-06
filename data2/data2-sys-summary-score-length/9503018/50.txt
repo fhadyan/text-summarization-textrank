@@ -1,0 +1,1 @@
+ See figure ..  Elsewhere we show that (1) some IRU strategies are only beneficial when inferential complexity is higher than in the Standard Task , ; (2) IRUs that make inferences explicit can help inference limited agents perform as well as logically omniscient ones .. 

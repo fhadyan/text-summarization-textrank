@@ -1,0 +1,1 @@
+ This particular example is slightly unrealistic in that TraumAID acts purely as a critiquing device and does not possess such an interactive query system for its knowledge base; nor is it likely that such a query system would be of practical use in the trauma surgery.. 

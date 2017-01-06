@@ -1,0 +1,1 @@
+ Does there exist a tight relation between time bounded machines and R-AVGs as e.g between LBAs and CSLs? The answer is that the off-line parsability constraint that forces the R-AVG to have no chain- or -rules is just too restrictive to allow such a connection.. 

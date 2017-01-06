@@ -1,0 +1,1 @@
+ Emergence of text categorization according to language came with the need of processing texts coming from all over the world.  The goal of text categorization is to tag texts with the name of the language in which they are written.  There is no linguistic justification. 

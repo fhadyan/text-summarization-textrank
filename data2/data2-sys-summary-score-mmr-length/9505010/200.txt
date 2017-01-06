@@ -1,0 +1,1 @@
+ Can we use a similarity measure of probability distributions to identify optimal clusters? How far can we reduce the tagset without losing accuracy?  

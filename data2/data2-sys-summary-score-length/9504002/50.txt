@@ -1,0 +1,1 @@
+ For example, in a variant of the English tagger which was not used in these experiments, a module which reduces the range of possible tags based on testing for only seven surface characteristics such as capitalisation and word endings improved the unknown word accuracy by 15-20 . 

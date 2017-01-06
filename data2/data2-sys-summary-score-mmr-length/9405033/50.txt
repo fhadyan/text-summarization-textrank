@@ -1,0 +1,1 @@
+ HPSG; Pollard Sag, 1987   Samuelsson Rayner, 1991   N N N   The optimisations improve throughput by a factor of more than three.  This constitutes an on-line parsing algorithm.  These are considered separately in the next two sections.  Moore Dowding, 1991  

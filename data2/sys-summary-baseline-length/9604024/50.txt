@@ -1,0 +1,1 @@
+ Bag generation has been considered within the statistical and rule-based paradigms of computational linguistics, and each has handled this problem differently , , , .  This paper only considers rule based approaches to this problem.  We distinguish variables by uniquely typing them.  Consider Example . 

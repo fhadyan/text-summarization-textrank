@@ -1,0 +1,1 @@
+ Let P be a program and a query on the program.  We construct a new program P[mg   The arity is that of p.  The head is .  Create a seed fact magic_q( ) from the query.  I discuss two filter optimizations. 

@@ -1,0 +1,1 @@
+ Grammatical theories always make a distinction between unmarked and marked phenomena.  The general case is to use certain mechanisms which are likely to deal with regular behaviour.  More complex mechanisms should be available when exceptional behaviour is present.  Non-constituent coordination treatments show this pattern. 

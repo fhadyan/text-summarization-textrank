@@ -1,0 +1,1 @@
+ This treebank is described in great detail in ..  On this same test set, SPATTER scored 76 .  Thus, it can consider very large history spaces, i.e..  For more discussion of the use of binary decision-tree questions, see .. 

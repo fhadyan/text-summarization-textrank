@@ -1,0 +1,1 @@
+ , , .  In the last two paragraphs we sketch some ongoing work.  Multiplication is used here because acoustic and lexicosyntactic likelihoods for a word or constituent would appear to be more nearly fully independent than fully dependent, being based on very different kinds of information. 

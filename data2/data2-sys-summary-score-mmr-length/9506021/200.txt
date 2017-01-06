@@ -1,0 +1,1 @@
+ There is no such sequence in the PP-attachment problem, and because of this there are four possible triples when backing off from quadruples v,n1,p (v,p,n2 (n1,p,n2) and (v,n1,n2 and six possible pairs when backing off from triples v,p (n1,p (p,n2 (v,n1 (v,n2) and (n1,n2  

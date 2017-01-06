@@ -1,0 +1,1 @@
+ sign(X) lexical_sign(X .  principles(X,HD,CD) constituent_order_principle(X,HD,CD head_feature_principle(X,HD .  constituent_order_principle(phon:X_Ph, phon:HD_Ph, phon:CD_Ph) sequence_union(CD_Ph,HD_Ph,X_Ph . 

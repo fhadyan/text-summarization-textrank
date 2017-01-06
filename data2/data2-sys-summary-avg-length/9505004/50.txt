@@ -1,0 +1,1 @@
+ U is a set; 2..  unification failure .  of type .  The semantics of DATR is then covered in two stages..  That is: The set is referred to as the definition of N(in .  In order to understand the use of global (i.e.. 

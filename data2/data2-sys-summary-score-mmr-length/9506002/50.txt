@@ -1,0 +1,1 @@
+ This paper is structured as follows.  Its interpretation is defined by .  A V1-V2-substitution is a mapping from V1 to .  Note that , and that if .  In symbols, .  The trees of are called ground trees.  All three are undecidable , , . 

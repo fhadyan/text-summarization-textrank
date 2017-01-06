@@ -1,0 +1,1 @@
+ The training algorithm proceeds as follows.  This will be the subject of future experiments.  In fact, they are equivalent in representational power.  What is the word being tagged? 2.  n-gram models with very large n.  relative-frequency counts from the training data. 

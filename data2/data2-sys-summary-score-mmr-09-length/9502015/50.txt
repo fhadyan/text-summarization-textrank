@@ -1,0 +1,1 @@
+ To illustrate, Partee and Rooth assume that extensional verbs such as find are entered in the lexicon with basic type , whereas intensional verbs like want, which require a quantifier as an argument, have type (ignoring intensionality   Following Dalrymple et al. 

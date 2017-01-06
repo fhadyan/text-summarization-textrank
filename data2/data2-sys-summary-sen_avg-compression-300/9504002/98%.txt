@@ -1,0 +1,1 @@
+ HMM taggers often perform poorly on unknown words N Number: singular, plural Summarising the patterns: Swedish Larger tagset generally gives higher accuracy For unknown words, smaller tagsets give higher accuracy French For ambiguous words, the pattern and accuracy were similar to first experiment Unknown words show a weak tendency to give higher accuracy on smaller tagsets

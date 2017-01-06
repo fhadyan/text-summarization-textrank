@@ -1,0 +1,1 @@
+ The syntactic rules in Gsyn relate `category' predicates c0, c1, c2holding of a string and two spanning substrings (we limit the rules here to two daughters for simplicity (Here, and subsequently, variables like s0 and s1 are implicitly universally quantified Gsyn also includes lexical axioms for particular strings wconsisting of single words: c1(w  

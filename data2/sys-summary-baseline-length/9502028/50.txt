@@ -1,0 +1,1 @@
+ A robust Natural Language Processing (NLP) system must be able to process sentences that contain words unknown to its lexicon.  The underlying linguistic framework plays a critical role in lexical acquisition.  This paper explores lexical acquisition in a framework without phrase structure rules. 

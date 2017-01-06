@@ -1,0 +1,1 @@
+ What is a suitable function F, also called optimisation criterion? Given a classification function G, the probabilities pG(w|v) of equation can be estimated using the maximum likelihood (ML) estimator, e.g.  Moreover, infrequent words (e.g. 

@@ -1,0 +1,1 @@
+ The tags used in the ELWIS tag set are given in table  The test text used to evaluate the German model described in section has an ambiguity rate of 151 tags for each word in the text French language model for the Xerox tagger For the French text the tag set described in with 37 different tags is used

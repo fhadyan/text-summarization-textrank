@@ -1,0 +1,1 @@
+ The process was repeated recursively on each dialect.  The first deals with distance matrices.  The second deals with clustering.  The data for my study were taken from Wagner 1958.  This baseline was compared to several other approaches.  same-word feature string comparisons. 

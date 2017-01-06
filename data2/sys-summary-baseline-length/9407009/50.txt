@@ -1,0 +1,1 @@
+ Most spoken language translation systems rely on a pipelined architecture, including speech recognition, linguistic analysis, transfer, generation and speech synthesis.  A major advantage is that components can be developed and tested independently.  The rest of the paper is structured as follows. 

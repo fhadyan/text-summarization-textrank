@@ -1,0 +1,1 @@
+ Prepositional phrase attachment is a common cause of structural ambiguity in natural language.  For example take the following sentence: Pierre Vinken, 61 years old, joined the board as a nonexecutive director.  In addition, a development set of 4039 quintuples was also supplied. 

@@ -1,0 +1,1 @@
+ We must first emphasize that our objectives in this paper are not general considerations about context or the theory of context, but that they are guided by the particular goals of a specific project.  K-context can be taken as the domain ontology for these texts. 

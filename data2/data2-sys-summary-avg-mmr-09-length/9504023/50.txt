@@ -1,0 +1,1 @@
+ Also the performance is usually no better than the statistical counterparts [   The accuracy is calculated from the formula: .  The rest of the sections are organized as follows.  For single morpheme, a path name in the POS symbol hierarchy (e.g. 

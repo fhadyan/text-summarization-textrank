@@ -42,7 +42,7 @@ def PythonROUGE(guess_summ_list,ref_summ_list,ngram_order=2):
 #     ROUGE_path = '/home/ubuntu/Downloads/RELEASE-1.5.5/ROUGE-1.5.5.pl'
 #     data_path = '/home/ubuntu/Downloads/RELEASE-1.5.5/data'
 #==============================================================================
-    ROUGE_path = 'D:/data/sts/toolkit/RELEASE-1.5.5'
+    ROUGE_path = 'D:/data/sts/toolkit/RELEASE-1.5.5/ROUGE-1.5.5.pl'
     data_path = 'D:/data/sts/toolkit/RELEASE-1.5.5/data'
     
     # these are the options used to call ROUGE
@@ -75,16 +75,23 @@ def PythonROUGE(guess_summ_list,ref_summ_list,ngram_order=2):
     precision_list = list()
     F_measure_list = list()
     ROUGE_output_file = open(ROUGE_output_path,'r')
-    for n in range(ngram_order):
+    print("ok")
+    print(ROUGE_output_path)
+    #for n in range(ngram_order):
+    range_rouge=['1','2','L','W-1.2'] ###
+    for n in range_rouge: ###
         ROUGE_output_file.seek(0)
         for line in ROUGE_output_file:
-            match = re.findall('X ROUGE-' + str(n+1) + ' Average_R: ([0-9.]+)',line)
+            #match = re.findall('X ROUGE-' + str(n+1) + ' Average_R: ([0-9.]+)',line)
+            match = re.findall('X ROUGE-' + n + ' Average_R: ([0-9.]+)',line)
             if match != []:
                 recall_list.append(float(match[0]))
-            match = re.findall('X ROUGE-' + str(n+1) + ' Average_P: ([0-9.]+)',line)
+            #match = re.findall('X ROUGE-' + str(n+1) + ' Average_P: ([0-9.]+)',line)
+            match = re.findall('X ROUGE-' + n + ' Average_P: ([0-9.]+)',line)
             if match != []:
                 precision_list.append(float(match[0]))
-            match = re.findall('X ROUGE-' + str(n+1) + ' Average_F: ([0-9.]+)',line)
+            #match = re.findall('X ROUGE-' + str(n+1) + ' Average_F: ([0-9.]+)',line)
+            match = re.findall('X ROUGE-' + n + ' Average_F: ([0-9.]+)',line)
             if match != []:
                 F_measure_list.append(float(match[0]))
     ROUGE_output_file.close()

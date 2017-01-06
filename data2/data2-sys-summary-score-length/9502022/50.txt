@@ -1,0 +1,1 @@
+ We plan to follow up the current work by training and testing a suitable instantiation of our framework against manually annotated corpora..  It is going to turn out that an exactly analogous system of accessibility relations is present in the probabilistic type hierarchies which we define later.. 

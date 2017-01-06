@@ -1,0 +1,1 @@
+ As output, MILL produces two interrelated structures, constituting its discoveries: (1) a set of the causally related facts; (2) an elementary form of explanation for the system's reasoning behaviour, comprising the methods employed to draw a conclusion, as well as the data used to this end. 

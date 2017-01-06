@@ -1,0 +1,1 @@
+ This completes the proof.  Figure illustrates this proof-logical behaviour.  We call this fragment SDLM.  languages, this observation extends to SDLM.  Example.  It is given in Figure .  that it is at the same time an SDLM grammar.  Here is our reduction. 

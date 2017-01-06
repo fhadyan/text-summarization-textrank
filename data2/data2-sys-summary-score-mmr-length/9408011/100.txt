@@ -1,0 +1,1 @@
+ Given any similarity measure d(n,c) between nouns and cluster centroids, the average cluster distortion is If we maximize the cluster membership entropy subject to normalization of p(n|c) and fixed ( we obtain the following standard exponential forms for the class and membership distributions where the normalization sums (partition functions) are and . 

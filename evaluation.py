@@ -3,9 +3,9 @@ import os
 import numpy as np
 import csv
 
-def evaluate(sysdir, evalname):
-    refdir = 'data/summary/'
-    evaldir = 'data/eval/'
+def evaluate(sysdir, evalname,refdir,evaldir):
+    #refdir = 'data/summary/'
+    #evaldir = 'data/eval/'
     evalfile = open(evaldir+evalname, 'w')
     evalcsv = csv.writer(evalfile, quoting=csv.QUOTE_ALL)
     
@@ -29,9 +29,9 @@ def evaluate(sysdir, evalname):
             r,p,f = PythonROUGE.PythonROUGE(sys_summ,ref_summ,ngram_order=2)
             # print(syssumm+' =  r:'+str(r)+'; p:'+str(p)+'; f:'+str(f))
             evalcsv.writerow([syssumm, str(r), str(p), str(f)])
-            tempf.append(f[1])
-            tempr.append(r[1])
-            tempp.append(p[1])
+            tempf.append(f[0])
+            tempr.append(r[0])
+            tempp.append(p[0])
             names.append(syssumm)
         fmeasure2.append(tempf)
         recall2.append(tempr)
@@ -46,10 +46,12 @@ def evaluate(sysdir, evalname):
     evalcsv.writerow(['System Overall', 'recall', 'precision', 'f-measure'])
     for i,x in enumerate(names):
         # print(str(x[:-4])+"  :" + str(np.sum(f12[:,i])/len(f12)) + '; '+ str(np.sum(r12[:,i])/len(r12)) + '; '+ str(np.sum(p12[:,i])/len(p12)) + '; ')
-        evalcsv.writerow([str(x[:-4]), str(np.sum(f12[:,i])/len(f12)), str(np.sum(r12[:,i])/len(r12)), str(np.sum(p12[:,i])/len(p12))])
+        evalcsv.writerow([str(x[:-4]), str(np.sum(r12[:,i])/len(r12)), str(np.sum(p12[:,i])/len(p12)), str(np.sum(f12[:,i])/len(f12))])
         
 
-        
-sysdir = 'data/sys-summary/'
-evalname = 'sys1.csv'
-evaluate(sysdir,evalname)
+if __name__ == "__main__": 
+    sysdir = 'data/sys-summary-baseline-length/'
+    refdir = 'data/summary/'
+    evalname = 'data1-sys-summary-baseline-length-eval1.csv'
+    evaldir = 'data/eval/'
+    evaluate(sysdir,evalname,refdir,evaldir)

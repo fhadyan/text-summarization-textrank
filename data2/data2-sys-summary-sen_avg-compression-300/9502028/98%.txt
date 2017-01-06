@@ -1,0 +1,1 @@
+ Given a sentence with unknown words the disjuncts of unknown words are determined based upon the syntactic constraints of the known words in the sentence For instance suppose that snipe is an unknown word in the sentence: The snipe eats meat  The next word considered is `eats  S2: The condor eats meat

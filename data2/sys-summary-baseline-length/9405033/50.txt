@@ -1,0 +1,1 @@
+ General-purpose natural language (NL) analysis systems have recently started to use declarative unification-based sentence grammar formalisms; systems of this type include SRI's CLARE system (Alshawi et al 1992) and the Alvey NL Tools (ANLT; Briscoe et al 1987a   N N N  

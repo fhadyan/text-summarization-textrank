@@ -1,0 +1,1 @@
+ For each text we performed two tagging experiments.  There we tagged a text of 5,970 words.  Then we tagged the same text using the small lexicon.  A statistical-based suffix learner is presented in .  Here we present an extension to accommodate such cases. 

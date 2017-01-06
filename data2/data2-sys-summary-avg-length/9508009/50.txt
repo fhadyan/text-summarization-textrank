@@ -1,0 +1,1 @@
+ These notions are formalised in Definition ..  We believe this represents an improvement on previous attempts..  The architecture proposed seems promising..  gapping, ) and expansion (e.g..  right dislocation, .  See for a survey..  They cannot even simulate truth-tables in polynomial time.. 

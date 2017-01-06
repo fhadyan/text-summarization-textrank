@@ -1,0 +1,1 @@
+ Recently various methods for automatically constructing a thesaurus (hierarchically clustering words) based on corpus data have been proposed , , , .  In this paper, we propose a new method for automatic construction of thesauri.  We empirically evaluated the effectiveness of our method. 

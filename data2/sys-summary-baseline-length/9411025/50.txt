@@ -1,0 +1,1 @@
+ In the past years, multiple inheritance has been increasingly used for the description of natural languages.  As an example of this type of analysis, figure shows a recent HPSG description of English clauses.  Section applies multi-dimensional inheritance to the problem of systemic classification. 

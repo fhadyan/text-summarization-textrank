@@ -1,0 +1,1 @@
+ In Table 1 some results of that experiment are shown..  Two types of mis-taggings caused by the guessers occured..  The learning is implemented as a two-staged process with feedback..  Both the software and the produced guessing rule-sets are available by contacting the author.. 

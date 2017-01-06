@@ -1,0 +1,1 @@
+ This reformulation is intended to a) keep the binary rules arrangement to allow easy formulation of the generic rule, and b) take into account the asymmetry between the formation process for the right and the left coordinated conjuncts ..  Non-constituent coordination treatments show this pattern.. 

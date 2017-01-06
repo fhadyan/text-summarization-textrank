@@ -1,0 +1,1 @@
+ The experiments reported in the current article continue a line of research in the field of part-of-speech tagging using self-organizing models that was presented at the previous (9th) Scandinavian Conference on Computational Linguistics.  Section describes the HMM-based tagger and Section the reductionistic statistical one. 

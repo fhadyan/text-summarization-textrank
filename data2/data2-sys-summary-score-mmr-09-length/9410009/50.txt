@@ -1,0 +1,1 @@
+ We consider one case briefly.  Merged LFs are intended to be used in cases where a value lexeme exists which appears to effectively reduce merge an LF meaning and its specified argument to a single lexicalised form, rather than projecting a syntagmatic unit. 

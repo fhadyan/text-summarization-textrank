@@ -1,0 +1,1 @@
+ Most of the sentences for which LR performance is worse contain more than one occurrence of the passive construction: due to their length this is particularly the case for the group of sentences of 28-30 words with which the LR parser performed particularly badly.  N N N  

@@ -1,0 +1,1 @@
+ Although Gorrell proposes a general principle to guide initial attachment decisions (Simplicity: No vacuous structure building and specifies the conditions under which unconscious reanalysis may occur, the model leaves unspecified the problem of how the system may be implemented. 

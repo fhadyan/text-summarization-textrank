@@ -1,0 +1,1 @@
+ Examples are: 1.  if (y,f,s) and (y,f,t) are in E, then s=t; 2.  Definition thedefctr: 1.  disjunctions and negations are out   the root node of T is start, and 2.  is in the set F.  the daughters of v that are leaves are labeled with , and 4.  In , it is shown that the recognition problem for R-AVGs is -complete.  There exists an R-AVG G such that L=L(G  

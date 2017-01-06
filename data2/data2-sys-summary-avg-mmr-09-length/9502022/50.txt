@@ -1,0 +1,1 @@
+ Our techniques apply to the feature structures described by Carpenter .  On the basis of the usefulness of probabilistic context-free grammars , ch.  The paper is structured as follows.  This can be done, and the method which we adopt has the merit of simplicity. 

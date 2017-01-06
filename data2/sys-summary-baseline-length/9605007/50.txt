@@ -1,0 +1,1 @@
+ Intrasentential antecedents, i.e antecedents occurring in the same sentence as the anaphor, are a crucial issue for the anaphora resolution method.  The main problem is to determine the constraints that intrasentential phrases must respect in anaphoric relations.  and Dentsu Inc.  and Dentsu Inc. 

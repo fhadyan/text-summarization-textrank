@@ -1,0 +1,10 @@
+
+The usefulness of a statistical approach suggested by Church et al. (1991) is evaluated for the extraction of verb-noun (V-N) collocations
+from German text corpora. Some problematic issues of that method
+arising from properties of the German language are discussed and
+various modifications of the method are considered that might improve
+extraction results for German. The precision and recall of all variant
+methods is evaluated for V-N collocations containing support verbs,
+and the consequences for further work on the extraction of
+collocations from German corpora are discussed.
+With a sufficiently large corpus (

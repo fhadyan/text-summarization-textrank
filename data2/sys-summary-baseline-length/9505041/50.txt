@@ -1,0 +1,1 @@
+ Because traditional notions of language complexity are generally defined in terms of rewriting mechanisms, complexity of the languages licensed by these formalisms can be difficult to determine.  A particular example, one that will be a focus of this paper, is Government and Binding Theory. 
