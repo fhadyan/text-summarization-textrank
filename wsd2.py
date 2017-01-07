@@ -40,12 +40,12 @@ def wsd(summpath, wsdpath):
             text = f.readlines()
             text = [re.sub(r'^\s+|\s+$','',x) for x in text if len(x)>3]
             nertext = []
+            sentencewsd=copy.deepcopy(text)
             for ids,sentence in enumerate(text):
                 '''
                 ids=0
                 sentence=text[ids]
                 '''
-                sentencewsd=copy.deepcopy(sentence)
                 word = sentence.split()
                 word = [re.sub(r'[\,]','',x) for x in word]
                 word = [re.sub(r'(?<=\w)[\.]','',x) for x in word]
@@ -77,20 +77,20 @@ def wsd(summpath, wsdpath):
                                 syn_lemma = [[len(x[1]),x[1]] for x in syn_lemma]
                             syn_lemma = sorted(syn_lemma , reverse=True)
                             if(lemmatize(syn[0].lower())!=syn_lemma[0][1]):
-                                sentencewsd = re.sub(r''+syn[0],syn_lemma[0][1],sentencewsd )
-                    textwsd.append(sentencewsd)
+                                sentencewsd[ids] = re.sub(r''+syn[0],syn_lemma[0][1],sentencewsd[ids] )
+                    textwsd.append(sentencewsd[ids])
                 outDirectory = wsdpath+dirpath+'/'
                 if not os.path.exists(outDirectory):
                     os.makedirs(outDirectory)
-                fout = open(outDirectory+str(zipf)+'-'+compathdir,'w',encoding='utf-8')
-                fout.writelines(textwsd)
-                fout.close()
+                #fout = open(outDirectory+str(zipf)+'-'+compathdir,'w',encoding='utf-8')
+                #fout.writelines(textwsd)
+                #fout.close()
 
                         
                     
             
     
 if __name__ == "__main__":
-    summpath = "data/data1-sys-summary-sen_avg-compression-10/"
-    wsdpath = "data/data1-sys-summary-sen_avg-compression-10-wsd2/"
+    summpath = "data/data1-sys-summary-sen_avg-compression-300-mmr-9/"
+    wsdpath = "data/data1-sys-summary-sen_avg-compression-1-mmr-9-wsd2/"
     wsd(summpath,wsdpath)

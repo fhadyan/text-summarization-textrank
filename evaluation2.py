@@ -63,8 +63,8 @@ def evaluate(sysdir, evalname,refdir,evaldir):
       
 
 if __name__ == "__main__": 
-    sysdir = 'data/data1-sys-summary-sen_avg-compression-10-wsd2/'
+    sysdir = 'data/data1-sys-summary-sen_avg-compression-300-mmr-9-wsd2/'
     refdir = 'data/summary/'
-    evalname = 'data1-sys-summary-sen_avg-compression-10-wsd2-eval2.csv'
+    evalname = 'data1-sys-summary-sen_avg-compression-300-mmr-9-wsd2.csv'
     evaldir = 'data/eval/'
     evaluate(sysdir,evalname,refdir,evaldir)

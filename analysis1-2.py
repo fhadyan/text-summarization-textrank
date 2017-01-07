@@ -19,8 +19,8 @@ from summarizing import sentence_weight
 from summarizing import generate_summary_bylength_mmr
 from summarizing import generate_summary_bycompression_mmr
 
-summary_path = 'data/data1-sys-summary-sen_avg-compression-10/'
-wsd_path = 'data/data1-sys-summary-sen_avg-compression-10-wsd2/'
+summary_path = 'data/data1-sys-summary-sen_avg-compression-300-mmr-9/'
+wsd_path = 'data/data1-sys-summary-sen_avg-compression-300-mmr-9-wsd2/'
 reference_path = 'data/summary/'
 
 analysis_path = 'data/analysis/'

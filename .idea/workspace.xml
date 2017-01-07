@@ -2,75 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="addff30c-e625-4105-b90b-9ac4253d116c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000c835555db62e319854d9f8912061cdca1893e/70%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000c835555db62e319854d9f8912061cdca1893e/80%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000c835555db62e319854d9f8912061cdca1893e/85%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000c835555db62e319854d9f8912061cdca1893e/90%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000c835555db62e319854d9f8912061cdca1893e/95%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/70%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/80%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/85%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/90%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/95%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000cd1ee0098c4d510a03ddc97d11764448ebac2/70%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000cd1ee0098c4d510a03ddc97d11764448ebac2/80%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000cd1ee0098c4d510a03ddc97d11764448ebac2/85%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000cd1ee0098c4d510a03ddc97d11764448ebac2/90%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000cd1ee0098c4d510a03ddc97d11764448ebac2/95%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000e009f6b1d954d827c9a550f3f24a5474ee82b/70%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000e009f6b1d954d827c9a550f3f24a5474ee82b/80%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000e009f6b1d954d827c9a550f3f24a5474ee82b/85%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000e009f6b1d954d827c9a550f3f24a5474ee82b/90%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/000e009f6b1d954d827c9a550f3f24a5474ee82b/95%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a2aef1e18d125960da51e167a3d22ed8416c09/70%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a2aef1e18d125960da51e167a3d22ed8416c09/80%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a2aef1e18d125960da51e167a3d22ed8416c09/85%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a2aef1e18d125960da51e167a3d22ed8416c09/90%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a2aef1e18d125960da51e167a3d22ed8416c09/95%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a308681faf9c82a0e62a89b21fcdefb84b88fa/70%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a308681faf9c82a0e62a89b21fcdefb84b88fa/80%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a308681faf9c82a0e62a89b21fcdefb84b88fa/85%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a308681faf9c82a0e62a89b21fcdefb84b88fa/90%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a308681faf9c82a0e62a89b21fcdefb84b88fa/95%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a340f3a884fcbdad7c0399782d9ca9d2d68ef7/70%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a340f3a884fcbdad7c0399782d9ca9d2d68ef7/80%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a340f3a884fcbdad7c0399782d9ca9d2d68ef7/85%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a340f3a884fcbdad7c0399782d9ca9d2d68ef7/90%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a340f3a884fcbdad7c0399782d9ca9d2d68ef7/95%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a39c134080b6f215a81c15d46c3ac7cc7bdcf3/70%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a39c134080b6f215a81c15d46c3ac7cc7bdcf3/80%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a39c134080b6f215a81c15d46c3ac7cc7bdcf3/85%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a39c134080b6f215a81c15d46c3ac7cc7bdcf3/90%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a39c134080b6f215a81c15d46c3ac7cc7bdcf3/95%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a51966da4726dc1a3fc7b8c148866a9a23581a/70%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a51966da4726dc1a3fc7b8c148866a9a23581a/80%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a51966da4726dc1a3fc7b8c148866a9a23581a/85%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a51966da4726dc1a3fc7b8c148866a9a23581a/90%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a51966da4726dc1a3fc7b8c148866a9a23581a/95%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a51d5454f2ef7dbf4c53471223a27fb9c20681/70%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a51d5454f2ef7dbf4c53471223a27fb9c20681/80%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a51d5454f2ef7dbf4c53471223a27fb9c20681/85%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a51d5454f2ef7dbf4c53471223a27fb9c20681/90%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a51d5454f2ef7dbf4c53471223a27fb9c20681/95%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a570272e671a8fad94ffe0927a04c1bfc4110e/70%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a570272e671a8fad94ffe0927a04c1bfc4110e/80%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a570272e671a8fad94ffe0927a04c1bfc4110e/85%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a570272e671a8fad94ffe0927a04c1bfc4110e/90%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a570272e671a8fad94ffe0927a04c1bfc4110e/95%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a57bef588a7e7efd0438fba62f07356c59b036/70%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a57bef588a7e7efd0438fba62f07356c59b036/80%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a57bef588a7e7efd0438fba62f07356c59b036/85%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a57bef588a7e7efd0438fba62f07356c59b036/90%.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a57bef588a7e7efd0438fba62f07356c59b036/95%.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ROUGE_result.txt" afterPath="$PROJECT_DIR$/ROUGE_result.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data-explore/ref.txt" afterPath="$PROJECT_DIR$/data-explore/ref.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data-explore/sys.txt" afterPath="$PROJECT_DIR$/data-explore/sys.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/analysis/analysis1-4.csv" afterPath="$PROJECT_DIR$/data/analysis/analysis1-4.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/eval/data1-sys-summary-baseline-compression-3000-eval2.csv" afterPath="$PROJECT_DIR$/data/eval/data1-sys-summary-baseline-compression-3000-eval2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analysis1-2.py" afterPath="$PROJECT_DIR$/analysis1-2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/analysis/analysis1-2-a.csv" afterPath="$PROJECT_DIR$/data/analysis/analysis1-2-a.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000c835555db62e319854d9f8912061cdca1893e/70%.txt" afterPath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000c835555db62e319854d9f8912061cdca1893e/70%.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000c835555db62e319854d9f8912061cdca1893e/80%.txt" afterPath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000c835555db62e319854d9f8912061cdca1893e/80%.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000c835555db62e319854d9f8912061cdca1893e/85%.txt" afterPath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000c835555db62e319854d9f8912061cdca1893e/85%.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000c835555db62e319854d9f8912061cdca1893e/90%.txt" afterPath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000c835555db62e319854d9f8912061cdca1893e/90%.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000c835555db62e319854d9f8912061cdca1893e/95%.txt" afterPath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000c835555db62e319854d9f8912061cdca1893e/95%.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/70%.txt" afterPath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/70%.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/80%.txt" afterPath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/80%.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/85%.txt" afterPath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/85%.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/90%.txt" afterPath="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-300-mmr-9/000ca3fc9d877f8d4bb2ebd1d6858c69be571fd8/90%.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-mmr-9.csv" afterPath="$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-mmr-9.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluation2.py" afterPath="$PROJECT_DIR$/evaluation2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pywsd/allwords_wsd.py" afterPath="$PROJECT_DIR$/pywsd/allwords_wsd.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsd2.py" afterPath="$PROJECT_DIR$/wsd2.py" />
     </list>
     <ignored path="text-summarization-textrank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,10 +32,10 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/text-summarization$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1483373496093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/text-summarization$analysis1.coverage" NAME="analysis1 Coverage Results" MODIFIED="1483695574564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/text-summarization$analysis1_2.coverage" NAME="analysis1-2 Coverage Results" MODIFIED="1483698910803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/text-summarization$wsd2.coverage" NAME="wsd2 Coverage Results" MODIFIED="1483702742542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/text-summarization$analysis1_2.coverage" NAME="analysis1-2 Coverage Results" MODIFIED="1483792537278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/text-summarization$baseline.coverage" NAME="baseline Coverage Results" MODIFIED="1483207431822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/text-summarization$evaluation2.coverage" NAME="evaluation2 Coverage Results" MODIFIED="1483699161519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/text-summarization$evaluation2.coverage" NAME="evaluation2 Coverage Results" MODIFIED="1483791517134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/text-summarization$main.coverage" NAME="main Coverage Results" MODIFIED="1483688766250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/text-summarization$baseline_compression.coverage" NAME="baseline-compression Coverage Results" MODIFIED="1483648455500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/text-summarization$wsd.coverage" NAME="wsd Coverage Results" MODIFIED="1483411862720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -107,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/evaluation2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="69" column="44" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
+              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -115,48 +61,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="analysis1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/analysis1.py">
+      <file leaf-file-name="data1-sys-summary-sen_avg-compression-300-mmr-9-wsd2.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-mmr-9-wsd2.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="90" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="analysis1-2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/analysis1-2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data2-sys-summary-sen_avg-compression-300.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data2/eval/data2-sys-summary-sen_avg-compression-300.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wsd2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wsd2.py">
+      <file leaf-file-name="analysis1-2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/analysis1-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7494199">
-              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.33178654">
+              <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data1-sys-summary-baseline-compression-300-eval2.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-baseline-compression-300-eval2.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data1-sys-summary-sen_avg-compression-300-mmr-9.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-mmr-9.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -244,10 +186,11 @@
         <option value="$PROJECT_DIR$/baseline-compression.py" />
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/data/data1-sys-summary-sen_avg-compression-10-wsd2/00a57bef588a7e7efd0438fba62f07356c59b036/90%.txt" />
-        <option value="$PROJECT_DIR$/analysis1-2.py" />
-        <option value="$PROJECT_DIR$/evaluation2.py" />
         <option value="$PROJECT_DIR$/pywsd/allwords_wsd.py" />
         <option value="$PROJECT_DIR$/wsd2.py" />
+        <option value="$PROJECT_DIR$/evaluation2.py" />
+        <option value="$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-mmr-9-wsd2.csv" />
+        <option value="$PROJECT_DIR$/analysis1-2.py" />
       </list>
     </option>
   </component>
@@ -315,7 +258,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pywsd" />
+              <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -332,7 +275,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.wsd2">
+  <component name="RunManager" selected="Python.analysis1-2">
     <configuration default="false" name="evaluation2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -625,9 +568,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.wsd2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.analysis1-2" />
         <item index="1" class="java.lang.String" itemvalue="Python.evaluation2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.analysis1-2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.wsd2" />
         <item index="3" class="java.lang.String" itemvalue="Python.analysis1" />
         <item index="4" class="java.lang.String" itemvalue="Python.main" />
       </list>
@@ -709,13 +652,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/body/00a340f3a884fcbdad7c0399782d9ca9d2d68ef7.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/data1-sys-summary-06-avg-length/00a340f3a884fcbdad7c0399782d9ca9d2d68ef7/100.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -974,22 +910,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-baseline-compression-300-eval2.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5916473">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-mmr-9.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1056,36 +976,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/evaluation2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="69" column="44" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analysis1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="90" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analysis1-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pywsd/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1104,14 +994,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data2/eval/data2-sys-summary-sen_avg-compression-300.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pywsd/allwords_wsd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1122,10 +1004,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wsd2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7494199">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.31554523">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/eval/data2-sys-summary-sen_avg-compression-300.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7099768">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2761021">
+          <caret line="28" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="90" selection-end-column="4" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-baseline-compression-300-eval2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-mmr-9.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eval/data1-sys-summary-sen_avg-compression-300-mmr-9-wsd2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluation2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis1-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33178654">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
