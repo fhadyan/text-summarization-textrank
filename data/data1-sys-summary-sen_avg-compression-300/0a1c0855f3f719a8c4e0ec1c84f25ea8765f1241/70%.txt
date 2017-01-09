@@ -1,8 +1,0 @@
-For U.S. mobile users, further wireless market consolidation is a good news/bad news situation.
-  It offers the promise of ubiquitous high-speed wireless broadband networks available in markets outside major metro areas, which would lessen the geographic aspect of the mobile digital divide.
-  A less competitive wireless market could mean wireless broadband won't get much cheaper.
-  About 56,000 customers abandoned T-Mobile USA last year, while Sprint, AT&T and Verizon Wireless all boosted their counts.
- Last week Bloomberg reported that Deutsche Telekom AG, the parent company of T-Mobile, is negotiating a possible sale of T-Mobile to Sprint Nextel Corp.
- Wireless Week noted: T-Mobile currently markets its HSPA+ network as 4G but lacks the bandwidth to deploy LTE or WiMAX. Sprint and T-Mobile use different network technology and operate on different spectrum bands, which would complicate a possible merger of the companies' wireless services.
-  So if the Sprint merger doesn't happen, T-Mobile does have options mainly leasing additional spectrum or access to other providers' networks, such as LightSquared, a wholesale-only wireless LTE network.
- 

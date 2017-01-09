@@ -1,0 +1,5 @@
+ A less competitive wireless market could mean wireless broadband won't get much cheaper.
+ Last week Bloomberg reported that Deutsche Telekom AG, the parent company of T-Mobile, is negotiating a possible sale of T-Mobile to Sprint Nextel Corp.
+ Wireless Week noted: T-Mobile currently markets its HSPA+ network as 4G but lacks the bandwidth to deploy LTE or WiMAX. Sprint and T-Mobile use different network technology and operate on different spectrum bands, which would complicate a possible merger of the companies' wireless services.
+  So if the Sprint merger doesn't happen, T-Mobile does have options mainly leasing additional spectrum or access to other providers' networks, such as LightSquared, a wholesale-only wireless LTE network.
+ 

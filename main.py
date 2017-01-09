@@ -20,9 +20,10 @@ from summarizing2 import generate_summary_bycompression_mmr
 import math
 
 # dataset 1
-l = [70,80,85,90,95]
+#l = [70,80,85,90,95]
+l = [80,85,90]
 # #l = [50,100,150,200]
-outDir = 'data/data1-sys-summary-sen_avg-compression-300/'
+outDir = 'data/data1-sys-summary-sen_avg-pos-compression-300/'
 if os.path.exists(outDir):
     shutil.rmtree(outDir)
     os.makedirs(outDir)
@@ -38,9 +39,12 @@ for idf,filen in enumerate(filens):
     filen=filens[idf]
     '''
     print(idf)
-    sentence, word, textlength = preprocess(path+filen,stops)
-    nodes = textrank(word)
-    sentences = sentence_weight(sentence,word,nodes)
+    fpath=path+filen
+    sentence, word, textlength, posword = preprocess(fpath,stops)
+    #nodes = textrank(word)
+    nodes = textrank(posword)
+    #sentences = sentence_weight(sentence,word,nodes)
+    sentences = sentence_weight(sentence,posword,nodes)
     #generate_summary_bylength(sentences,word,nodes,filen, outDir,l)
     generate_summary_bycompression(sentences,filen, outDir,l, textlength)
     #generate_summary_bylength_mmr(sentences,word,nodes,filen, outDir,l,0.7)

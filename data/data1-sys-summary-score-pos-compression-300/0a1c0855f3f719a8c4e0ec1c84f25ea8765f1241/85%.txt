@@ -1,0 +1,4 @@
+Furthermore, a T-Mobile/Sprint merger might be difficult for technical reasons.
+ Wireless Week noted: T-Mobile currently markets its HSPA+ network as 4G but lacks the bandwidth to deploy LTE or WiMAX. Sprint and T-Mobile use different network technology and operate on different spectrum bands, which would complicate a possible merger of the companies' wireless services.
+  So if the Sprint merger doesn't happen, T-Mobile does have options mainly leasing additional spectrum or access to other providers' networks, such as LightSquared, a wholesale-only wireless LTE network.
+ 

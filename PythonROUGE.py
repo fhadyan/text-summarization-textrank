@@ -75,8 +75,8 @@ def PythonROUGE(guess_summ_list,ref_summ_list,ngram_order=2):
     precision_list = list()
     F_measure_list = list()
     ROUGE_output_file = open(ROUGE_output_path,'r')
-    print("ok")
-    print(ROUGE_output_path)
+    #print("ok")
+    #print(ROUGE_output_path)
     #for n in range(ngram_order):
     range_rouge=['1','2','L','W-1.2'] ###
     for n in range_rouge: ###

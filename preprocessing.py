@@ -35,10 +35,17 @@ def preprocess(fpath,stops):
     word = [re.sub(r'[\s]{2,}',' ',x) for x in word]
     word = [x for x in word if len(x)>5]
     word = [nltk.word_tokenize(x) for x in word if len(x)>1]
+    posword = copy.deepcopy(word)
     word = [[x for x in y if len(x)>2] for y in word]
     word = [[x for x in y if x not in stops] for y in word]
 
-    return sentence, word, textlength
+    posword = [nltk.pos_tag(x) for x in posword]
+    posword = [[[x[0],x[1]] for x in y if len(x[0])>2] for y in posword]
+    posword = [[[x[0],x[1]] for x in y if x[0] not in stops] for y in posword]
+    #posword = [[[x[0],x[1]] for x in y if x[1][0:2] == 'NN' or x[1][0:2] == 'VB' ] for y in posword]
+    posword = [[x[0] for x in y if x[1][0:2] == 'NN' or x[1][0:2] == 'VB' ] for y in posword]
+
+    return sentence, word, textlength, posword
 
 
 if __name__ == "__main__":

@@ -4,7 +4,7 @@ import copy
 import nltk
 import re
 import numpy as np
-from pyrouge import Rouge155
+import PythonROUGE
 from pprint import pprint
 from numpy import genfromtxt
 import csv

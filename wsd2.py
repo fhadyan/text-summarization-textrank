@@ -19,10 +19,11 @@ from nltk.tag import StanfordNERTagger
 
 zipf_freq = [1,2,3,4,5]
 st = StanfordNERTagger('stanford-ner/classifiers/english.all.3class.distsim.crf.ser.gz','stanford-ner/stanford-ner.jar', encoding='utf-8')
+stops = stopwords.words('english')
 
 def wsd(summpath, wsdpath):
     summpathlist = os.listdir(summpath)
-    for idp,dirpath in enumerate(summpathlist):
+    for idp,dirpath in enumerate(summpathlist[0:1]):
         print(idp)
         '''
         idp=0
@@ -51,6 +52,7 @@ def wsd(summpath, wsdpath):
                 word = [re.sub(r'(?<=\w)[\.]','',x) for x in word]
                 ner =  st.tag(word)
                 ner = [x[0] for x in ner if x[1]=='O']
+                ner = [x for x in ner if x not in stops]
                 sentence = ' '.join(ner)
                 nertext.append(sentence)
             for zipf in zipf_freq:
@@ -75,16 +77,17 @@ def wsd(summpath, wsdpath):
                             syn_lemma = sorted(syn_lemma , reverse=True)
                             if syn_lemma[0][0]==0:
                                 syn_lemma = [[len(x[1]),x[1]] for x in syn_lemma]
-                            syn_lemma = sorted(syn_lemma , reverse=True)
+                                syn_lemma = sorted(syn_lemma , reverse=False)
                             if(lemmatize(syn[0].lower())!=syn_lemma[0][1]):
                                 sentencewsd[ids] = re.sub(r''+syn[0],syn_lemma[0][1],sentencewsd[ids] )
                     textwsd.append(sentencewsd[ids])
                 outDirectory = wsdpath+dirpath+'/'
                 if not os.path.exists(outDirectory):
                     os.makedirs(outDirectory)
-                #fout = open(outDirectory+str(zipf)+'-'+compathdir,'w',encoding='utf-8')
-                #fout.writelines(textwsd)
-                #fout.close()
+                fout = open(outDirectory+str(zipf)+'-'+compathdir,'w',encoding='utf-8')
+                fout.writelines(textwsd)
+                fout.flush()
+                fout.close()
 
                         
                     

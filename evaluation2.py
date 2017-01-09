@@ -12,7 +12,7 @@ def evaluate(sysdir, evalname,refdir,evaldir):
     dirnames = os.listdir(sysdir)
     systemsummary = dict()
     referencesummary = dict()
-    for newsname in dirnames:
+    for newsname in dirnames[0:50]:
         #newsname = dirnames[0]
         refsumm = refdir+newsname+'.txt'
         syssumms = os.listdir(sysdir+newsname)
@@ -38,6 +38,7 @@ def evaluate(sysdir, evalname,refdir,evaldir):
         '''
         x=systemsummary[0]
         '''
+        print(idx)
         r,p,f = PythonROUGE.PythonROUGE(systemsummary[x],referencesummary[x],ngram_order=2)
         ev.append([x,r,p,f])
     for i in range(0,len(ev)):
@@ -63,8 +64,8 @@ def evaluate(sysdir, evalname,refdir,evaldir):
       
 
 if __name__ == "__main__": 
-    sysdir = 'data/data1-sys-summary-sen_avg-compression-300-mmr-9-wsd2/'
+    sysdir = 'data/data1-sys-summary-sen_avg-compression-300-mmr-9/'
     refdir = 'data/summary/'
-    evalname = 'data1-sys-summary-sen_avg-compression-300-mmr-9-wsd2.csv'
+    evalname = 'data1-sys-summary-sen_avg-compression-50-mmr-9'+'-eval2.csv'
     evaldir = 'data/eval/'
     evaluate(sysdir,evalname,refdir,evaldir)
